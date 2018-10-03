@@ -1,0 +1,3442 @@
+{
+    "general": {
+        "% Transmittance" : {
+            
+            "message": "% Pengiriman"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(jarak, kecepatan, percepatan)"
+        },
+        ".CSV" : {
+            
+            "message": ".CSV"
+        },
+        "1 Graph" : {
+            
+            "message": "1 grafik"
+        },
+        "1st Derivative" : {
+            
+            "message": "1 Turunan"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": ""
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "1 Turunan(Y, X)"
+        },
+        "2 Graphs" : {
+            
+            "message": "2 Grafik"
+        },
+        "2nd derivative" : {
+            
+            "message": "Turunan kedua"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": ""
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "Turunan kedua(Y, X)"
+        },
+        "3 Graphs" : {
+            
+            "message": "3 Grafik"
+        },
+        "A / (B+X)" : {
+            
+            "message": "A / (B+X)"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A and B are parameters you can set. X and Y are existing columns in your data table." : {
+            
+            "message": "A dan B adalah parameter yang bisa di setting. X dan Y adalah kolom data dalam tabel anda."
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "Sebuah kesalahan komunikasi telah terjadi. Mulai eksperimen baru untuk melanjutkan."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "Komunikasi terhenti disebabkan karena pengambilan data terhenti. Lakukan sekali lagi."
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A-X" : {
+            
+            "message": "A-X"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Tentang"
+        },
+        "Absorbance" : {
+            
+            "message": "Penyerapan"
+        },
+        "Acceleration through gate" : {
+            
+            "message": "Akselerasi yang melalui gerbang"
+        },
+        "across" : {
+            
+            "message": "Menyebrang"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Tambahkan Judul Grafik disini"
+        },
+        "Add Annotation" : {
+            
+            "message": "Tambahkan Anotasi"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Tambahkan Kolom Perhitungan"
+        },
+        "Add Graph Match" : {
+            
+            "message": "ambahkan Grafik Pencocokan"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Tambahkan Kolom Secara Manual"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Tambahkan Lembaran Data Baru"
+        },
+        "Add Prediction" : {
+            
+            "message": "Tambahkan Prediksi"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Tambahkan titran setetes demi setetes melalui Drop Counter ke dalam silinder 10 mL."
+        },
+        "After" : {
+            
+            "message": "Setelah"
+        },
+        "After set number of flags" : {
+            
+            "message": "Setelah mengatur jumlah bendera"
+        },
+        "All Files" : {
+            
+            "message": "Semua data"
+        },
+        "An critical error has occurred. Please restart the application." : {
+            
+            "message": "Sebuah kesalahan fatal telah terjadi. Silakan restart aplikasi."
+        },
+        "and " : {
+            
+            "message": "dan "
+        },
+        "Angle units" : {
+            
+            "message": "Unit sudut"
+        },
+        "Angular Motion" : {
+            
+            "message": "Gerak Sudut"
+        },
+        "App is up to date" : {
+            
+            "message": "Aplikasi sudah terupdate"
+        },
+        "App Updates" : {
+            
+            "message": "Pembaruan Aplikasi"
+        },
+        "Appearance" : {
+            
+            "message": "Penampilan"
+        },
+        "Append" : {
+            
+            "message": "Menambahkan"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Tambahkan data tambahan ke data saat ini atau buat data baru?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Tambah atau Buat Baru?"
+        },
+        "Apply" : {
+            
+            "message": "Terapkan"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Terapkan kurva yang Sesuai"
+        },
+        "Area" : {
+            
+            "message": "Wilayah"
+        },
+        "Auto" : {
+            
+            "message": "Auto"
+        },
+        "Automatic" : {
+            
+            "message": "Otomatis"
+        },
+        "Autoscale" : {
+            
+            "message": "Skala otomatis"
+        },
+        "Average multiple measurements for each trial" : {
+            
+            "message": "Rata-rata beberapa pengukuran untuk setiap percobaan"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Rata-rata membaca sensor lebih dari 10 detik"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Rata-rata lebih dari 10 detik"
+        },
+        "Bar Tape" : {
+            
+            "message": "Tape Bar"
+        },
+        "Base" : {
+            
+            "message": "Dasar"
+        },
+        "Battery" : {
+            
+            "message": "Baterai"
+        },
+        "Battery Level" : {
+            
+            "message": "Level Baterai"
+        },
+        "Blocked and unblocked events" : {
+            
+            "message": "Event yang diblokir dan tidak diblokir"
+        },
+        "Blocked gate duration" : {
+            
+            "message": "Durasi gerbang yang diblokir"
+        },
+        "Blocked Time and the Blocked-Gate Duration is reported each time a gate is blocked." : {
+            
+            "message": "Waktu yang Diblokir dan Jangkauan Gerbang yang Diblokir dilaporkan setiap kali gerbang diblokir."
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Alat Bluetooth"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth tidak tersedia"
+        },
+        "Both" : {
+            
+            "message": "Keduanya"
+        },
+        "Bottom" : {
+            
+            "message": "Bawah"
+        },
+        "Calibrate" : {
+            
+            "message": "Kalibrasi"
+        },
+        "Calibrate Spectrophotometer" : {
+            
+            "message": "Mengkalibrasi Spectrophotometer"
+        },
+        "Calibrating..." : {
+            
+            "message": "Mengkalibrasi..."
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Kalibrasi reset berhasil"
+        },
+        "Calibration Type" : {
+            
+            "message": "Tipe Kalibrasi"
+        },
+        "Cancel" : {
+            
+            "message": "Batalkan"
+        },
+        "cancel" : {
+            
+            "message": "Dibatalkan"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Cart Picket Fence"
+        },
+        "Charging," : {
+            
+            "message": "Mengisi,"
+        },
+        "Check for Updates" : {
+            
+            "message": "Mengecek Update"
+        },
+        "Check For Updates" : {
+            
+            "message": "Mengecek Pembaruan"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Periksa sensor untuk kedipan LED"
+        },
+        "Checking for update..." : {
+            
+            "message": "Mengecek update..."
+        },
+        "Choose a Wavelength" : {
+            
+            "message": "Pilih panjang gelombang"
+        },
+        "Choose File" : {
+            
+            "message": "PIlih File"
+        },
+        "Clear" : {
+            
+            "message": "Hapus"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Tutup App dan Update Firmware"
+        },
+        "Closing" : {
+            
+            "message": "Menutup"
+        },
+        "Closing the application now may make your device permanently unusable." : {
+            
+            "message": "Menutup aplikasi sekarang mungkin membuat perangkat Anda tidak dapat digunakan secara permanen."
+        },
+        "Coefficient" : {
+            
+            "message": "Koefisien"
+        },
+        "Collect" : {
+            
+            "message": "Mengoleksi"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Mengoleksi data dari Sensor Vernier"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Mengumpulkan angka yang banyak dapat mempengaruhi kinerja."
+        },
+        "Column Options" : {
+            
+            "message": "Pilihan kolom"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Kolom akan dihapus pada semua lembar data. Penghapusan tidak dapat dibatalkan."
+        },
+        "Column X" : {
+            
+            "message": "Kolom X"
+        },
+        "Column Y" : {
+            
+            "message": "Kolom Y"
+        },
+        "Column Z" : {
+            
+            "message": "Kolom Z"
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Nilai yang Dipisahkan Koma"
+        },
+        "Concentration" : {
+            
+            "message": "Konsentrasi"
+        },
+        "Connect" : {
+            
+            "message": "Sambungkan"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Menghubungkan <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>."
+        },
+        "Connect a Spectrometer" : {
+            
+            "message": "Menghubungkan Spectrometer"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Hubungkan melalui Wifi ke Labquest 2 atau Logger Pro"
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Sambungkan ke perangkat nirkabel di bawah atau terhubung melalui USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Sambungkan ke perangkat nirkabel di bawah ini."
+        },
+        "connected" : {
+            
+            "message": "tersambung"
+        },
+        "Connected Devices" : {
+            
+            "message": "Hubungkan ke perangkat"
+        },
+        "Connection error" : {
+            
+            "message": "Sambungan Eror"
+        },
+        "Connection Lost" : {
+            
+            "message": "Koneksi hilang"
+        },
+        "Contact us at" : {
+            
+            "message": "Kontak kami di"
+        },
+        "Continue Update" : {
+            
+            "message": "Meneruskan Pembaruan"
+        },
+        "copy" : {
+            
+            "message": "Copy"
+        },
+        "Copy" : {
+            
+            "message": "Menyalin"
+        },
+        "Count Interval" : {
+            
+            "message": "menghitung Interval"
+        },
+        "Counts" : {
+            
+            "message": "Hitungan"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Buat Kumpulan Data baru"
+        },
+        "current file" : {
+            
+            "message": "file saat ini"
+        },
+        "Curve Fit" : {
+            
+            "message": "Kurva fit"
+        },
+        "Cut" : {
+            
+            "message": "Cut"
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Seting Koleksi Data"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags).  Starting collection again will start a new data set." : {
+            
+            "message": "Pengumpulan Data secara otomatis akan berhenti setelah semua gerbang memiliki jumlah pengukuran posisi yang diharapkan (sama dengan jumlah bendera). Memulai koleksi lagi akan memulai pengumpulan data baru."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Pengumpulan data akan berlanjut sampai Anda mengklik atau mentap Berhenti secara manual. Nilai posisi akan terus bertambah dengan nilai jarak sampai pengumpulan data berhenti."
+        },
+        "Data Set %d" : {
+            
+            "message": "Set Data %d"
+        },
+        "Data Set 1" : {
+            
+            "message": "Set Data 1"
+        },
+        "Data Set Name" : {
+            
+            "message": "Set Nama Data"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Nama data mempunyai %s limit karakter."
+        },
+        "Data Share" : {
+            
+            "message": "Pembagian data"
+        },
+        "Data Sharing" : {
+            
+            "message": "Pembagian data"
+        },
+        "Decimal Format" : {
+            
+            "message": "Format Desimal"
+        },
+        "Decimal Places" : {
+            
+            "message": "Tempat Desimal"
+        },
+        "decreasing" : {
+            
+            "message": "menurun"
+        },
+        "degrees" : {
+            
+            "message": ""
+        },
+        "Degrees (°)" : {
+            
+            "message": "Derajat (°)"
+        },
+        "Delete" : {
+            
+            "message": "Hapus"
+        },
+        "Delete Annotation" : {
+            
+            "message": "Menghapus Anotasi"
+        },
+        "Delete Column" : {
+            
+            "message": "Menghapus Kolom"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Menghapus kolom %s?"
+        },
+        "Delete Examine Tool" : {
+            
+            "message": "Menghapus Pemeriksa Alat"
+        },
+        "Delete Selection" : {
+            
+            "message": "Menghapus Seleksi"
+        },
+        "Device Error" : {
+            
+            "message": "Alatnya Eror"
+        },
+        "Device Information" : {
+            
+            "message": "Informasi alat"
+        },
+        "Disconnect" : {
+            
+            "message": "Memutuskan"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Perangkat Ditemukan"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Mencari Wireles/Alat"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Menampilkan Presisi"
+        },
+        "Distance between gates" : {
+            
+            "message": "Jarak antar gerbang"
+        },
+        "Do not disconnect your device." : {
+            
+            "message": "Jangan lepaskan perangkat Anda."
+        },
+        "Done" : {
+            
+            "message": "Selesai"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Unduh selesai. Pembaruan akan dipasang saat Anda menggunakan aplikasi"
+        },
+        "Download CSV" : {
+            
+            "message": "Dowcload CSV"
+        },
+        "Download Update" : {
+            
+            "message": "Mengunduh pembaruan"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Menggambar Prediksi"
+        },
+        "Drop Counting" : {
+            
+            "message": "Menghitung penurunan"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Menjatuhkan Pengukuran. Silakan mulai eksperimen baru dan gunakan tingkat pengumpulan data yang lebih lambat."
+        },
+        "Drops" : {
+            
+            "message": "Tetesan"
+        },
+        "Drops/mL" : {
+            
+            "message": "Tetesan/mL"
+        },
+        "duration" : {
+            
+            "message": "Durasi"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": ""
+        },
+        "e.g., Beer" : {
+            
+            "message": "Seperti Beer"
+        },
+        "e.g., Kinetics" : {
+            
+            "message": "Seperti kinetik"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Mengedit Opsi Grafik"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Memungkinkan bluetoth untuk tersambung ke sensor nirkabel."
+        },
+        "End Collection" : {
+            
+            "message": "Mengakhiri koleksi data"
+        },
+        "End data collection" : {
+            
+            "message": "Akhiri pengumpulan data"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Masukan Anotasi"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Masukan data melalui keyboard atau Copy/Paste"
+        },
+        "Enter first known value" : {
+            
+            "message": "Masukan nilai pertama yang diketahui"
+        },
+        "Enter second known value" : {
+            
+            "message": "Masukan nilai kedua yang diketahui"
+        },
+        "Enter the number of flags that will break the beam as the object passes through the gate. This setting assumes all flags are the same width." : {
+            
+            "message": "Masukkan jumlah bendera yang akan memecah sinar saat objek melewati gerbang. Pengaturan ini mengasumsikan semua bendera memiliki lebar yang sama."
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Masukkan volume titran yang tepat dari silinder"
+        },
+        "Equation" : {
+            
+            "message": "Persamaan"
+        },
+        "Error" : {
+            
+            "message": "Eror"
+        },
+        "Error details" : {
+            
+            "message": "Rincian Eror"
+        },
+        "Event" : {
+            
+            "message": "Peristiwa"
+        },
+        "Event Based" : {
+            
+            "message": "Berdasarkan Event"
+        },
+        "Event Mode" : {
+            
+            "message": "Mode Acara"
+        },
+        "Event Name" : {
+            
+            "message": "Nama Acara"
+        },
+        "Events with Entry" : {
+            
+            "message": "Peristiwa dengan entri"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Contoh: 192.168.1.10"
+        },
+        "Experiment Name" : {
+            
+            "message": "Nama Percobaan"
+        },
+        "Experiment name has %s character limit." : {
+            
+            "message": "Nama eksperimen %s sudah mencapai limit karakter."
+        },
+        "Experiments" : {
+            
+            "message": "Eksperimen"
+        },
+        "Exponent" : {
+            
+            "message": "Eksponen"
+        },
+        "Export" : {
+            
+            "message": "Ekspor"
+        },
+        "Export CSV Data" : {
+            
+            "message": "Ekspor data CSV"
+        },
+        "Expression" : {
+            
+            "message": "Ekspresi"
+        },
+        "File" : {
+            
+            "message": "File"
+        },
+        "File saved" : {
+            
+            "message": "File tersimpan"
+        },
+        "Filename" : {
+            
+            "message": "Nama File"
+        },
+        "Filter" : {
+            
+            "message": "Menyaring"
+        },
+        "Finish Calibration" : {
+            
+            "message": "Kalibrasi Selesai"
+        },
+        "Firmware" : {
+            
+            "message": "Firmware"
+        },
+        "Firmware Update in Progress" : {
+            
+            "message": "Pembaruan Firmware sedang Berjalan"
+        },
+        "Firmware Updater" : {
+            
+            "message": "Pembaruan Firmware"
+        },
+        "Flag Width" : {
+            
+            "message": ""
+        },
+        "Flags" : {
+            
+            "message": ""
+        },
+        "for assistance." : {
+            
+            "message": "Untuk bantuan."
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Untuk objek Vernier, jarak dan nomor bendera ditampilkan untuk objek yang dipilih. Untuk Bar Tape, masukkan jumlah bendera."
+        },
+        "Force Close" : {
+            
+            "message": "Paksa tutup"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Dari vernier.com"
+        },
+        "Full spectrum" : {
+            
+            "message": "Spektrum penuh"
+        },
+        "Full Spectrum" : {
+            
+            "message": "Spektrum penuh"
+        },
+        "Gate Separation" : {
+            
+            "message": ""
+        },
+        "Gate State" : {
+            
+            "message": ""
+        },
+        "Gate State only" : {
+            
+            "message": "Hanya gerbang saja"
+        },
+        "Gate timing" : {
+            
+            "message": "waktu portal"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "Peta Sensor GDX"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Direct Sensor"
+        },
+        "Graph" : {
+            
+            "message": "Grafik"
+        },
+        "Graph and Table" : {
+            
+            "message": "Grafik dan Tabel"
+        },
+        "Graph Image" : {
+            
+            "message": "Gambar Grafik"
+        },
+        "Graph Inset" : {
+            
+            "message": "Inset grafik"
+        },
+        "Graph Match" : {
+            
+            "message": "Mencocokan Grafik"
+        },
+        "Graph Options" : {
+            
+            "message": "Pilihan grafik"
+        },
+        "Graph Tools" : {
+            
+            "message": "Alat Grafik"
+        },
+        "Graph, Table and Meter" : {
+            
+            "message": "Grafik, Tabel dan Meter"
+        },
+        "Graphical Analysis will shut down during the update. Only devices connected by USB can be updated. If any sensors needing updates are currently connected wirelessly, connect them by USB before proceeding." : {
+            
+            "message": "Aplikasi Graphical Analysis akan ditutup selama update. Hanya perangkat yang terhubung dengan USB yang bisa diperbarui. Jika ada sensor yang memerlukan pembaruan saat ini terhubung tanpa kabel, hubungkan mereka dengan USB sebelum melanjutkan."
+        },
+        "Graphical Analysis<sup>™</sup> is a tool for science students to analyze graphs of data collected with <a href=\"http://www.vernier.com/til/2871/\" target=\"_blank\">Vernier sensors</a>, <a href=\"https://www.vernier.com/products/interfaces/labq2/\" target=\"_blank\">LabQuest<sup>®</sup> 2</a> interfaces, or <a href=\"https://www.vernier.com/products/software/lp/\" target=\"_blank\">Logger <i>Pro</i></a>." : {
+            
+            "message": "Graphical Analysis<sup>™</sup> merupakan alat bagi mahasiswa sains untuk menganalisa grafik data yang dikumpulkan <a href=\"http://www.vernier.com/til/2871/\" target=\"_blank\">Vernier sensors</a>, <a href=\"https://www.vernier.com/products/interfaces/labq2/\" target=\"_blank\">LabQuest<sup>®</sup> 2</a> interfaces, or <a href=\"https://www.vernier.com/products/software/lp/\" target=\"_blank\">Logger <i>Pro</i></a>."
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Mengidentifikasi"
+        },
+        "Import Video" : {
+            
+            "message": "Import video"
+        },
+        "Import video for a new experiment" : {
+            
+            "message": "Import video untuk percobaan baru"
+        },
+        "Import Video..." : {
+            
+            "message": "Mengimport Video..."
+        },
+        "increasing" : {
+            
+            "message": "meningkat"
+        },
+        "Insert a sample cuvette." : {
+            
+            "message": "Masukkan sampel cuvette."
+        },
+        "Insert Expression" : {
+            
+            "message": "Ekspresi masukan"
+        },
+        "Integral" : {
+            
+            "message": "Integral"
+        },
+        "Integration Time" : {
+            
+            "message": "Waktu Integrasi"
+        },
+        "Intercept" : {
+            
+            "message": "Mencegat"
+        },
+        "Interpolate" : {
+            
+            "message": "Menyisipkan"
+        },
+        "Interval" : {
+            
+            "message": "Interval"
+        },
+        "is" : {
+            
+            "message": "adalah"
+        },
+        "Keep" : {
+            
+            "message": "Menyimpan"
+        },
+        "Keep Point" : {
+            
+            "message": "Menyimpan Titik"
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "nilai yang diketahui harus berbeda untuk kalibrasi dua titik."
+        },
+        "Lab Ideas" : {
+            
+            "message": "Ide Lab"
+        },
+        "Left" : {
+            
+            "message": "Minimum"
+        },
+        "Linear Motion" : {
+            
+            "message": "Gerak linear"
+        },
+        "Lines" : {
+            
+            "message": "Baris"
+        },
+        "Manual" : {
+            
+            "message": "Manual"
+        },
+        "Manual Entry" : {
+            
+            "message": "Masuk Manual"
+        },
+        "Manually" : {
+            
+            "message": "Secara Manual"
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Mean" : {
+            
+            "message": "Rata-rata"
+        },
+        "Measurement" : {
+            
+            "message": "Pengukuran"
+        },
+        "Meter" : {
+            
+            "message": "Meter"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "min" : {
+            
+            "message": "menit"
+        },
+        "minutes" : {
+            
+            "message": "Menit"
+        },
+        "Mode" : {
+            
+            "message": "Mode"
+        },
+        "More" : {
+            
+            "message": "Lebih"
+        },
+        "More Options" : {
+            
+            "message": "Pilihan yang lain"
+        },
+        "ms" : {
+            
+            "message": "mili detik"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Beberapa, jarak yang seragam pada bendera di suatu objek digunakan untuk menentukan posisi objek ketika melewati photogate tersebut. Event yang pertama diblokir menentukan posisi nol. Peristiwa yang diblokir berikutnya meningkatkan posisi dengan nilai jarak. Data kecepatan dan akselerasi dihitung menggunakan derivatif pertama dan kedua dari posisi terhadap waktu."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Beberapa jarak yang seragam pada jari-jari roda digunakan untuk menentukan posisi sudut roda saat berputar. Event yang diblokir pertama menentukan sudut nol. Kejadian yang diblokir berikutnya meningkatkan sudut menjadi 2π / n radian, di mana n adalah jumlah jari-jari roda. Kecepatan sudut dan data akselerasi dihitung menggunakan turunan pertama dan kedua dari sudut terhadap waktu."
+        },
+        "My-File-Name" : {
+            
+            "message": "Nama File Saya"
+        },
+        "Name" : {
+            
+            "message": "Nama"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Nama tidak dapat melebihi %s karakter"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Kalibrasi baru digunakan sampai Anda memulai percobaan baru atau membuka file."
+        },
+        "New Experiment" : {
+            
+            "message": "Percobaan Baru"
+        },
+        "No Columns" : {
+            
+            "message": "Tidak ada kolom"
+        },
+        "No devices available" : {
+            
+            "message": "Tidak ada perangkat tersedia"
+        },
+        "No Devices Connected" : {
+            
+            "message": "Tidak ada alat terhubung"
+        },
+        "No sensor connected" : {
+            
+            "message": "Tidak ada sensor tersambung"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Tidak ada sumber yang terdeteksi. Pastikan sumber anda telah mengaktifkan Pembagian Data dan kedua alat sudah terhubung pada jaringan yang sama. Jika masalah terus berlanjut, Tentukan sumber secara manual dan hubungkan ke sumber Pembagian Data anda."
+        },
+        "No Spectrometer Connected" : {
+            
+            "message": "Tidak ada Spectrometer tersambung"
+        },
+        "No spectrometer connected." : {
+            
+            "message": "Tidak ada spektrometer yang terhubung."
+        },
+        "Note: For best results, % transmittance values should be between 10% and 95%." : {
+            
+            "message": "Catatan: Untuk hasil terbaik,% nilai transmitansi harus antara 10% dan 95%."
+        },
+        "Note: For best results, absorbance values should be between 0.1 and 1.0." : {
+            
+            "message": "Catatan: Untuk hasil terbaik, nilai absorbans harus antara 0,1 dan 1.0."
+        },
+        "Number of flags" : {
+            
+            "message": "Jumlah bendera"
+        },
+        "Number of spokes" : {
+            
+            "message": "Jumlah jari-jari"
+        },
+        "Object" : {
+            
+            "message": "Objek"
+        },
+        "Object Width" : {
+            
+            "message": ""
+        },
+        "Offline" : {
+            
+            "message": "Offline"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "On a triggering event" : {
+            
+            "message": "Pada peristiwa yang dipicu"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "Pada Labquest, tap Simbol Wifi"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Pada Logger Pro, Masuk ke File -> Pembagian Data"
+        },
+        "One-point calibration" : {
+            
+            "message": "kalibrasi satupoin"
+        },
+        "Open File From Your Computer" : {
+            
+            "message": "Buka file pad komputer anda"
+        },
+        "Open Saved File" : {
+            
+            "message": "Membuka file tersimpan"
+        },
+        "Open..." : {
+            
+            "message": "Membuka..."
+        },
+        "or drag and drop a file into the app" : {
+            
+            "message": "atau tarik dan simpan file ke aplikasi"
+        },
+        "Order Code" : {
+            
+            "message": "Kode Order"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Yang lainnya / Ditetapkan pengguna"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Yang lain / Ditetapkan Pengguna: Masukkan spasi dan nomor bendera seperti yang ditunjukkan di atas. Jika objek Anda adalah roda, nilai jarak akan menjadi keliling roda dibagi dengan jumlah jari-jari."
+        },
+        "Parameter A" : {
+            
+            "message": "A parameter"
+        },
+        "Parameter B" : {
+            
+            "message": "B Parameter"
+        },
+        "Paste" : {
+            
+            "message": "paste"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Periode Pendulum"
+        },
+        "Perform a" : {
+            
+            "message": "Melakukan"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Tempo photogate"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Photogate dapat mengatur waktu objek yang melewati gerbang atau melaporkan periode osilasi pendulum. Waktu antara peristiwa yang diblokir berturut-turut dilaporkan sebagai waktu interval. Ketika tepat dua gerbang digunakan, kedua gerbang harus diblokir sebelum nilai dilaporkan."
+        },
+        "Place a blank cuvette in the device." : {
+            
+            "message": "Tempatkan cuvette kosong di perangkat."
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Masukan sumber alamat IP:"
+        },
+        "Plug in a Go Direct device via USB to update firmware." : {
+            
+            "message": "Pasang perangkat Go Direct via USB untuk memperbarui firmware."
+        },
+        "Points" : {
+            
+            "message": "Poin-poin"
+        },
+        "Prediction" : {
+            
+            "message": "Prediksi"
+        },
+        "Prediction Title" : {
+            
+            "message": "Judul Prediksi"
+        },
+        "Predictions" : {
+            
+            "message": "Prediksi"
+        },
+        "Presentation" : {
+            
+            "message": "Persentasi"
+        },
+        "Primary" : {
+            
+            "message": "Utama"
+        },
+        "Primary:" : {
+            
+            "message": "Utama :"
+        },
+        "Pulse timing" : {
+            
+            "message": "Waktu dorongan"
+        },
+        "radians" : {
+            
+            "message": ""
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radian (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Nilai"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Nilai melebihi 200 sampel/detik memerlukan durasi tetap."
+        },
+        "Recovery file found." : {
+            
+            "message": ""
+        },
+        "Relative stability reading" : {
+            
+            "message": "Membaca stabilitas relatif"
+        },
+        "Remove the blank cuvette from the spectrophotometer." : {
+            
+            "message": "Lepaskan cuvette kosong dari spektrofotometer."
+        },
+        "Rename" : {
+            
+            "message": "Mengubah Nama"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Mengubah nama kumpulan data"
+        },
+        "Rename Experiment" : {
+            
+            "message": "Mengubah nama percobaan"
+        },
+        "Reported Reading" : {
+            
+            "message": "Laporan Bacaan"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Setel ulang ke Default"
+        },
+        "Restart app" : {
+            
+            "message": "Merestart Aplikasi"
+        },
+        "Restore" : {
+            
+            "message": ""
+        },
+        "Return to Graphical Analysis" : {
+            
+            "message": "Kembali ke Graphical Analysis"
+        },
+        "Reverse" : {
+            
+            "message": "Balik"
+        },
+        "revolution" : {
+            
+            "message": ""
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Revolusi (rev)"
+        },
+        "Right" : {
+            
+            "message": "Maksimum"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "Sampel"
+        },
+        "Sample Data" : {
+            
+            "message": "Contoh Data"
+        },
+        "samples" : {
+            
+            "message": "Sampel"
+        },
+        "Samples" : {
+            
+            "message": "Data-data"
+        },
+        "Save" : {
+            
+            "message": "Menyimpan"
+        },
+        "Save As..." : {
+            
+            "message": "Simpan sebagai..."
+        },
+        "Save Experiment" : {
+            
+            "message": "Menyimpan Percobaan"
+        },
+        "Save failed" : {
+            
+            "message": "Gagal Menyimpan"
+        },
+        "Saved" : {
+            
+            "message": "Disimpan"
+        },
+        "Scale Factor" : {
+            
+            "message": "Faktor skala"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Mencari perangkat..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "Titik kalibrasi kedua sensor Tegangan haruslah berbeda dari titik pertama setidaknya 0.05 V."
+        },
+        "Secondary" : {
+            
+            "message": "Kedua"
+        },
+        "Secondary:" : {
+            
+            "message": "Kedua :"
+        },
+        "seconds" : {
+            
+            "message": "detik"
+        },
+        "seconds for lamp to warm up" : {
+            
+            "message": "detik untuk lampu untuk pemanasan"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Pilih unit yang diinginkan untuk melaporkan posisi sudut."
+        },
+        "Select the desired wavelength by tapping on the graph or typing in the value." : {
+            
+            "message": "Pilih panjang gelombang yang diinginkan dengan mengetuk grafik atau mengetikkan nilainya."
+        },
+        "Select Trace" : {
+            
+            "message": "Tanda yang dipilih"
+        },
+        "Selected Events" : {
+            
+            "message": "Peristiwa-peristiwa yang dipilih"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Chanel Sensor"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Pengumpulan Data Sensor"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Sensor Voltase"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Sensor Dinolkan"
+        },
+        "Sensors" : {
+            
+            "message": "Sensor"
+        },
+        "Settings" : {
+            
+            "message": "Setting"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Menampilkan mid-time melalui gerbang"
+        },
+        "Significant Figures" : {
+            
+            "message": "Angka penting"
+        },
+        "Skip" : {
+            
+            "message": "Melewatkan"
+        },
+        "Slope" : {
+            
+            "message": "Tanjakan"
+        },
+        "Spacing" : {
+            
+            "message": "Jarak"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": ""
+        },
+        "Specify source" : {
+            
+            "message": "Spesifikasikan Sumber"
+        },
+        "Spectral Analysis is a tool for science students to collect and analyze data from Vernier spectrophotometers, including SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>." : {
+            
+            "message": "Spectral Analysis adalah alat untuk siswa sains untuk mengumpulkan dan menganalisis data dari spektrofotometer Vernier, termasuk SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>."
+        },
+        "Spectrometer Settings" : {
+            
+            "message": "Pengaturan Spektrometer"
+        },
+        "Spectrometers" : {
+            
+            "message": "Spektrometer"
+        },
+        "Spectrum" : {
+            
+            "message": "Spectrum"
+        },
+        "Speed through Gate" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": ""
+        },
+        "Start and Stop Collection" : {
+            
+            "message": "Memulai dan Mengehntikan pengumpulan"
+        },
+        "Start Collection" : {
+            
+            "message": "Memulai Pengumpulan"
+        },
+        "Start collection when" : {
+            
+            "message": "Mulai pengumpulan ketika"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Memulai Percobaan Baru?"
+        },
+        "Statistics" : {
+            
+            "message": "Angka-angka"
+        },
+        "Std dev" : {
+            
+            "message": "Std dev"
+        },
+        "Stop" : {
+            
+            "message": "Berhenti"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Berhenti menambahkan tetes saat volume mencapai antara 9 mL dan 10 mL."
+        },
+        "Submit" : {
+            
+            "message": "Mengajukan"
+        },
+        "Syncing to Google Drive" : {
+            
+            "message": "Mengsinkronisasikan Google Drive"
+        },
+        "Table" : {
+            
+            "message": "Tabel"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Mengambil pembacaan dari sensor (seperti PH, Konduktivitas) pada setiap turunan."
+        },
+        "Tangent" : {
+            
+            "message": "Garis Singgung"
+        },
+        "Target" : {
+            
+            "message": "Target"
+        },
+        "Temporal Averaging" : {
+            
+            "message": "Tempo rata-rata"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Sambungan Bluetooth telah hilang"
+        },
+        "The firmware update failed." : {
+            
+            "message": "Pembaruan firmware gagal."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Objek / Lebar Bendera dibagi pada saat photogate tersebut diblokir (Diblokir-Gerbang- Durasi) untuk menentukan kecepatan objek melalui pintu gerbang."
+        },
+        "The time a photogate is blocked is reported as Blocked-Time. The Blocked-Time can be the time since data collection started or the time since the first gate is blocked." : {
+            
+            "message": "Waktu photogate diblokir dilaporkan sebagai Waktu-Diblokir. Waktu yang diblokir dapat dihitung sejak waktu pengumpulan data dimulai atau waktu sejak gerbang pertama diblokir."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Waktu antara peristiwa yang diblokir berturut-turut dilaporkan sebagai Interval."
+        },
+        "There are no saved experiments." : {
+            
+            "message": "Tidak terdapat percobaan yang disimpan."
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Kolom ini secara otomatis dihasilkan dan tidak dapat diubah"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Angka ini mendefinisikan pecahan dari suatu perubahan posisi sudut berubah dengan setiap peristiwa yang diblokir."
+        },
+        "Time" : {
+            
+            "message": "Waktu"
+        },
+        "Time at each gate" : {
+            
+            "message": "Waktu di setiap gerbang"
+        },
+        "Time Based" : {
+            
+            "message": "Berdasarkan Waktu"
+        },
+        "Time between gates" : {
+            
+            "message": "Waktu di antara gerbang"
+        },
+        "Time measurements" : {
+            
+            "message": "Waktu di antara gerbang"
+        },
+        "Time Units" : {
+            
+            "message": "Unit Waktu"
+        },
+        "Timer" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Pengatur waktu atau periode"
+        },
+        "Title" : {
+            
+            "message": "Judul"
+        },
+        "to" : {
+            
+            "message": "Kepada"
+        },
+        "To locate the address:" : {
+            
+            "message": "Untuk menempatkan alamat:"
+        },
+        "Too few points" : {
+            
+            "message": "Lebih beberapa poin"
+        },
+        "Top" : {
+            
+            "message": "Maksimum"
+        },
+        "Total samples" : {
+            
+            "message": "Jumlah Sampel"
+        },
+        "Tutorials" : {
+            
+            "message": "Tutorial"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Kalibrasi dua titik"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Alur ultra pulley"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "Tepi luar ultra pulley"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Tidak dapat menghubungkan atau mencari sumber nama tersebut."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Tidak dapat terhubung ke "
+        },
+        "Unable to sync to Google Drive" : {
+            
+            "message": "Tidak dapat tersinkronisasi ke Google Drive"
+        },
+        "Units" : {
+            
+            "message": "Unit"
+        },
+        "Untitled" : {
+            
+            "message": "Tanpa Judul"
+        },
+        "Up to date" : {
+            
+            "message": "Up to date"
+        },
+        "Update All" : {
+            
+            "message": "Perbarui Semua"
+        },
+        "Update Available" : {
+            
+            "message": "Pembaruan tersedia"
+        },
+        "Update error" : {
+            
+            "message": "Perbarui kesalahan"
+        },
+        "Update Firmware" : {
+            
+            "message": "Pembaruan Firmware"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Pembaruan sedang diunduh ..."
+        },
+        "Update will take approximately" : {
+            
+            "message": "Update akan memakan waktu kira-kira"
+        },
+        "USB Device" : {
+            
+            "message": "Perangkat USB"
+        },
+        "Use % Transmittance" : {
+            
+            "message": "Gunakan% Transmittance"
+        },
+        "Use first blocked event as time = 0" : {
+            
+            "message": "Gunakan event waktu yang pertama diblokir sebagai = 0"
+        },
+        "Use gate separation" : {
+            
+            "message": "Gunakan gerbang pemisah"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Gunakan lebar objek / bendera"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Gunakan Notasi Ilmiah"
+        },
+        "Use this option to investigate speed with respect to time.  The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Gunakan opsi ini untuk menyelidiki kecepatan yang berhubungan dengan waktu. Waktu yang dilaporkan adalah waktu titik tengah antara waktu gerbang diblokir dan waktu gerbang menjadi tidak terblokir."
+        },
+        "Value must be between " : {
+            
+            "message": "Nilai harus antara "
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernier Picket Fence"
+        },
+        "Vernier Spectrometers" : {
+            
+            "message": "Vernier Spektrometer"
+        },
+        "Version" : {
+            
+            "message": "Versi"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Analysis<sup>™</sup>." : {
+            
+            "message": "Analisis Video<sup>™</sup>."
+        },
+        "Videos" : {
+            
+            "message": "Video-video"
+        },
+        "View" : {
+            
+            "message": "Lihat"
+        },
+        "View Integral" : {
+            
+            "message": "Memperlihatkan Integral"
+        },
+        "View Statistics" : {
+            
+            "message": "Memperlihatkan Statistik"
+        },
+        "Voltage" : {
+            
+            "message": "Voltase"
+        },
+        "vs. Concentration" : {
+            
+            "message": "vs Konsentrasi"
+        },
+        "vs. Time " : {
+            
+            "message": "vs Waktu "
+        },
+        "vs. Wavelength" : {
+            
+            "message": "vs Panjang gelombang"
+        },
+        "Waiting" : {
+            
+            "message": "Menunggu"
+        },
+        "Waiting for" : {
+            
+            "message": "Menunggu untuk"
+        },
+        "Wavelength" : {
+            
+            "message": "Panjang Gelombang"
+        },
+        "Wavelength Smoothing" : {
+            
+            "message": "Memperlancar panjang gelombang"
+        },
+        "What's New" : {
+            
+            "message": "Apa yang baru"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Ketika pendulum dipilih, waktu antara setiap detik peristiwa yang diblokir dan dilaporkan sebagai Periode sejak pendulum akan memblokir gerbang sebanyak tiga kali karena menyelesaikan satu ayunan."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Saat menggunakan dua photogate, Anda dapat menggunakan jarak antar gerbang, bukan dari Lebar Obyek / Bendera untuk menghitung kecepatan. Kecepatan yang dilaporkan akan menjadi kecepatan antara dua gerbang."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Windows 10 diperlukan untuk koneksi wireles."
+        },
+        "Working..." : {
+            
+            "message": "Bekerja…"
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X-A" : {
+            
+            "message": "X-A"
+        },
+        "x-axis" : {
+            
+            "message": "x-axis"
+        },
+        "x-range" : {
+            
+            "message": "jarak-X"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis" : {
+            
+            "message": "y-axis"
+        },
+        "Zero" : {
+            
+            "message": "Kosong"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[ x-axis ]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[ y-axis ]"
+        },
+        "© 2012-2018 Vernier Software &amp; Technology" : {
+            
+            "message": "© 2012-2018 Vernier Software &amp; Technology"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X&sup2;+Y&sup2;+Z&sup2;)" : {
+            
+            "message": "√(X&sup2;+Y&sup2;+Z&sup2;)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g Akcelerometer"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3-Sumbu Akselerometer (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3-axis Akselerometer (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3-Sumbu Akselerometer (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30V tegangan (+ /-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbansi"
+        },
+        "Acceleration" : {
+            
+            "message": "Percepatan"
+        },
+        "Accelerometer" : {
+            
+            "message": "Akselerometer"
+        },
+        "Ammonium" : {
+            
+            "message": "Ammonium"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Ammonium ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Penganalisa"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometer"
+        },
+        "Angle" : {
+            
+            "message": "Sudut"
+        },
+        "Barometer" : {
+            
+            "message": "Barometer"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometer (Tidak dijual lagi)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Tekanan Gas Biologi"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Tekanan Darah"
+        },
+        "Calcium" : {
+            
+            "message": "Kalsium"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Kalsium ISE"
+        },
+        "Charge" : {
+            
+            "message": "Isi"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Sensor Isi"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "100 nC Sensor Isi"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "20 nc Sensor Isi"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "5 nc Sensor Isi"
+        },
+        "Chloride" : {
+            
+            "message": "Klorida"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Klorida ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gas tinggi"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gas Rendah"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "Gas Co2 tua"
+        },
+        "Colorimeter" : {
+            
+            "message": "Kolorimeter"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Colorimeter Lama"
+        },
+        "Conductivity" : {
+            
+            "message": "Konduktivitas"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "20000MICS Konduktivitas"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "2000MICS Konduktivitas"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "200MICS Konduktivitas"
+        },
+        "Constant Current System" : {
+            
+            "message": "Sistem arus Konstan"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Tekanan Cuff"
+        },
+        "Current" : {
+            
+            "message": "Saat ini"
+        },
+        "Current Probe" : {
+            
+            "message": "Probe saat ini"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Probe saat ini 1.2 A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolik"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Tegangan Diferensial"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Unit Kontrol Digital"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Suhu terhubung Langsung"
+        },
+        "Displacement" : {
+            
+            "message": "Pemindahan"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "CO2 Terlarut"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Oksigen larut"
+        },
+        "DO" : {
+            
+            "message": "DO"
+        },
+        "Drop Counter" : {
+            
+            "message": "Menurunkan Penghitung"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "10 N Kekuatan Rentang Ganda"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "50 N Kekuatan Rentang Ganda"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Elektroda Amplifier"
+        },
+        "Energy" : {
+            
+            "message": "Daya"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Daya Sensor saat ini"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Tegangan Daya Sensor"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Sensor Etanol"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Suhu Ekstra panjang"
+        },
+        "Flow Rate" : {
+            
+            "message": "Laju Aliran"
+        },
+        "Force" : {
+            
+            "message": "Gaya"
+        },
+        "Force Plate" : {
+            
+            "message": "Pelat Gaya"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "3500N Pelat gaya"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "850N Pelat gaya"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Sensor Tekanan Gas"
+        },
+        "Gate State" : {
+            
+            "message": "Gerbang Bagian"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Elektroda Amplifier Wireles"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go wireles denyut jantung"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go wireles PH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless Temp"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometer"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Dinamometer tangan"
+        },
+        "Heart Rate" : {
+            
+            "message": "denyut jantung"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Layar Denyut jantung"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Tinggi sensor saat ini"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Sensitivitas Cahaya Tinggi 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Sensitivitas Cahaya Tinggi 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Sensitivitas Cahaya tinggi 100 µW"
+        },
+        "Illumination" : {
+            
+            "message": "Penerangan"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Instrumentasi Amplifier"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Instrumentasi Amplifier +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Instrumentasi Amplifier +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Instrumentasi Amplifier +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Instrumentasi Amplifier 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Instrumentasi Amplifier 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Instrumentasi Amplifier 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensitas"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Sensor suhu IR"
+        },
+        "Irradiance" : {
+            
+            "message": "Radiasi"
+        },
+        "Light" : {
+            
+            "message": "Cahaya"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Cahaya 150000 lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Cahaya 600 lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Cahaya 6000 lux"
+        },
+        "Light Level" : {
+            
+            "message": "Tingkat Cahaya"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "Sensor Posisi Linear"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Low-g Akselerometer"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Bidang Magnetik"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Bidang Magnetik 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Bidang Magnetik 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Tekanan Arteri Rata-rata"
+        },
+        "Melt Station" : {
+            
+            "message": "Pangkalan mencair"
+        },
+        "Microphone" : {
+            
+            "message": "Mikrofon"
+        },
+        "Motion" : {
+            
+            "message": "Gerak"
+        },
+        "Motion Detector" : {
+            
+            "message": "Detektor Gerak"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Kereta Encoder Gerak"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrat"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrat ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Probe DO Optik %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Probe DO Optik mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Gas Oksigen"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Gas Oksigen Lama"
+        },
+        "PAR Sensor" : {
+            
+            "message": "Sensor PAR"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORP Amplifiers"
+        },
+        "Photogate" : {
+            
+            "message": "Photogate"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Konduktivitas Platinum Sel"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimeter"
+        },
+        "Position" : {
+            
+            "message": "Posisi"
+        },
+        "Potassium" : {
+            
+            "message": "kalium"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Kalium ISE"
+        },
+        "Potential" : {
+            
+            "message": "Potensi"
+        },
+        "Power" : {
+            
+            "message": "Daya"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Daya amp saat ini"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "Tekanan"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Sensor Tekanan (Tidak lagi dijual)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Sensor Tekanan 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "peluncur proyektil"
+        },
+        "Pulse" : {
+            
+            "message": "Denyut nadi"
+        },
+        "Pulse Time" : {
+            
+            "message": "Waktu Denyut Nadi"
+        },
+        "Pyranometer" : {
+            
+            "message": "pyranometer"
+        },
+        "Radiation" : {
+            
+            "message": "Radiasi"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Monitor Radiasi"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "tegangan baku (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Kelembaban Relatif"
+        },
+        "Resistance" : {
+            
+            "message": "Daya Tahan"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Monitor Pernafasan"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Laju Pernapasan"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Gerakan Berputar"
+        },
+        "Salinity" : {
+            
+            "message": "Kadar garam"
+        },
+        "Signal" : {
+            
+            "message": "Sinyal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Kelembaban tanah"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Sensor Kelembaban Tanah"
+        },
+        "Sound Level" : {
+            
+            "message": "Tingkat Suara"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Sensor Tingkat Suara"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Tekanan suara"
+        },
+        "Speed" : {
+            
+            "message": "Kecepatan"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometer"
+        },
+        "Standard Temperature" : {
+            
+            "message": "suhu standar"
+        },
+        "Student Force" : {
+            
+            "message": "Tekanan Siswa"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Monitor Radiasi Siswa"
+        },
+        "Systolic" : {
+            
+            "message": "Sistolik"
+        },
+        "Temperature" : {
+            
+            "message": "Suhu"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Sensor Suhu"
+        },
+        "Thermocouple" : {
+            
+            "message": "Thermocouple"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Thermocouple Tua"
+        },
+        "TI Light" : {
+            
+            "message": "Cahaya TI"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmitansi"
+        },
+        "Turbidity" : {
+            
+            "message": "Kekeruhan"
+        },
+        "UVA Intensity" : {
+            
+            "message": "Intensitas UVA"
+        },
+        "UVA Sensor" : {
+            
+            "message": "Sensor UVA"
+        },
+        "UVB Intensity" : {
+            
+            "message": "Intensitas UVB"
+        },
+        "UVB Sensor" : {
+            
+            "message": "Sensor UVB"
+        },
+        "Velocity" : {
+            
+            "message": "Kecepatan"
+        },
+        "Voltage" : {
+            
+            "message": "Tegangan"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Tegangan (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Suara"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "Pemindahan VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "Gaya VSMT"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Probe Suhu Jarak Lebar"
+        },
+        "X Acceleration" : {
+            
+            "message": "Percepatan X"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Percepatan Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Percepatan Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Acceleration 1" : {
+            
+            "message": ""
+        },
+        "Acceleration 1->2" : {
+            
+            "message": ""
+        },
+        "Acceleration 2" : {
+            
+            "message": ""
+        },
+        "Acceleration G" : {
+            
+            "message": "Akselerasi G"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Akselerasi Y"
+        },
+        "Altitude" : {
+            
+            "message": "Ketinggian"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Ketinggian satu titik kalibrasi"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitud"
+        },
+        "Angle (x4)" : {
+            
+            "message": "Sudut (x4)"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "Gas CO₂"
+        },
+        "Cap replacement HACK" : {
+            
+            "message": ""
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Konduktivitas - 0% TC"
+        },
+        "Counts" : {
+            
+            "message": "Hitungan"
+        },
+        "Delta time 1" : {
+            
+            "message": ""
+        },
+        "Delta time 1->2" : {
+            
+            "message": ""
+        },
+        "Delta time 2" : {
+            
+            "message": ""
+        },
+        "Drops" : {
+            
+            "message": "Tetesan"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG Diperbaiki"
+        },
+        "Enter cap number" : {
+            
+            "message": ""
+        },
+        "Enter current temperature" : {
+            
+            "message": ""
+        },
+        "Enter first known value" : {
+            
+            "message": "Masukkan nilai pertama yang diketahui"
+        },
+        "Enter known value" : {
+            
+            "message": "Masukkan nilai yang diketahui"
+        },
+        "Enter salinity" : {
+            
+            "message": ""
+        },
+        "Enter second known value" : {
+            
+            "message": "Masukkan nilai kedua yang diketahui"
+        },
+        "Enter third known value" : {
+            
+            "message": "Masukkan nilai ketiga yang diketahui"
+        },
+        "Force G" : {
+            
+            "message": "Gaya G"
+        },
+        "Force Y" : {
+            
+            "message": "Gaya Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": ""
+        },
+        "Force two-point calibration" : {
+            
+            "message": ""
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": ""
+        },
+        "Gate 2" : {
+            
+            "message": ""
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3-Axis Magnetic Field Sensor"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Acceleration"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Colorimeter"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Conductivity Probe"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Constant Current System"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Current Probe"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Drop Counter"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® Electrode Amplifier"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® Energy"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® Force and Acceleration Sensor"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® Gas Pressure Sensor"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": ""
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® Light and Color Sensor"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® Melt Station"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® Motion"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® Optical Dissolved Oxygen"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® Radiation Monitor"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® Respiration Belt"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® Rotary Motion"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® Sensor Cart (Green)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® Sensor Cart (Yellow)"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® Surface Temperature"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® Temperature Probe"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® Voltage Probe"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® Wide Range Temperature"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct™ 3-Axis Sensor Medan Magnetik"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ Acceleration"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Colorimeter"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct™ Conductivity Probe"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct™ Constant Current System"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ Current Probe"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ Drop Counter"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct™ Electrode Amplifier"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ Energy"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ Force and Acceleration Sensor"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct™ Gas Pressure Sensor"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct™ Light and Color Sensor"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ Melt Station"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ Motion"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct™ Optical Dissolved Oxygen"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ Radiation Monitor"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct™ Respiration Belt"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ Rotary Motion"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ Sensor Cart (Green)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ Sensor Cart (Yellow)"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct™ Surface Temperature"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ Temperature Probe"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ Voltage Probe"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct™ Wide Range Temperature"
+        },
+        "Illuminance" : {
+            
+            "message": "Iluminansi"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "Laser Gate" : {
+            
+            "message": ""
+        },
+        "Motion (cart)" : {
+            
+            "message": ""
+        },
+        "Motion with TC" : {
+            
+            "message": ""
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "One-point calibration" : {
+            
+            "message": "Kalibrasi satu titik"
+        },
+        "One-point calibration HACK" : {
+            
+            "message": ""
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ Gas"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ Gas rTC"
+        },
+        "Position G" : {
+            
+            "message": "Posisi G"
+        },
+        "Position Y" : {
+            
+            "message": "Posisi Y"
+        },
+        "Remote Gate 1" : {
+            
+            "message": ""
+        },
+        "Remote Gate 2" : {
+            
+            "message": ""
+        },
+        "Saline DO" : {
+            
+            "message": ""
+        },
+        "Salinity compensation HACK" : {
+            
+            "message": ""
+        },
+        "Saturation" : {
+            
+            "message": "Penyerapan"
+        },
+        "Step Rate" : {
+            
+            "message": "Tingkat langkah"
+        },
+        "Steps" : {
+            
+            "message": "Langkah-langkah"
+        },
+        "Temperature correction" : {
+            
+            "message": ""
+        },
+        "Three-point calibration" : {
+            
+            "message": "Kalibrasi tiga titik"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Kalibrasi dua titik"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Index" : {
+            
+            "message": "UV indeks"
+        },
+        "UV Intensity" : {
+            
+            "message": "Intensitas UV"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Velocity 1" : {
+            
+            "message": ""
+        },
+        "Velocity 1->2" : {
+            
+            "message": ""
+        },
+        "Velocity 2" : {
+            
+            "message": ""
+        },
+        "Velocity G" : {
+            
+            "message": "Gradient Kecepatan"
+        },
+        "Velocity Y" : {
+            
+            "message": "Kecepatan Y"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "Voltase - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "Voltase - 20 V"
+        },
+        "Wait until stability reaches 100" : {
+            
+            "message": ""
+        },
+        "X magnetic field" : {
+            
+            "message": "Medan Magnet X"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "Medan magnet X 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X- kecepatan sudut"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "Akselerasi sumbu X"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X-axis acceleration G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X-axis acceleration Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "Akselerasi sumbu x satu kali kalibrasi"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "Akselerasi sumbu X-tinggi"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "Akselerasi sumbu x-kalibrasi satu titik tinggi"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "Kecepaatan sudut sumbu - X"
+        },
+        "X-axis gyro" : {
+            
+            "message": "Poros sumbu - X"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Medan magnet Y"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Medan magnet Y 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "kecepatan sudut - Y"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Akselerasi sumbu Y"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y-axis acceleration G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y-axis acceleration Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Akselerasi sumbu y kalibrasi satu titik"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Akselerasi sumbu tinggi-Y"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Akselerasi y-tinggi satu titik kalibrasi"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Sumbu kecepatan sumbu - Y"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Sumbu y gyro"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Medan magnet Z"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z medan magnet 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "kecepatan sudut - Z"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Akselerasi sumbu Z"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z-axis acceleration G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z-axis acceleration Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "percepatan sumbu Z kalibrasi satu-titik"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Akselerasi sumbu-Z tinggi"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Akselerasi sumbu-tinggi satu titik kalibrasi"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "sumbu kecepatan sudut - Z"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Gyro sumbu z"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "s" : {
+            
+            "message": ""
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "Langkah-langkah"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "https://www.vernier.com/til/4118/": {
+        "Don" : {
+            
+            "message": "Mengenakan"
+        }
+        
+    },
+    "mathematical": {
+        "Inverse" : {
+            
+            "message": "Kebalikan"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Kuadrat Kebalikan"
+        },
+        "Linear" : {
+            
+            "message": "Linear"
+        },
+        "Modified Power" : {
+            
+            "message": "Tenaga yang dimodifikasi"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Eksponen alami"
+        },
+        "Natural Log" : {
+            
+            "message": "Natural Log"
+        },
+        "Power" : {
+            
+            "message": "Tenaga"
+        },
+        "Proportional" : {
+            
+            "message": "Sebanding"
+        },
+        "Quadratic" : {
+            
+            "message": "Kuadrat"
+        },
+        "Slope" : {
+            
+            "message": "Slope"
+        }
+        
+    }
+}

@@ -1,0 +1,2864 @@
+{
+    "general": {
+        "${appName} is currently collecting data. Do you want to stop collection and start a new experiment?" : {
+            "files": "ViewManager.js",
+            "message": "${appName} is currently collecting data. Do you want to stop collection and start a new experiment?"
+        },
+        "${filename} saved" : {
+            "files": "ToolbarController.js",
+            "message": "${filename} saved"
+        },
+        "% Transmittance" : {
+            "files": "vst-sa-welcome.js",
+            "message": "% Transmittance"
+        },
+        "(distance, velocity, acceleration)" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "(distance, velocity, acceleration)"
+        },
+        ".CSV" : {
+            "files": "ToolbarController.js",
+            "message": ".CSV"
+        },
+        "1 Graph" : {
+            "files": "ToolbarController.js",
+            "message": "1 Graph"
+        },
+        "1st Derivative" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "1st Derivative"
+        },
+        "1st Derivative Time Shift" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "1st Derivative Time Shift"
+        },
+        "1st Derivative(Y, X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "1st Derivative(Y, X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "2 Graphs" : {
+            "files": "ToolbarController.js",
+            "message": "2 Graphs"
+        },
+        "2nd derivative" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "2nd derivative"
+        },
+        "2nd Derivative Time Shift" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "2nd Derivative Time Shift"
+        },
+        "2nd Derivative(Y, X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "2nd Derivative(Y, X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "3 Graphs" : {
+            "files": "ToolbarController.js",
+            "message": "3 Graphs"
+        },
+        "A / (B+X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A / (B+X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A abs(X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A abs(X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A and B are parameters you can set. X and Y are existing columns in your data table." : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A and B are parameters you can set. X and Y are existing columns in your data table."
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            "files": "AppController.js",
+            "message": "A communication error has occurred. Start a new experiment to continue."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            "files": "AppController.js",
+            "message": "A communications error caused data collection to stop. Please try again."
+        },
+        "A ln(X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A ln(X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A log(X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A log(X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A*X^B" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A*X^B",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A-log(X)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A-log(X)",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A-X" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A-X",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A/X" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A/X",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "A/X^B" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "A/X^B",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "About" : {
+            "files": "ToolbarController.js",
+            "message": "About"
+        },
+        "Absorbance" : {
+            "files": "vst-sa-welcome.js",
+            "message": "Absorbance"
+        },
+        "Acceleration through gate" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Acceleration through gate"
+        },
+        "across" : {
+            "files": "AppController.js / vst-core-data-collection-settings.html",
+            "message": "across"
+        },
+        "Add a graph title here" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Add a graph title here"
+        },
+        "Add Annotation" : {
+            "files": "GraphController.js",
+            "message": "Add Annotation"
+        },
+        "Add Calculated Column" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Add Calculated Column"
+        },
+        "Add distilled water to the storage bottle to the top of the sponge." : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Add distilled water to the storage bottle to the top of the sponge."
+        },
+        "Add Graph Match" : {
+            "files": "GraphController.js",
+            "message": "Add Graph Match"
+        },
+        "Add Manual Column" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Add Manual Column"
+        },
+        "Add New Data Set" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Add New Data Set"
+        },
+        "Add Prediction" : {
+            "files": "GraphController.js",
+            "message": "Add Prediction"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            "files": "vst-core-calibration-drop-counter.html",
+            "message": "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder."
+        },
+        "After" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "After"
+        },
+        "After set number of flags" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "After set number of flags"
+        },
+        "All Files" : {
+            "files": "DataWorld.js",
+            "message": "All Files"
+        },
+        "Always Show 0" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Always Show 0"
+        },
+        "An critical error has occurred. Please restart the application." : {
+            "files": "AppController.js",
+            "message": "An critical error has occurred. Please restart the application."
+        },
+        "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "an optional projectile launcher accessory, and is used to report the Time of Flight of the projectile."
+        },
+        "and " : {
+            "files": "vst-core-calibration-gdx.js",
+            "message": "and "
+        },
+        "Angle units" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Angle units"
+        },
+        "Angular Motion" : {
+            "files": "vst-core-bottombar.js / vst-core-data-collection-settings.html",
+            "message": "Angular Motion"
+        },
+        "App is up to date" : {
+            "files": "vst-core-autoupdate.html",
+            "message": "App is up to date"
+        },
+        "App Updates" : {
+            "files": "ToolbarController.js",
+            "message": "App Updates"
+        },
+        "Appearance" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Appearance"
+        },
+        "Append" : {
+            "files": "ToolbarController.js",
+            "message": "Append"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            "files": "ToolbarController.js",
+            "message": "Append additional data to the current data set or create a new data set?"
+        },
+        "Append or Create New?" : {
+            "files": "ToolbarController.js",
+            "message": "Append or Create New?"
+        },
+        "Apply" : {
+            "files": "vst-core-calibration-gdx.html / vst-core-calibration.html / vst-core-calibration-drop-counter.html / vst-core-column-group-options.html / vst-core-curvefit-selector.html",
+            "message": "Apply"
+        },
+        "Apply Curve Fit" : {
+            "files": "GraphController.js",
+            "message": "Apply Curve Fit"
+        },
+        "Area" : {
+            "files": "vst-core-infobox.html",
+            "message": "Area"
+        },
+        "Auto" : {
+            "files": "ColumnGroupOptionsController.js",
+            "message": "Auto"
+        },
+        "Automatic" : {
+            "files": "vst-core-calibration-drop-counter.html / vst-core-graph-options.html",
+            "message": "Automatic"
+        },
+        "Autoscale" : {
+            "files": "GraphController.js",
+            "message": "Autoscale"
+        },
+        "Average multiple measurements for each trial" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Average multiple measurements for each trial"
+        },
+        "Average sensor reading over 10 seconds" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Average sensor reading over 10 seconds"
+        },
+        "Averaging over 10 seconds" : {
+            "files": "ToolbarController.js",
+            "message": "Averaging over 10 seconds"
+        },
+        "Bar Tape" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Bar Tape"
+        },
+        "Base" : {
+            "files": "vst-core-calibration.html",
+            "message": "Base"
+        },
+        "Battery" : {
+            "files": "vst-core-sensor-actions.html",
+            "message": "Battery"
+        },
+        "Battery Level" : {
+            "files": "vst-core-device-info.html",
+            "message": "Battery Level"
+        },
+        "Blocked and unblocked events" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Blocked and unblocked events"
+        },
+        "Blocked gate duration" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Blocked gate duration"
+        },
+        "Blocked Time and the Blocked-Gate Duration is reported each time a gate is blocked." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Blocked Time and the Blocked-Gate Duration is reported each time a gate is blocked."
+        },
+        "Bluetooth Device" : {
+            "files": "vst-core-device-manager.html",
+            "message": "Bluetooth Device"
+        },
+        "Bluetooth not enabled" : {
+            "files": "vst-core-device-manager.html",
+            "message": "Bluetooth not enabled"
+        },
+        "Both" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Both"
+        },
+        "Bottom" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Bottom"
+        },
+        "Calibrate" : {
+            "files": "MeterContainerController.js / vst-core-calibration.html / vst-sa-settings.html",
+            "message": "Calibrate"
+        },
+        "Calibrate Now" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Calibrate Now"
+        },
+        "Calibrate Spectrophotometer" : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Calibrate Spectrophotometer"
+        },
+        "Calibrating..." : {
+            "files": "vst-core-calibration-gdx.html / vst-spec-calibrate.html",
+            "message": "Calibrating..."
+        },
+        "Calibration complete" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Calibration complete"
+        },
+        "Calibration failed" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Calibration failed"
+        },
+        "Calibration reset successful" : {
+            "files": "CalibrationControllerGDX.js",
+            "message": "Calibration reset successful"
+        },
+        "Calibration Type" : {
+            "files": "vst-core-calibration.html",
+            "message": "Calibration Type"
+        },
+        "cancel" : {
+            "files": "vst-core-infobox.html",
+            "message": "cancel"
+        },
+        "Cancel" : {
+            "files": "ViewManager.js / DeviceManagerController.js / GraphController.js / TableController.js / vst-core-calibration-gdx.html / vst-core-calibration.html / vst-core-calibration-drop-counter.html / vst-core-column-group-options.html / vst-core-curvefit-selector.html / vst-core-data-collection-settings.html / vst-core-ewe-entry.html / vst-core-graph-predictions.html / vst-gaw-keep-wait.html",
+            "message": "Cancel"
+        },
+        "Cart Picket Fence" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Cart Picket Fence"
+        },
+        "Charging," : {
+            "files": "vst-core-device-info.html",
+            "message": "Charging,"
+        },
+        "Check For Updates" : {
+            "files": "ToolbarController.js",
+            "message": "Check For Updates"
+        },
+        "Check for Updates" : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Check for Updates"
+        },
+        "Check sensor for flashing LED" : {
+            "files": "vst-core-device-info.html",
+            "message": "Check sensor for flashing LED"
+        },
+        "Checking for update..." : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Checking for update..."
+        },
+        "Choose a Wavelength" : {
+            "files": "vst-core-graph-mini.js",
+            "message": "Choose a Wavelength"
+        },
+        "Choose File" : {
+            "files": "vst-core-experiment-collection.html / vst-ga-welcome.html / vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "Choose File"
+        },
+        "Clear" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Clear"
+        },
+        "Close App and Update Firmware" : {
+            "files": "DeviceManagerController.js",
+            "message": "Close App and Update Firmware"
+        },
+        "Closing" : {
+            "files": "AppController.js",
+            "message": "Closing"
+        },
+        "Closing the application now may make your device permanently unusable." : {
+            "files": "AppController.js",
+            "message": "Closing the application now may make your device permanently unusable."
+        },
+        "Coefficient" : {
+            "files": "vst-core-calibration.html",
+            "message": "Coefficient"
+        },
+        "Collect" : {
+            "files": "vst-core-data-collection-settings.html / vst-core-toolbar.html / vst-core-toolbar.js",
+            "message": "Collect"
+        },
+        "Collect data from Vernier sensors" : {
+            "files": "vst-ga-welcome.html",
+            "message": "Collect data from Vernier sensors"
+        },
+        "Collecting ${this.triggeringParams.prestore} ${singularOrPlural}" : {
+            "files": "AppController.js",
+            "message": "Collecting ${this.triggeringParams.prestore} ${singularOrPlural}"
+        },
+        "Collecting a large number of points impacts performance." : {
+            "files": "vst-core-data-collection-settings.js",
+            "message": "Collecting a large number of points impacts performance."
+        },
+        "Collecting data over ${eventParams.accumulate} seconds" : {
+            "files": "ToolbarController.js",
+            "message": "Collecting data over ${eventParams.accumulate} seconds"
+        },
+        "Column Options" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Column Options"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Column will be deleted in all data sets. The deletion cannot be undone."
+        },
+        "Column X" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Column X",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "Column Y" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Column Y",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "Column Z" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Column Z",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "Columns" : {
+            "files": "vst-core-graph-plot-manager.html",
+            "message": "Columns"
+        },
+        "Comma Separated Values" : {
+            "files": "DataWorld.js",
+            "message": "Comma Separated Values"
+        },
+        "Concentration" : {
+            "files": "DataWorld.handlers.js",
+            "message": "Concentration"
+        },
+        "Connect" : {
+            "files": "vst-core-device-manager.html / vst-core-datashare-connect.html",
+            "message": "Connect"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            "files": "WelcomeController.js",
+            "message": "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>."
+        },
+        "Connect a LabQuest Stream" : {
+            "files": "vst-core-device-manager.html",
+            "message": "Connect a LabQuest Stream"
+        },
+        "Connect a Spectrometer" : {
+            "files": "vst-sa-settings.html / vst-sa-welcome.html",
+            "message": "Connect a Spectrometer"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            "files": "vst-ga-welcome.html",
+            "message": "Connect over WiFi to LabQuest 2 or Logger Pro"
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            "files": "vst-core-device-manager.html",
+            "message": "Connect to a wireless device below or connect via USB."
+        },
+        "Connect to a wireless device below." : {
+            "files": "vst-core-device-manager.html",
+            "message": "Connect to a wireless device below."
+        },
+        "connected" : {
+            "files": "vst-sa-settings.html / vst-sa-welcome.html",
+            "message": "connected"
+        },
+        "Connected Devices" : {
+            "files": "vst-firmware-updater-app.html / vst-core-device-manager.html",
+            "message": "Connected Devices"
+        },
+        "Connection error" : {
+            "files": "DataShareConnectController.js / WelcomeController.js",
+            "message": "Connection error"
+        },
+        "Connection Lost" : {
+            "files": "ToolbarController.js",
+            "message": "Connection Lost"
+        },
+        "Contact us at" : {
+            "files": "vst-core-startup.js",
+            "message": "Contact us at"
+        },
+        "Continue Update" : {
+            "files": "AppController.js",
+            "message": "Continue Update"
+        },
+        "Copy" : {
+            "files": "vst-core-clipboard.html",
+            "message": "Copy"
+        },
+        "copy" : {
+            "files": "fileio-helpers.js",
+            "message": "copy"
+        },
+        "Count Interval" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Count Interval"
+        },
+        "Counts" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Counts"
+        },
+        "Create new Data Set" : {
+            "files": "ToolbarController.js",
+            "message": "Create new Data Set"
+        },
+        "current file" : {
+            "files": "ViewManager.js",
+            "message": "current file"
+        },
+        "Curve Fit" : {
+            "files": "vst-core-curvefit-selector.html / vst-core-infobox.js",
+            "message": "Curve Fit"
+        },
+        "Cut" : {
+            "files": "vst-core-clipboard.html",
+            "message": "Cut"
+        },
+        "Data Collection Settings" : {
+            "files": "BottombarController.js / vst-core-bottombar.html",
+            "message": "Data Collection Settings"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags). Starting collection again will start a new data set."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops."
+        },
+        "Data Set %d" : {
+            "files": "DataWorld.js",
+            "message": "Data Set %d"
+        },
+        "Data Set 1" : {
+            "files": "DataCollection.js",
+            "message": "Data Set 1"
+        },
+        "Data Set Name" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Data Set Name"
+        },
+        "Data set name has %s character limit." : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Data set name has %s character limit."
+        },
+        "Data Sets" : {
+            "files": "vst-core-graph-plot-manager.html",
+            "message": "Data Sets"
+        },
+        "Data Share" : {
+            "files": "WelcomeController.js / vst-core-bottombar.html",
+            "message": "Data Share"
+        },
+        "Data Sharing" : {
+            "files": "vst-ga-welcome.html",
+            "message": "Data Sharing"
+        },
+        "Data Sharing source ${dataWorld.sessionSourceName} was reset. You may continue working offline or start a new experiment." : {
+            "files": "AppController.js",
+            "message": "Data Sharing source ${dataWorld.sessionSourceName} was reset. You may continue working offline or start a new experiment."
+        },
+        "Decimal Format" : {
+            "files": "vst-core-download-data.html",
+            "message": "Decimal Format"
+        },
+        "Decimal Places" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Decimal Places"
+        },
+        "decreasing" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "decreasing"
+        },
+        "degrees" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "degrees"
+        },
+        "Degrees (°)" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Degrees (°)"
+        },
+        "Delete" : {
+            "files": "GraphController.js / TableController.js / vst-core-experiment-tile.js",
+            "message": "Delete"
+        },
+        "Delete Annotation" : {
+            "files": "AnalysisController.js",
+            "message": "Delete Annotation"
+        },
+        "Delete Column" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Delete Column"
+        },
+        "Delete Column %s?" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Delete Column %s?"
+        },
+        "Delete Data Set" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Delete Data Set"
+        },
+        "Delete Examine Tool" : {
+            "files": "vst-core-graph-analysis.html / vst-sa-spectrum-analysis.html",
+            "message": "Delete Examine Tool"
+        },
+        "Delete Graph Match" : {
+            "files": "GraphController.js",
+            "message": "Delete Graph Match"
+        },
+        "Delete Prediction" : {
+            "files": "GraphController.js",
+            "message": "Delete Prediction"
+        },
+        "Delete Selection" : {
+            "files": "vst-core-graph-selection.html",
+            "message": "Delete Selection"
+        },
+        "Device Error" : {
+            "files": "AppController.js",
+            "message": "Device Error"
+        },
+        "Device Information" : {
+            "files": "MeterContainerController.js / vst-core-device-manager.js / vst-sa-settings.js / vst-sa-welcome.js",
+            "message": "Device Information"
+        },
+        "Diameter" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Diameter"
+        },
+        "Disconnect" : {
+            "files": "vst-core-device-manager.html / vst-sa-settings.html / vst-sa-welcome.html",
+            "message": "Disconnect"
+        },
+        "Discovered Devices" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "Discovered Devices"
+        },
+        "Discovered Wireless Devices" : {
+            "files": "vst-core-device-manager.html",
+            "message": "Discovered Wireless Devices"
+        },
+        "Displayed Precision" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Displayed Precision"
+        },
+        "Distance" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Distance"
+        },
+        "Distance between gates" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Distance between gates"
+        },
+        "Do not disconnect your device." : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Do not disconnect your device."
+        },
+        "Do you want to save the changes made to ${filename}? Your changes will be lost if you don't save them." : {
+            "files": "ViewManager.js",
+            "message": "Do you want to save the changes made to ${filename}? Your changes will be lost if you don't save them."
+        },
+        "Don't Save" : {
+            "files": "ViewManager.js",
+            "message": "Don't Save"
+        },
+        "Done" : {
+            "files": "dev-soft-sensors.html / vst-core-calibration-gdx.html / vst-core-device-manager.html / vst-core-data-collection-settings.html / vst-spec-wavelength-chooser.html",
+            "message": "Done"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Download complete. Updates will be installed the next time you launch the app"
+        },
+        "Download Update" : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Download Update"
+        },
+        "Draw a Prediction" : {
+            "files": "vst-core-graph-predictions.html",
+            "message": "Draw a Prediction"
+        },
+        "Drop Counting" : {
+            "files": "vst-core-bottombar.html / vst-core-data-collection-settings.html",
+            "message": "Drop Counting"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            "files": "AppController.js",
+            "message": "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate."
+        },
+        "Drops" : {
+            "files": "vst-core-calibration-drop-counter.html",
+            "message": "Drops"
+        },
+        "Drops/mL" : {
+            "files": "vst-core-calibration-drop-counter.html",
+            "message": "Drops/mL"
+        },
+        "duration" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "duration"
+        },
+        "e.g., 007 or TMP" : {
+            "files": "vst-core-device-manager.html",
+            "message": "e.g., 007 or TMP"
+        },
+        "e.g., Beer" : {
+            "files": "vst-sa-welcome.html",
+            "message": "e.g., Beer"
+        },
+        "e.g., Kinetics" : {
+            "files": "vst-sa-welcome.html",
+            "message": "e.g., Kinetics"
+        },
+        "Edit Graph Options" : {
+            "files": "GraphController.js",
+            "message": "Edit Graph Options"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            "files": "vst-core-device-manager.html",
+            "message": "Enable bluetooth to connect wireless sensors."
+        },
+        "End Collection" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "End Collection"
+        },
+        "End data collection" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "End data collection"
+        },
+        "Enter an annotation" : {
+            "files": "vst-core-graph-annotation.html",
+            "message": "Enter an annotation"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            "files": "vst-ga-welcome.html",
+            "message": "Enter data through keyboard or Copy/Paste"
+        },
+        "Enter first known value" : {
+            "files": "vst-core-calibration.html",
+            "message": "Enter first known value"
+        },
+        "Enter second known value" : {
+            "files": "vst-core-calibration.html",
+            "message": "Enter second known value"
+        },
+        "Enter the number of flags that will break the beam as the object passes through the gate. This setting assumes all flags are the same width." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Enter the number of flags that will break the beam as the object passes through the gate. This setting assumes all flags are the same width."
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            "files": "vst-core-calibration-drop-counter.html",
+            "message": "Enter the precise volume of titrant from the graduated cylinder"
+        },
+        "Equation" : {
+            "files": "vst-core-calibration.html",
+            "message": "Equation"
+        },
+        "Error" : {
+            "files": "DataAnalysis.js",
+            "message": "Error"
+        },
+        "Error details" : {
+            "files": "vst-core-startup.js",
+            "message": "Error details"
+        },
+        "Event" : {
+            "files": "DataCollection.js",
+            "message": "Event"
+        },
+        "Event Based" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Event Based"
+        },
+        "Event Mode" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Event Mode"
+        },
+        "Event Name" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Event Name"
+        },
+        "Events with Entry" : {
+            "files": "vst-core-bottombar.html / vst-core-data-collection-settings.html",
+            "message": "Events with Entry"
+        },
+        "Example: 192.168.1.10" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "Example: 192.168.1.10"
+        },
+        "Experiment Name" : {
+            "files": "FileIO-cordova.js",
+            "message": "Experiment Name"
+        },
+        "Experimental Features" : {
+            "files": "vst-ga-about.js / vst-sa-about.js",
+            "message": "Experimental Features"
+        },
+        "Experiments" : {
+            "files": "vst-ga-app.html / vst-va-app.html / vst-sa-app.html / index.html",
+            "message": "Experiments"
+        },
+        "Exponent" : {
+            "files": "vst-core-calibration.html",
+            "message": "Exponent"
+        },
+        "Export" : {
+            "files": "ToolbarController.js / vst-ga-app.html / vst-va-app.html / index.html",
+            "message": "Export"
+        },
+        "Export CSV" : {
+            "files": "vst-core-download-data.html",
+            "message": "Export CSV"
+        },
+        "Export CSV Data" : {
+            "files": "ToolbarController.js",
+            "message": "Export CSV Data"
+        },
+        "Expression" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Expression"
+        },
+        "Factory Calibration Date" : {
+            "files": "vst-core-device-info.html",
+            "message": "Factory Calibration Date"
+        },
+        "File" : {
+            "files": "index.html",
+            "message": "File"
+        },
+        "File saved" : {
+            "files": "FileIO-chrome.js / FileIO-cordova.js / FileIO-electron.js",
+            "message": "File saved"
+        },
+        "Filename" : {
+            "files": "vst-core-download-data.html",
+            "message": "Filename"
+        },
+        "Filter" : {
+            "files": "vst-core-device-manager.html",
+            "message": "Filter"
+        },
+        "Finish Calibration" : {
+            "files": "vst-spec-calibrate.html",
+            "message": "Finish Calibration"
+        },
+        "Firmware" : {
+            "files": "vst-core-device-info.html",
+            "message": "Firmware"
+        },
+        "Firmware Update in Progress" : {
+            "files": "AppController.js",
+            "message": "Firmware Update in Progress"
+        },
+        "Firmware Updater" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Firmware Updater"
+        },
+        "Flag Width" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Flag Width"
+        },
+        "Flags" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Flags"
+        },
+        "for assistance." : {
+            "files": "vst-core-startup.js",
+            "message": "for assistance."
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags."
+        },
+        "Force Close" : {
+            "files": "AppController.js",
+            "message": "Force Close"
+        },
+        "From Vernier.com" : {
+            "files": "vst-ga-welcome.html / vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "From Vernier.com"
+        },
+        "Full Spectrum" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Full Spectrum"
+        },
+        "Full spectrum" : {
+            "files": "vst-sa-welcome.html",
+            "message": "Full spectrum"
+        },
+        "Gate Separation" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Gate Separation"
+        },
+        "Gate State" : {
+            "files": "vst-core-bottombar.js",
+            "message": "Gate State"
+        },
+        "Gate State only" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Gate State only"
+        },
+        "Gate timing" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Gate timing"
+        },
+        "GDX Sensor Map" : {
+            "files": "vst-core-device-info.html",
+            "message": "GDX Sensor Map"
+        },
+        "Go Direct Sensors" : {
+            "files": "vst-ga-welcome.html / vst-va-welcome.html",
+            "message": "Go Direct Sensors"
+        },
+        "Graph" : {
+            "files": "ToolbarController.js",
+            "message": "Graph"
+        },
+        "Graph and Table" : {
+            "files": "ToolbarController.js",
+            "message": "Graph and Table"
+        },
+        "Graph Image" : {
+            "files": "ToolbarController.js",
+            "message": "Graph Image"
+        },
+        "Graph Inset" : {
+            "files": "GraphController.js",
+            "message": "Graph Inset"
+        },
+        "Graph Match" : {
+            "files": "vst-core-graph-plot-manager.html / vst-core-graph-y-column-list.html",
+            "message": "Graph Match"
+        },
+        "Graph Options" : {
+            "files": "GraphController.js",
+            "message": "Graph Options"
+        },
+        "Graph Tools" : {
+            "files": "vst-core-graph.html",
+            "message": "Graph Tools"
+        },
+        "Graph, Table and Meter" : {
+            "files": "ToolbarController.js",
+            "message": "Graph, Table and Meter"
+        },
+        "Graph, Table, and Meter" : {
+            "files": "ToolbarController.js",
+            "message": "Graph, Table, and Meter"
+        },
+        "Graphical Analysis will shut down during the update. Only devices connected by USB can be updated. If any sensors needing updates are currently connected wirelessly, connect them by USB before proceeding." : {
+            "files": "DeviceManagerController.js",
+            "message": "Graphical Analysis will shut down during the update. Only devices connected by USB can be updated. If any sensors needing updates are currently connected wirelessly, connect them by USB before proceeding."
+        },
+        "Graphical Analysis<sup>™</sup> 4 is a tool for science students to collect, graph, and analyze data from Vernier sensors." : {
+            "files": "vst-ga-about.js",
+            "message": "Graphical Analysis<sup>™</sup> 4 is a tool for science students to collect, graph, and analyze data from Vernier sensors."
+        },
+        "h" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "h"
+        },
+        "Hide All" : {
+            "files": "vst-core-graph-plot-manager.html",
+            "message": "Hide All"
+        },
+        "High-Resolution Mode" : {
+            "files": "MeterContainerController.js",
+            "message": "High-Resolution Mode"
+        },
+        "ID" : {
+            "files": "vst-core-device-info.html",
+            "message": "ID"
+        },
+        "Identify" : {
+            "files": "vst-core-device-info.html",
+            "message": "Identify"
+        },
+        "Import Video" : {
+            "files": "vst-va-welcome.html",
+            "message": "Import Video"
+        },
+        "Import video for a new experiment" : {
+            "files": "vst-va-welcome.html",
+            "message": "Import video for a new experiment"
+        },
+        "Import Video..." : {
+            "files": "ToolbarController.js",
+            "message": "Import Video..."
+        },
+        "increasing" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "increasing"
+        },
+        "Insert a sample cuvette." : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Insert a sample cuvette."
+        },
+        "Insert Expression" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Insert Expression"
+        },
+        "Insert the probe into the bottle so that the tip is not touching the water or the sponge." : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Insert the probe into the bottle so that the tip is not touching the water or the sponge."
+        },
+        "Integral" : {
+            "files": "vst-core-infobox.js",
+            "message": "Integral"
+        },
+        "Integration Time" : {
+            "files": "vst-sa-settings.html",
+            "message": "Integration Time"
+        },
+        "Intercept" : {
+            "files": "vst-core-calibration.html",
+            "message": "Intercept"
+        },
+        "Interpolate" : {
+            "files": "GraphController.js",
+            "message": "Interpolate"
+        },
+        "Interval" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Interval"
+        },
+        "is" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "is"
+        },
+        "Keep" : {
+            "files": "vst-core-calibration-gdx.html / vst-core-calibration.html / vst-core-toolbar.html",
+            "message": "Keep"
+        },
+        "Keep Point" : {
+            "files": "ToolbarController.js / vst-core-ewe-entry.html",
+            "message": "Keep Point"
+        },
+        "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\"" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Keep the probe vertically in this position for a minimum of 60 seconds, then press \"CALIBRATE NOW.\""
+        },
+        "Known values must be different for a two point calibration." : {
+            "files": "vst-core-calibration.js",
+            "message": "Known values must be different for a two point calibration."
+        },
+        "Lab Ideas" : {
+            "files": "vst-ga-welcome.html / vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "Lab Ideas"
+        },
+        "Last calibrated on" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Last calibrated on"
+        },
+        "Launch Speed" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Launch Speed"
+        },
+        "Left" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Left"
+        },
+        "Linear Motion" : {
+            "files": "vst-core-bottombar.js / vst-core-data-collection-settings.html",
+            "message": "Linear Motion"
+        },
+        "Lines" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Lines"
+        },
+        "Manual" : {
+            "files": "vst-core-calibration-drop-counter.html",
+            "message": "Manual"
+        },
+        "Manual Entry" : {
+            "files": "vst-core-bottombar.html / vst-ga-welcome.html",
+            "message": "Manual Entry"
+        },
+        "Manual Scaling" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Manual Scaling"
+        },
+        "Manually" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Manually"
+        },
+        "Manufacture Date" : {
+            "files": "vst-core-device-info.html",
+            "message": "Manufacture Date"
+        },
+        "Max" : {
+            "files": "vst-core-infobox.html",
+            "message": "Max"
+        },
+        "Mean" : {
+            "files": "vst-core-infobox.html",
+            "message": "Mean"
+        },
+        "Measurement" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Measurement"
+        },
+        "Meter" : {
+            "files": "ToolbarController.js",
+            "message": "Meter"
+        },
+        "min" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "min"
+        },
+        "Min" : {
+            "files": "vst-core-infobox.html",
+            "message": "Min"
+        },
+        "minutes" : {
+            "files": "vst-firmware-updater-app.js",
+            "message": "minutes"
+        },
+        "Mode" : {
+            "files": "vst-core-bottombar.html / vst-core-data-collection-settings.html",
+            "message": "Mode"
+        },
+        "More" : {
+            "files": "vst-core-experiment-tile.html / vst-ga-app.html / vst-va-app.html / vst-sa-app.html / index.html",
+            "message": "More"
+        },
+        "More Options" : {
+            "files": "vst-core-table.js",
+            "message": "More Options"
+        },
+        "ms" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time."
+        },
+        "My-File-Name" : {
+            "files": "vst-core-download-data.html",
+            "message": "My-File-Name"
+        },
+        "Name" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Name"
+        },
+        "Name cannot exceed %s characters" : {
+            "files": "vst-core-rename.js",
+            "message": "Name cannot exceed %s characters"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            "files": "vst-core-calibration.html / vst-core-calibration-drop-counter.html",
+            "message": "New calibrations are used until you start a new experiment or open a file."
+        },
+        "New Experiment" : {
+            "files": "ViewManager.js / ToolbarController.js / AppController.js / vst-ga-welcome.html / vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "New Experiment"
+        },
+        "No Columns" : {
+            "files": "GraphController.js",
+            "message": "No Columns"
+        },
+        "No devices available" : {
+            "files": "vst-core-device-manager.html",
+            "message": "No devices available"
+        },
+        "No Devices Connected" : {
+            "files": "vst-core-device-manager.js",
+            "message": "No Devices Connected"
+        },
+        "No sensor connected" : {
+            "files": "BottombarController.js / vst-core-bottombar.js / vst-core-data-collection-settings.js",
+            "message": "No sensor connected"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            "files": "vst-core-datashare-connect.js",
+            "message": "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source."
+        },
+        "No Spectrometer Connected" : {
+            "files": "vst-sa-settings.html / vst-sa-welcome.js",
+            "message": "No Spectrometer Connected"
+        },
+        "No spectrometer connected." : {
+            "files": "vst-sa-welcome.html",
+            "message": "No spectrometer connected."
+        },
+        "Note: For best results, % transmittance values should be between 10% and 95%." : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Note: For best results, % transmittance values should be between 10% and 95%."
+        },
+        "Note: For best results, absorbance values should be between 0.1 and 1.0." : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Note: For best results, absorbance values should be between 0.1 and 1.0."
+        },
+        "Number of flags" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Number of flags"
+        },
+        "Number of spokes" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Number of spokes"
+        },
+        "Object" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Object"
+        },
+        "Object Width" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Object Width"
+        },
+        "Offline" : {
+            "files": "AppController.js",
+            "message": "Offline"
+        },
+        "OK" : {
+            "files": "AppController.js",
+            "message": "OK"
+        },
+        "On a triggering event" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "On a triggering event"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "On LabQuest, tap the Wi-Fi symbol"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "On Logger Pro, go to File -> Data Sharing"
+        },
+        "One-point calibration" : {
+            "files": "vst-core-calibration.html",
+            "message": "One-point calibration"
+        },
+        "Open File From Your Computer" : {
+            "files": "vst-core-experiment-collection.html",
+            "message": "Open File From Your Computer"
+        },
+        "Open Saved File" : {
+            "files": "vst-ga-welcome.html / vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "Open Saved File"
+        },
+        "Open..." : {
+            "files": "ToolbarController.js",
+            "message": "Open..."
+        },
+        "or drag and drop a file into the app" : {
+            "files": "vst-core-experiment-collection.html",
+            "message": "or drag and drop a file into the app"
+        },
+        "Order Code" : {
+            "files": "vst-core-device-info.html",
+            "message": "Order Code"
+        },
+        "Other / User Defined" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Other / User Defined"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes."
+        },
+        "Parameter A" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Parameter A",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "Parameter B" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Parameter B",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "Paste" : {
+            "files": "vst-core-clipboard.html",
+            "message": "Paste"
+        },
+        "Pendulum Period" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Pendulum Period"
+        },
+        "Perform a" : {
+            "files": "vst-core-calibration-gdx.html / vst-core-calibration.html",
+            "message": "Perform a"
+        },
+        "Photogate Timing" : {
+            "files": "vst-core-bottombar.html",
+            "message": "Photogate Timing"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported."
+        },
+        "Place a blank cuvette in the device." : {
+            "files": "vst-spec-calibrate.html",
+            "message": "Place a blank cuvette in the device."
+        },
+        "Please enter the source IP address:" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "Please enter the source IP address:"
+        },
+        "Plug in a Go Direct device via USB to update firmware." : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Plug in a Go Direct device via USB to update firmware."
+        },
+        "point" : {
+            "files": "AppController.js",
+            "message": "point"
+        },
+        "points" : {
+            "files": "AppController.js",
+            "message": "points"
+        },
+        "Points" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Points"
+        },
+        "points before trigger" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "points before trigger"
+        },
+        "Prediction" : {
+            "files": "DataWorld.js / PredictionController.js / vst-core-graph-predictions.html",
+            "message": "Prediction"
+        },
+        "Prediction Name" : {
+            "files": "GraphController.js",
+            "message": "Prediction Name"
+        },
+        "Prediction name has %s character limit." : {
+            "files": "GraphController.js",
+            "message": "Prediction name has %s character limit."
+        },
+        "Prediction Title" : {
+            "files": "vst-core-graph-predictions.html",
+            "message": "Prediction Title"
+        },
+        "Predictions" : {
+            "files": "vst-core-graph-plot-manager.html / vst-core-graph-y-column-list.html",
+            "message": "Predictions"
+        },
+        "Presentation" : {
+            "files": "ToolbarController.js",
+            "message": "Presentation"
+        },
+        "Primary" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Primary"
+        },
+        "Primary:" : {
+            "files": "vst-core-device-info.html",
+            "message": "Primary:"
+        },
+        "Projectile Launcher" : {
+            "files": "vst-core-bottombar.js / vst-core-data-collection-settings.html",
+            "message": "Projectile Launcher"
+        },
+        "Pulse timing" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Pulse timing"
+        },
+        "radians" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "radians"
+        },
+        "Radians (rad)" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Radians (rad)"
+        },
+        "Rate" : {
+            "files": "vst-core-bottombar.html / vst-core-data-collection-settings.html",
+            "message": "Rate"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            "files": "vst-core-data-collection-settings.js",
+            "message": "Rates exceeding 200 samples/s require a fixed duration."
+        },
+        "Recovery file found." : {
+            "files": "startup-file-handler.js",
+            "message": "Recovery file found."
+        },
+        "Relative stability reading" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Relative stability reading"
+        },
+        "Remove the blank cuvette from the spectrophotometer." : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Remove the blank cuvette from the spectrophotometer."
+        },
+        "Rename" : {
+            "files": "vst-core-experiment-tile.js / vst-core-rename.html",
+            "message": "Rename"
+        },
+        "Rename Data Set" : {
+            "files": "GraphController.js / TableController.js",
+            "message": "Rename Data Set"
+        },
+        "Rename Prediction" : {
+            "files": "GraphController.js",
+            "message": "Rename Prediction"
+        },
+        "Reported Reading" : {
+            "files": "vst-core-calibration.html",
+            "message": "Reported Reading"
+        },
+        "Reset (Zero) on Collect" : {
+            "files": "MeterContainerController.js",
+            "message": "Reset (Zero) on Collect"
+        },
+        "Reset to Defaults" : {
+            "files": "vst-core-calibration-gdx.html / vst-core-calibration.html / vst-core-feature-flags.html",
+            "message": "Reset to Defaults"
+        },
+        "Restart app" : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Restart app"
+        },
+        "Restore" : {
+            "files": "startup-file-handler.js",
+            "message": "Restore"
+        },
+        "Retry Calibration" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Retry Calibration"
+        },
+        "Return to Graphical Analysis" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Return to Graphical Analysis"
+        },
+        "Reverse" : {
+            "files": "MeterContainerController.js",
+            "message": "Reverse"
+        },
+        "revolution" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "revolution"
+        },
+        "Revolutions (rev)" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Revolutions (rev)"
+        },
+        "Right" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Right"
+        },
+        "RMSE" : {
+            "files": "vst-core-infobox.html",
+            "message": "RMSE"
+        },
+        "s" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "s"
+        },
+        "sample" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "sample"
+        },
+        "Sample Data" : {
+            "files": "vst-ga-welcome.html / vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "Sample Data"
+        },
+        "Samples" : {
+            "files": "vst-core-infobox.html",
+            "message": "Samples"
+        },
+        "samples" : {
+            "files": "vst-core-bottombar.js / vst-core-data-collection-settings.html / vst-core-experiment-collection.html",
+            "message": "samples"
+        },
+        "Save" : {
+            "files": "FileIO-cordova.js / ViewManager.js / ToolbarController.js / vst-core-graph-predictions.html",
+            "message": "Save"
+        },
+        "Save and Close App" : {
+            "files": "vst-core-feature-flags.html",
+            "message": "Save and Close App"
+        },
+        "Save As..." : {
+            "files": "ToolbarController.js",
+            "message": "Save As..."
+        },
+        "Save Changes?" : {
+            "files": "ViewManager.js",
+            "message": "Save Changes?"
+        },
+        "Save Experiment" : {
+            "files": "FileIO-cordova.js",
+            "message": "Save Experiment"
+        },
+        "Save failed" : {
+            "files": "FileIO-chrome.js / FileIO-cordova.js / FileIO-electron.js",
+            "message": "Save failed"
+        },
+        "Saved" : {
+            "files": "vst-core-experiment-collection.html",
+            "message": "Saved"
+        },
+        "Scale Factor" : {
+            "files": "vst-core-accessibility.html",
+            "message": "Scale Factor"
+        },
+        "Scaling" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Scaling"
+        },
+        "Searching for devices..." : {
+            "files": "vst-core-device-manager.html",
+            "message": "Searching for devices..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            "files": "vst-core-calibration.js",
+            "message": "Second calibration point sensor voltage must differ from the first point by at least 0.05 V."
+        },
+        "Secondary" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Secondary"
+        },
+        "Secondary:" : {
+            "files": "vst-core-device-info.html",
+            "message": "Secondary:"
+        },
+        "seconds" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "seconds"
+        },
+        "seconds for lamp to warm up" : {
+            "files": "vst-spec-calibrate.html",
+            "message": "seconds for lamp to warm up"
+        },
+        "Select the desired units for reporting the angular position." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Select the desired units for reporting the angular position."
+        },
+        "Select the desired wavelength by tapping on the graph or typing in the value." : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Select the desired wavelength by tapping on the graph or typing in the value."
+        },
+        "Select Trace" : {
+            "files": "vst-va-video-container.html",
+            "message": "Select Trace"
+        },
+        "Selected Events" : {
+            "files": "vst-core-bottombar.html / vst-core-data-collection-settings.html",
+            "message": "Selected Events"
+        },
+        "Sensor Channels" : {
+            "files": "vst-core-device-manager.html",
+            "message": "Sensor Channels"
+        },
+        "Sensor Data Collection" : {
+            "files": "vst-ga-welcome.html",
+            "message": "Sensor Data Collection"
+        },
+        "Sensor Voltage" : {
+            "files": "vst-core-calibration.html",
+            "message": "Sensor Voltage"
+        },
+        "Sensor Zeroed" : {
+            "files": "MeterContainerController.js",
+            "message": "Sensor Zeroed"
+        },
+        "Sensors" : {
+            "files": "BottombarController.js / DataShareConnectController.js / WelcomeController.js / vst-core-bottombar.html",
+            "message": "Sensors"
+        },
+        "Settings" : {
+            "files": "vst-sa-app.html",
+            "message": "Settings"
+        },
+        "Show All" : {
+            "files": "vst-core-graph-plot-manager.html",
+            "message": "Show All"
+        },
+        "Show mid-time through gate" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Show mid-time through gate"
+        },
+        "Significant Figures" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Significant Figures"
+        },
+        "Skip" : {
+            "files": "vst-spec-calibrate.html",
+            "message": "Skip"
+        },
+        "Slope" : {
+            "files": "vst-core-calibration.html / vst-core-graph-analysis.html",
+            "message": "Slope"
+        },
+        "Spacing" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Spacing"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Spacing = Circumference / Number of Spokes"
+        },
+        "Specify source" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "Specify source"
+        },
+        "Spectral Analysis is a tool for science students to collect and analyze data from Vernier spectrophotometers, including SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>." : {
+            "files": "vst-sa-about.js",
+            "message": "Spectral Analysis is a tool for science students to collect and analyze data from Vernier spectrophotometers, including SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>."
+        },
+        "Spectrometer Settings" : {
+            "files": "vst-sa-settings.html",
+            "message": "Spectrometer Settings"
+        },
+        "Spectrometers" : {
+            "files": "vst-sa-welcome.js",
+            "message": "Spectrometers"
+        },
+        "Spectrum" : {
+            "files": "DataWorld.js",
+            "message": "Spectrum"
+        },
+        "Speed through Gate" : {
+            "files": "vst-core-bottombar.js / vst-core-data-collection-settings.html",
+            "message": "Speed through Gate"
+        },
+        "Spokes:" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Spokes:"
+        },
+        "Start and Stop Collection" : {
+            "files": "vst-core-toolbar.html",
+            "message": "Start and Stop Collection"
+        },
+        "Start Collection" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Start Collection"
+        },
+        "Start collection when" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Start collection when"
+        },
+        "Start New Experiment?" : {
+            "files": "ViewManager.js / AppController.js",
+            "message": "Start New Experiment?"
+        },
+        "Statistics" : {
+            "files": "vst-core-infobox.js",
+            "message": "Statistics"
+        },
+        "Std dev" : {
+            "files": "vst-core-infobox.html",
+            "message": "Std dev"
+        },
+        "Stop" : {
+            "files": "vst-core-toolbar.js",
+            "message": "Stop"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            "files": "vst-core-calibration-drop-counter.html",
+            "message": "Stop adding drops when the volume reaches between 9 mL and 10 mL."
+        },
+        "Submit" : {
+            "files": "vst-core-device-manager.html / vst-core-graph-options.html",
+            "message": "Submit"
+        },
+        "Syncing to Google Drive" : {
+            "files": "vst-core-experiment-tile.html",
+            "message": "Syncing to Google Drive"
+        },
+        "Table" : {
+            "files": "ToolbarController.js",
+            "message": "Table"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Take reading from a sensor (e.g., pH, conductivity) on every drop."
+        },
+        "Tangent" : {
+            "files": "GraphController.js",
+            "message": "Tangent"
+        },
+        "Target" : {
+            "files": "vst-ga-graph-container.js",
+            "message": "Target"
+        },
+        "Temporal Averaging" : {
+            "files": "vst-sa-settings.html",
+            "message": "Temporal Averaging"
+        },
+        "The Bluetooth connection has been lost" : {
+            "files": "AppController.js",
+            "message": "The Bluetooth connection has been lost"
+        },
+        "The firmware update failed." : {
+            "files": "AppController.js",
+            "message": "The firmware update failed."
+        },
+        "The launch speed is the average speed of the projectile as it passes between the two built-in gates." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "The launch speed is the average speed of the projectile as it passes between the two built-in gates."
+        },
+        "The launch speed is the average speed of the projectile as it passes the first built-in gate." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "The launch speed is the average speed of the projectile as it passes the first built-in gate."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate."
+        },
+        "The time a photogate is blocked is reported as Blocked-Time. The Blocked-Time can be the time since data collection started or the time since the first gate is blocked." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "The time a photogate is blocked is reported as Blocked-Time. The Blocked-Time can be the time since data collection started or the time since the first gate is blocked."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "The time between successive blocked events is reported as Interval."
+        },
+        "There are no saved experiments." : {
+            "files": "vst-core-experiment-collection.js",
+            "message": "There are no saved experiments."
+        },
+        "There was a problem encountered while starting the application. <br> ${error.message}" : {
+            "files": "vst-core-startup.js",
+            "message": "There was a problem encountered while starting the application. <br> ${error.message}"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "This column was automatically generated and cannot be changed"
+        },
+        "This feature requires a" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "This feature requires a"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "This number defines the fraction of a turn the angular position changes with each blocked event."
+        },
+        "Time" : {
+            "files": "DataWorld.js",
+            "message": "Time"
+        },
+        "Time at each gate" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Time at each gate"
+        },
+        "Time Based" : {
+            "files": "vst-core-bottombar.html / vst-core-data-collection-settings.html",
+            "message": "Time Based"
+        },
+        "Time between gates" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Time between gates"
+        },
+        "Time measurements" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Time measurements"
+        },
+        "Time of Flight Pad" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Time of Flight Pad"
+        },
+        "Time Units" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Time Units"
+        },
+        "Timer" : {
+            "files": "vst-core-bottombar.js",
+            "message": "Timer"
+        },
+        "Timer or Period" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Timer or Period"
+        },
+        "Title" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Title"
+        },
+        "to" : {
+            "files": "AppController.js",
+            "message": "to"
+        },
+        "To locate the address:" : {
+            "files": "vst-core-datashare-connect.html",
+            "message": "To locate the address:"
+        },
+        "Too few points" : {
+            "files": "DataAnalysis.js",
+            "message": "Too few points"
+        },
+        "Top" : {
+            "files": "vst-core-graph-options.html",
+            "message": "Top"
+        },
+        "Total samples" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Total samples"
+        },
+        "Tutorials" : {
+            "files": "vst-va-welcome.html / vst-sa-welcome.html",
+            "message": "Tutorials"
+        },
+        "Two-point calibration" : {
+            "files": "vst-core-calibration.html",
+            "message": "Two-point calibration"
+        },
+        "Ultra Pulley - in groove" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Ultra Pulley - in groove"
+        },
+        "Ultra Pulley - outside edge" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Ultra Pulley - outside edge"
+        },
+        "Unable to connect or find a source of this name." : {
+            "files": "DataShareConnectController.js",
+            "message": "Unable to connect or find a source of this name."
+        },
+        "Unable to connect to " : {
+            "files": "DataShareConnectController.js",
+            "message": "Unable to connect to "
+        },
+        "Unable to sync to Google Drive" : {
+            "files": "vst-core-experiment-tile.html",
+            "message": "Unable to sync to Google Drive"
+        },
+        "Units" : {
+            "files": "MeterContainerController.js / vst-core-column-group-options.html / vst-core-data-collection-settings.html",
+            "message": "Units"
+        },
+        "Up to date" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Up to date"
+        },
+        "Update All" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Update All"
+        },
+        "Update Available" : {
+            "files": "ToolbarController.js / vst-core-autoupdate.html",
+            "message": "Update Available"
+        },
+        "Update error" : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Update error"
+        },
+        "Update Firmware" : {
+            "files": "DeviceManagerController.js / vst-firmware-updater-app.html / vst-core-device-manager.html",
+            "message": "Update Firmware"
+        },
+        "Update is downloading..." : {
+            "files": "vst-core-autoupdate.html",
+            "message": "Update is downloading..."
+        },
+        "Update will take approximately" : {
+            "files": "vst-firmware-updater-app.html",
+            "message": "Update will take approximately"
+        },
+        "USB Device" : {
+            "files": "vst-core-device-manager.html",
+            "message": "USB Device"
+        },
+        "Use % Transmittance" : {
+            "files": "vst-sa-welcome.html",
+            "message": "Use % Transmittance"
+        },
+        "Use first blocked event as time = 0" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Use first blocked event as time = 0"
+        },
+        "Use gate separation" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Use gate separation"
+        },
+        "Use object / flag width" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Use object / flag width"
+        },
+        "Use projectile diameter" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Use projectile diameter"
+        },
+        "Use Scientific Notation" : {
+            "files": "vst-core-column-group-options.html",
+            "message": "Use Scientific Notation"
+        },
+        "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Use this option to investigate speed with respect to time. The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked."
+        },
+        "Use Time of Flight Pad" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Use Time of Flight Pad"
+        },
+        "User Manual" : {
+            "files": "ToolbarController.js / vst-ga-welcome.html",
+            "message": "User Manual"
+        },
+        "Using factory calibration from" : {
+            "files": "vst-core-calibration-gdx.html",
+            "message": "Using factory calibration from"
+        },
+        "Value must be between " : {
+            "files": "vst-core-calibration-gdx.js",
+            "message": "Value must be between "
+        },
+        "Vernier Picket Fence" : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "Vernier Picket Fence"
+        },
+        "Vernier Spectrometers" : {
+            "files": "vst-sa-welcome.html",
+            "message": "Vernier Spectrometers"
+        },
+        "Version" : {
+            "files": "vst-core-device-info.html",
+            "message": "Version"
+        },
+        "Video" : {
+            "files": "ToolbarController.js",
+            "message": "Video"
+        },
+        "Video Analysis<sup>™</sup>." : {
+            "files": "vst-va-about.js",
+            "message": "Video Analysis<sup>™</sup>."
+        },
+        "Videos" : {
+            "files": "DataWorld.js",
+            "message": "Videos"
+        },
+        "View" : {
+            "files": "vst-ga-app.html / vst-va-app.html / index.html",
+            "message": "View"
+        },
+        "View Integral" : {
+            "files": "GraphController.js",
+            "message": "View Integral"
+        },
+        "View Statistics" : {
+            "files": "GraphController.js",
+            "message": "View Statistics"
+        },
+        "Voltage" : {
+            "files": "vst-core-calibration.html",
+            "message": "Voltage"
+        },
+        "vs. Concentration" : {
+            "files": "vst-sa-welcome.html",
+            "message": "vs. Concentration"
+        },
+        "vs. Time " : {
+            "files": "vst-sa-welcome.html",
+            "message": "vs. Time "
+        },
+        "vs. Wavelength" : {
+            "files": "vst-sa-welcome.html",
+            "message": "vs. Wavelength"
+        },
+        "Waiting" : {
+            "files": "vst-spec-calibrate.html",
+            "message": "Waiting"
+        },
+        "Waiting for" : {
+            "files": "AppController.js",
+            "message": "Waiting for"
+        },
+        "Waiting for ${name} to ${triggeringSlope} across ${this.triggeringParams.threshold} ${triggeringSensor.units}" : {
+            "files": "AppController.js",
+            "message": "Waiting for ${name} to ${triggeringSlope} across ${this.triggeringParams.threshold} ${triggeringSensor.units}"
+        },
+        "Wavelength" : {
+            "files": "vst-spec-wavelength-chooser.html",
+            "message": "Wavelength"
+        },
+        "Wavelength Smoothing" : {
+            "files": "vst-sa-settings.html",
+            "message": "Wavelength Smoothing"
+        },
+        "What's New" : {
+            "files": "ToolbarController.js",
+            "message": "What's New"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            "files": "vst-core-data-collection-settings.html",
+            "message": "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates."
+        },
+        "Windows 10 is required for wireless connection." : {
+            "files": "vst-core-device-manager.html",
+            "message": "Windows 10 is required for wireless connection."
+        },
+        "Working..." : {
+            "files": "ToolbarController.js",
+            "message": "Working..."
+        },
+        "X*Y" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "X*Y",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "X+A" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "X+A",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "X-A" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "X-A",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "x-axis range" : {
+            "files": "vst-core-graph-options.html",
+            "message": "x-axis range"
+        },
+        "x-range" : {
+            "files": "vst-core-infobox.html",
+            "message": "x-range"
+        },
+        "X-Y" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "X-Y",
+            "comments": "Part of Calculated Column definitions"
+        },
+        "y =" : {
+            "files": "vst-core-infobox.html",
+            "message": "y ="
+        },
+        "y-axis range" : {
+            "files": "vst-core-graph-options.html",
+            "message": "y-axis range"
+        },
+        "Zero" : {
+            "files": "MeterContainerController.js",
+            "message": "Zero"
+        },
+        "[ x-axis ]" : {
+            "files": "vst-core-graph.js",
+            "message": "[ x-axis ]"
+        },
+        "[ y-axis ]" : {
+            "files": "vst-core-graph.js",
+            "message": "[ y-axis ]"
+        },
+        "© 2012-2018 Vernier Software &amp; Technology" : {
+            "files": "vst-ga-about.html / vst-va-about.html / vst-sa-about.html",
+            "message": "© 2012-2018 Vernier Software &amp; Technology"
+        },
+        "Δx" : {
+            "files": "vst-core-infobox.html",
+            "message": "Δx"
+        },
+        "Δy" : {
+            "files": "vst-core-infobox.html",
+            "message": "Δy"
+        },
+        "√(X&sup2;+Y&sup2;+Z&sup2;)" : {
+            "files": "vst-core-calc-functions.html",
+            "message": "√(X&sup2;+Y&sup2;+Z&sup2;)",
+            "comments": "Part of Calculated Column definitions"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            "files": "sensormap.json",
+            "message": "25-g Accelerometer"
+        },
+        "3-Axis Accelerometer (X)" : {
+            "files": "sensormap.json",
+            "message": "3-Axis Accelerometer (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            "files": "sensormap.json",
+            "message": "3-Axis Accelerometer (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            "files": "sensormap.json",
+            "message": "3-Axis Accelerometer (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            "files": "sensormap.json",
+            "message": "30V Voltage (+/-30V)"
+        },
+        "Absorbance" : {
+            "files": "sensormap.json",
+            "message": "Absorbance"
+        },
+        "Acceleration" : {
+            "files": "sensormap.json",
+            "message": "Acceleration"
+        },
+        "Accelerometer" : {
+            "files": "sensormap.json",
+            "message": "Accelerometer"
+        },
+        "Ammonium" : {
+            "files": "sensormap.json",
+            "message": "Ammonium"
+        },
+        "Ammonium ISE" : {
+            "files": "sensormap.json",
+            "message": "Ammonium ISE"
+        },
+        "Analyzer" : {
+            "files": "sensormap.json",
+            "message": "Analyzer"
+        },
+        "Anemometer" : {
+            "files": "sensormap.json",
+            "message": "Anemometer"
+        },
+        "Angle" : {
+            "files": "sensormap.json",
+            "message": "Angle"
+        },
+        "Barometer" : {
+            "files": "sensormap.json",
+            "message": "Barometer"
+        },
+        "Barometer (No Longer Sold)" : {
+            "files": "sensormap.json",
+            "message": "Barometer (No Longer Sold)"
+        },
+        "Biology Gas Pressure" : {
+            "files": "sensormap.json",
+            "message": "Biology Gas Pressure"
+        },
+        "Blood Pressure" : {
+            "files": "sensormap.json",
+            "message": "Blood Pressure"
+        },
+        "Calcium" : {
+            "files": "sensormap.json",
+            "message": "Calcium"
+        },
+        "Calcium ISE" : {
+            "files": "sensormap.json",
+            "message": "Calcium ISE"
+        },
+        "Charge" : {
+            "files": "sensormap.json",
+            "message": "Charge"
+        },
+        "Charge Sensor" : {
+            "files": "sensormap.json",
+            "message": "Charge Sensor"
+        },
+        "Charge Sensor 100 nC" : {
+            "files": "sensormap.json",
+            "message": "Charge Sensor 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            "files": "sensormap.json",
+            "message": "Charge Sensor 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            "files": "sensormap.json",
+            "message": "Charge Sensor 5 nC"
+        },
+        "Chloride" : {
+            "files": "sensormap.json",
+            "message": "Chloride"
+        },
+        "Chloride ISE" : {
+            "files": "sensormap.json",
+            "message": "Chloride ISE"
+        },
+        "CO2" : {
+            "files": "sensormap.json",
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            "files": "sensormap.json",
+            "message": "CO2 Gas High"
+        },
+        "CO2 Gas Low" : {
+            "files": "sensormap.json",
+            "message": "CO2 Gas Low"
+        },
+        "CO2 Gas Old" : {
+            "files": "sensormap.json",
+            "message": "CO2 Gas Old"
+        },
+        "Colorimeter" : {
+            "files": "sensormap.json",
+            "message": "Colorimeter"
+        },
+        "Colorimeter Old" : {
+            "files": "sensormap.json",
+            "message": "Colorimeter Old"
+        },
+        "Conductivity" : {
+            "files": "sensormap.json",
+            "message": "Conductivity"
+        },
+        "Conductivity 20000MICS" : {
+            "files": "sensormap.json",
+            "message": "Conductivity 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            "files": "sensormap.json",
+            "message": "Conductivity 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            "files": "sensormap.json",
+            "message": "Conductivity 200MICS"
+        },
+        "Constant Current System" : {
+            "files": "sensormap.json",
+            "message": "Constant Current System"
+        },
+        "Cuff Pressure" : {
+            "files": "sensormap.json",
+            "message": "Cuff Pressure"
+        },
+        "Current" : {
+            "files": "sensormap.json",
+            "message": "Current"
+        },
+        "Current Probe" : {
+            "files": "sensormap.json",
+            "message": "Current Probe"
+        },
+        "Current Probe 1.2A" : {
+            "files": "sensormap.json",
+            "message": "Current Probe 1.2A"
+        },
+        "Diastolic" : {
+            "files": "sensormap.json",
+            "message": "Diastolic"
+        },
+        "Differential Voltage" : {
+            "files": "sensormap.json",
+            "message": "Differential Voltage"
+        },
+        "Digital Control Unit" : {
+            "files": "sensormap.json",
+            "message": "Digital Control Unit"
+        },
+        "Direct-Connect Temp" : {
+            "files": "sensormap.json",
+            "message": "Direct-Connect Temp"
+        },
+        "Displacement" : {
+            "files": "sensormap.json",
+            "message": "Displacement"
+        },
+        "Dissolved CO2" : {
+            "files": "sensormap.json",
+            "message": "Dissolved CO2"
+        },
+        "Dissolved Oxygen" : {
+            "files": "sensormap.json",
+            "message": "Dissolved Oxygen"
+        },
+        "DO" : {
+            "files": "sensormap.json",
+            "message": "DO"
+        },
+        "Drop Counter" : {
+            "files": "sensormap.json",
+            "message": "Drop Counter"
+        },
+        "Dual Range Force 10 N" : {
+            "files": "sensormap.json",
+            "message": "Dual Range Force 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            "files": "sensormap.json",
+            "message": "Dual Range Force 50 N"
+        },
+        "EKG" : {
+            "files": "sensormap.json",
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            "files": "sensormap.json",
+            "message": "Electrode Amplifier"
+        },
+        "Energy" : {
+            "files": "sensormap.json",
+            "message": "Energy"
+        },
+        "Energy Sensor Current" : {
+            "files": "sensormap.json",
+            "message": "Energy Sensor Current"
+        },
+        "Energy Sensor Voltage" : {
+            "files": "sensormap.json",
+            "message": "Energy Sensor Voltage"
+        },
+        "Ethanol" : {
+            "files": "sensormap.json",
+            "message": "Ethanol"
+        },
+        "Ethanol Sensor" : {
+            "files": "sensormap.json",
+            "message": "Ethanol Sensor"
+        },
+        "Extra Long Temperature" : {
+            "files": "sensormap.json",
+            "message": "Extra Long Temperature"
+        },
+        "Flow Rate" : {
+            "files": "sensormap.json",
+            "message": "Flow Rate"
+        },
+        "Force" : {
+            "files": "sensormap.json",
+            "message": "Force"
+        },
+        "Force Plate" : {
+            "files": "sensormap.json",
+            "message": "Force Plate"
+        },
+        "Force Plate 3500N" : {
+            "files": "sensormap.json",
+            "message": "Force Plate 3500N"
+        },
+        "Force Plate 850N" : {
+            "files": "sensormap.json",
+            "message": "Force Plate 850N"
+        },
+        "Gas Pressure Sensor" : {
+            "files": "sensormap.json",
+            "message": "Gas Pressure Sensor"
+        },
+        "Gate State" : {
+            "files": "sensormap.json",
+            "message": "Gate State"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            "files": "sensormap.json",
+            "message": "Go Wireless Electrode Amplifier"
+        },
+        "Go Wireless Heart Rate" : {
+            "files": "sensormap.json",
+            "message": "Go Wireless Heart Rate"
+        },
+        "Go Wireless pH" : {
+            "files": "sensormap.json",
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            "files": "sensormap.json",
+            "message": "Go Wireless Temp"
+        },
+        "Go! Motion" : {
+            "files": "sensormap.json",
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            "files": "sensormap.json",
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            "files": "sensormap.json",
+            "message": "Goniometer"
+        },
+        "Hand Dynamometer" : {
+            "files": "sensormap.json",
+            "message": "Hand Dynamometer"
+        },
+        "Heart Rate" : {
+            "files": "sensormap.json",
+            "message": "Heart Rate"
+        },
+        "Heart Rate Monitor" : {
+            "files": "sensormap.json",
+            "message": "Heart Rate Monitor"
+        },
+        "High Current Sensor" : {
+            "files": "sensormap.json",
+            "message": "High Current Sensor"
+        },
+        "High Sensitivity Light 1 µW" : {
+            "files": "sensormap.json",
+            "message": "High Sensitivity Light 1 µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            "files": "sensormap.json",
+            "message": "High Sensitivity Light 10 µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            "files": "sensormap.json",
+            "message": "High Sensitivity Light 100 µW"
+        },
+        "Illumination" : {
+            "files": "sensormap.json",
+            "message": "Illumination"
+        },
+        "Instrumentation Amplifier" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier +-200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier +-20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            "files": "sensormap.json",
+            "message": "Instrumentation Amplifier 20mV"
+        },
+        "Intensity" : {
+            "files": "sensormap.json",
+            "message": "Intensity"
+        },
+        "IR Temperature Sensor" : {
+            "files": "sensormap.json",
+            "message": "IR Temperature Sensor"
+        },
+        "Irradiance" : {
+            "files": "sensormap.json",
+            "message": "Irradiance"
+        },
+        "Light" : {
+            "files": "sensormap.json",
+            "message": "Light"
+        },
+        "Light 150000 lux" : {
+            "files": "sensormap.json",
+            "message": "Light 150000 lux"
+        },
+        "Light 600 lux" : {
+            "files": "sensormap.json",
+            "message": "Light 600 lux"
+        },
+        "Light 6000 lux" : {
+            "files": "sensormap.json",
+            "message": "Light 6000 lux"
+        },
+        "Light Level" : {
+            "files": "sensormap.json",
+            "message": "Light Level"
+        },
+        "Linear Position Sensor" : {
+            "files": "sensormap.json",
+            "message": "Linear Position Sensor"
+        },
+        "Low-g Accelerometer" : {
+            "files": "sensormap.json",
+            "message": "Low-g Accelerometer"
+        },
+        "Magnetic Field" : {
+            "files": "sensormap.json",
+            "message": "Magnetic Field"
+        },
+        "Magnetic Field 0.3 mT" : {
+            "files": "sensormap.json",
+            "message": "Magnetic Field 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            "files": "sensormap.json",
+            "message": "Magnetic Field 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            "files": "sensormap.json",
+            "message": "Mean Arterial Pressure"
+        },
+        "Melt Station" : {
+            "files": "sensormap.json",
+            "message": "Melt Station"
+        },
+        "Microphone" : {
+            "files": "sensormap.json",
+            "message": "Microphone"
+        },
+        "Motion" : {
+            "files": "sensormap.json",
+            "message": "Motion"
+        },
+        "Motion Detector" : {
+            "files": "sensormap.json",
+            "message": "Motion Detector"
+        },
+        "Motion Encoder Cart" : {
+            "files": "sensormap.json",
+            "message": "Motion Encoder Cart"
+        },
+        "Nitrate" : {
+            "files": "sensormap.json",
+            "message": "Nitrate"
+        },
+        "Nitrate ISE" : {
+            "files": "sensormap.json",
+            "message": "Nitrate ISE"
+        },
+        "Optical DO Probe %" : {
+            "files": "sensormap.json",
+            "message": "Optical DO Probe %"
+        },
+        "Optical DO Probe mg/L" : {
+            "files": "sensormap.json",
+            "message": "Optical DO Probe mg/L"
+        },
+        "Oxygen Gas" : {
+            "files": "sensormap.json",
+            "message": "Oxygen Gas"
+        },
+        "Oxygen Gas Old" : {
+            "files": "sensormap.json",
+            "message": "Oxygen Gas Old"
+        },
+        "PAR Sensor" : {
+            "files": "sensormap.json",
+            "message": "PAR Sensor"
+        },
+        "pH" : {
+            "files": "sensormap.json",
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            "files": "sensormap.json",
+            "message": "pH/mV/ORP Amplifiers"
+        },
+        "Photogate" : {
+            "files": "sensormap.json",
+            "message": "Photogate"
+        },
+        "Platinum-Cell Conductivity" : {
+            "files": "sensormap.json",
+            "message": "Platinum-Cell Conductivity"
+        },
+        "Polarimeter" : {
+            "files": "sensormap.json",
+            "message": "Polarimeter"
+        },
+        "Position" : {
+            "files": "sensormap.json",
+            "message": "Position"
+        },
+        "Potassium" : {
+            "files": "sensormap.json",
+            "message": "Potassium"
+        },
+        "Potassium ISE" : {
+            "files": "sensormap.json",
+            "message": "Potassium ISE"
+        },
+        "Potential" : {
+            "files": "sensormap.json",
+            "message": "Potential"
+        },
+        "Power" : {
+            "files": "sensormap.json",
+            "message": "Power"
+        },
+        "Power Amp Current" : {
+            "files": "sensormap.json",
+            "message": "Power Amp Current"
+        },
+        "PPFD" : {
+            "files": "sensormap.json",
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            "files": "sensormap.json",
+            "message": "Pressure"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            "files": "sensormap.json",
+            "message": "Pressure Sensor (No Longer Sold)"
+        },
+        "Pressure Sensor 400" : {
+            "files": "sensormap.json",
+            "message": "Pressure Sensor 400"
+        },
+        "Projectile Launcher" : {
+            "files": "sensormap.json",
+            "message": "Projectile Launcher"
+        },
+        "Pulse" : {
+            "files": "sensormap.json",
+            "message": "Pulse"
+        },
+        "Pyranometer" : {
+            "files": "sensormap.json",
+            "message": "Pyranometer"
+        },
+        "Radiation" : {
+            "files": "sensormap.json",
+            "message": "Radiation"
+        },
+        "Radiation Monitor" : {
+            "files": "sensormap.json",
+            "message": "Radiation Monitor"
+        },
+        "Raw Voltage (0-5V)" : {
+            "files": "sensormap.json",
+            "message": "Raw Voltage (0-5V)"
+        },
+        "Relative Humidity" : {
+            "files": "sensormap.json",
+            "message": "Relative Humidity"
+        },
+        "Resistance" : {
+            "files": "sensormap.json",
+            "message": "Resistance"
+        },
+        "Respiration Monitor" : {
+            "files": "sensormap.json",
+            "message": "Respiration Monitor"
+        },
+        "Respiration Rate" : {
+            "files": "sensormap.json",
+            "message": "Respiration Rate"
+        },
+        "Rotary Motion" : {
+            "files": "sensormap.json",
+            "message": "Rotary Motion"
+        },
+        "Salinity" : {
+            "files": "sensormap.json",
+            "message": "Salinity"
+        },
+        "Signal" : {
+            "files": "sensormap.json",
+            "message": "Signal"
+        },
+        "Soil Moisture" : {
+            "files": "sensormap.json",
+            "message": "Soil Moisture"
+        },
+        "Soil Moisture Sensor" : {
+            "files": "sensormap.json",
+            "message": "Soil Moisture Sensor"
+        },
+        "Sound Level" : {
+            "files": "sensormap.json",
+            "message": "Sound Level"
+        },
+        "Sound Level Sensor" : {
+            "files": "sensormap.json",
+            "message": "Sound Level Sensor"
+        },
+        "Sound Pressure" : {
+            "files": "sensormap.json",
+            "message": "Sound Pressure"
+        },
+        "Speed" : {
+            "files": "sensormap.json",
+            "message": "Speed"
+        },
+        "Spirometer" : {
+            "files": "sensormap.json",
+            "message": "Spirometer"
+        },
+        "Standard Temperature" : {
+            "files": "sensormap.json",
+            "message": "Standard Temperature"
+        },
+        "Student Force" : {
+            "files": "sensormap.json",
+            "message": "Student Force"
+        },
+        "Student Radiation Monitor" : {
+            "files": "sensormap.json",
+            "message": "Student Radiation Monitor"
+        },
+        "Systolic" : {
+            "files": "sensormap.json",
+            "message": "Systolic"
+        },
+        "Temperature" : {
+            "files": "sensormap.json",
+            "message": "Temperature"
+        },
+        "Temperature Probe" : {
+            "files": "sensormap.json",
+            "message": "Temperature Probe"
+        },
+        "Thermocouple" : {
+            "files": "sensormap.json",
+            "message": "Thermocouple"
+        },
+        "Thermocouple Old" : {
+            "files": "sensormap.json",
+            "message": "Thermocouple Old"
+        },
+        "TI Light" : {
+            "files": "sensormap.json",
+            "message": "TI Light"
+        },
+        "Transmittance" : {
+            "files": "sensormap.json",
+            "message": "Transmittance"
+        },
+        "Turbidity" : {
+            "files": "sensormap.json",
+            "message": "Turbidity"
+        },
+        "UVA Intensity" : {
+            "files": "sensormap.json",
+            "message": "UVA Intensity"
+        },
+        "UVA Sensor" : {
+            "files": "sensormap.json",
+            "message": "UVA Sensor"
+        },
+        "UVB Intensity" : {
+            "files": "sensormap.json",
+            "message": "UVB Intensity"
+        },
+        "UVB Sensor" : {
+            "files": "sensormap.json",
+            "message": "UVB Sensor"
+        },
+        "Velocity" : {
+            "files": "sensormap.json",
+            "message": "Velocity"
+        },
+        "Voltage" : {
+            "files": "sensormap.json",
+            "message": "Voltage"
+        },
+        "Voltage (+/-10V)" : {
+            "files": "sensormap.json",
+            "message": "Voltage (+/-10V)"
+        },
+        "Volume" : {
+            "files": "sensormap.json",
+            "message": "Volume"
+        },
+        "VSMT Displacement" : {
+            "files": "sensormap.json",
+            "message": "VSMT Displacement"
+        },
+        "VSMT Force" : {
+            "files": "sensormap.json",
+            "message": "VSMT Force"
+        },
+        "Wide-Range Temperature Probe" : {
+            "files": "sensormap.json",
+            "message": "Wide-Range Temperature Probe"
+        },
+        "X Acceleration" : {
+            "files": "sensormap.json",
+            "message": "X Acceleration"
+        },
+        "Y Acceleration" : {
+            "files": "sensormap.json",
+            "message": "Y Acceleration"
+        },
+        "Z Acceleration" : {
+            "files": "sensormap.json",
+            "message": "Z Acceleration"
+        }
+        
+    },
+    "mathematical": {
+        "Cosine" : {
+            "files": "DataAnalysis.js",
+            "message": "Cosine",
+            "comments": "curvefit"
+        },
+        "Cosine Squared" : {
+            "files": "DataAnalysis.js",
+            "message": "Cosine Squared",
+            "comments": "curvefit"
+        },
+        "Inverse" : {
+            "files": "DataAnalysis.js",
+            "message": "Inverse",
+            "comments": "curvefit"
+        },
+        "Inverse Squared" : {
+            "files": "DataAnalysis.js",
+            "message": "Inverse Squared",
+            "comments": "curvefit"
+        },
+        "Linear" : {
+            "files": "DataAnalysis.js / vst-core-calibration.html",
+            "message": "Linear",
+            "comments": "curvefit / calibration type"
+        },
+        "Modified Power" : {
+            "files": "vst-core-calibration.html",
+            "message": "Modified Power",
+            "comments": "calibration type"
+        },
+        "Natural Exponent" : {
+            "files": "DataAnalysis.js",
+            "message": "Natural Exponent",
+            "comments": "curvefit"
+        },
+        "Natural Log" : {
+            "files": "DataAnalysis.js",
+            "message": "Natural Log",
+            "comments": "curvefit"
+        },
+        "Power" : {
+            "files": "DataAnalysis.js / vst-core-calibration.html",
+            "message": "Power",
+            "comments": "curvefit / calibration type"
+        },
+        "Proportional" : {
+            "files": "DataAnalysis.js",
+            "message": "Proportional",
+            "comments": "curvefit"
+        },
+        "Quadratic" : {
+            "files": "DataAnalysis.js",
+            "message": "Quadratic",
+            "comments": "curvefit"
+        },
+        "Sine" : {
+            "files": "DataAnalysis.js",
+            "message": "Sine",
+            "comments": "curvefit"
+        },
+        "Slope" : {
+            "files": "vst-core-calibration.html",
+            "message": "Slope"
+        }
+        
+    },
+    "https://www.vernier.com/til/4118/": {
+        "Don" : {
+            "files": "vst-sa-welcome.js",
+            "message": "Don",
+            "comments": "_blank"
+        }
+        
+    }
+}

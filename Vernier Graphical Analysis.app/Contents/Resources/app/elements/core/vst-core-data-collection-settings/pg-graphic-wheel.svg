@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="164px" height="164px" viewBox="0 0 164 164" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Wheel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Wheel" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(1.000000, 1.000000)">
+                <circle id="Oval" stroke="#000000" stroke-width="0.57" fill="#FFFFFF" cx="80.75" cy="81.11" r="17.07"></circle>
+                <circle id="Oval" stroke="#000000" stroke-width="2.68" fill="#FFFFFF" cx="80.75" cy="81.11" r="80.75"></circle>
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="0.61" fill="#000000" cx="80.75" cy="81.11" r="18.5"></circle>
+                <path d="M109.93,5.41 C90.8583595,-1.91542929 69.728775,-1.79762623 50.74,5.74 L71.74,66.64 L88.81,66.64 L109.93,5.41 Z" id="Shape" fill="#000000"></path>
+                <path d="M0.53,92.77 C3.71479124,112.952928 14.3825422,131.196639 30.41,143.87 L72.65,95.23 L68.5,88 L68.26,87.59 L64.11,80.4 L0.53,92.77 Z" id="Shape" fill="#000000"></path>
+                <path d="M131.73,143.9 C147.591821,131.038844 158.039451,112.684996 161,92.48 L97.8,80.22 L93.65,87.41 L93.41,87.82 L89.26,95 L131.73,143.9 Z" id="Shape" fill="#000000"></path>
+                <circle id="Oval" stroke="#000000" stroke-width="0.51" fill="#FFFFFF" cx="80.75" cy="81.11" r="15.3"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

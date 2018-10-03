@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2522px" height="928px" viewBox="0 0 2522 928" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.42101086e-20 0.5943 5.42101086e-20 247.1013 56.9895 247.1013 56.9895 0.5943 0 0.5943"></polygon>
+        <polygon id="path-3" points="5.42101086e-20 0.5943 5.42101086e-20 247.1013 56.9895 247.1013 56.9895 0.5943 0 0.5943"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2">
+            <path d="M135.5,197.5 L1132.5,779.5" id="Line" stroke="#C0C0C0" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,30"></path>
+            <g id="photogate" transform="translate(291.000000, 108.000000)">
+                <g id="Group">
+                    <polygon id="Fill-1" fill="#7A7A7A" points="314.7599 309.5893 258.3769 276.8223 257.6929 95.5333 314.0759 128.3003"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" cx="289" cy="260" r="10"></circle>
+                    <polygon id="Fill-6" fill="#3B3B3B" points="369.2316 32.767 369.4106 95.538 370.0956 277.641 314.7596 309.589 314.0766 128.3 111.8936 245.031 112.5776 426.32 57.2476 458.264 56.5646 276.975 56.3836 213.39"></polygon>
+                    <path d="M0.18070094,244.208349 L0.8647,425.4971 L57.2477,458.2641 L56.5637,276.9751 L24.3083635,258.2299 L56.5641,276.975 L56.3831,213.39 L0.0001,180.623 L0.1801,244.208 Z" id="Combined-Shape" fill="#7A7A7A"></path>
+                    <polygon id="Fill-10" fill="#000000" points="56.3835 213.3901 0.0005 180.6231 312.8475 0.0001 369.2315 32.7671"></polygon>
+                </g>
+            </g>
+            <g id="photogate" transform="translate(695.000000, 341.000000)">
+                <g id="Group">
+                    <polygon id="Fill-1" fill="#7A7A7A" points="314.7599 309.5893 258.3769 276.8223 257.6929 95.5333 314.0759 128.3003"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" cx="289" cy="260" r="10"></circle>
+                    <polygon id="Fill-6" fill="#3B3B3B" points="369.2316 32.767 369.4106 95.538 370.0956 277.641 314.7596 309.589 314.0766 128.3 111.8936 245.031 112.5776 426.32 57.2476 458.264 56.5646 276.975 56.3836 213.39"></polygon>
+                    <path d="M0.18070094,244.208349 L0.8647,425.4971 L57.2477,458.2641 L56.5637,276.9751 L24.3083635,258.2299 L56.5641,276.975 L56.3831,213.39 L0.0001,180.623 L0.1801,244.208 Z" id="Combined-Shape" fill="#7A7A7A"></path>
+                    <polygon id="Fill-10" fill="#000000" points="56.3835 213.3901 0.0005 180.6231 312.8475 0.0001 369.2315 32.7671"></polygon>
+                </g>
+            </g>
+            <circle id="Oval-2" stroke="#000000" stroke-width="10" fill="#3B3B3B" cx="135" cy="197" r="50"></circle>
+            <circle id="Oval-2" stroke="#C0C0C0" stroke-width="10" fill="#C0C0C0" stroke-dasharray="20" cx="1128" cy="775" r="50"></circle>
+            <g id="Page-1" transform="translate(1785.000000, 425.000000)">
+                <g>
+                    <polygon id="Fill-1" fill="#7A7A7A" points="311.7415 248.7588 255.3585 215.9918 254.8305 29.9398 311.2145 62.7058"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" cx="283" cy="86" r="10"></circle>
+                    <polygon id="Fill-3" fill="#000000" points="311.2141 62.7061 254.8301 29.9391 306.6871 9.99999999e-05 363.0701 32.7671"></polygon>
+                    <polygon id="Fill-5" fill="#000000" points="108.7737 365.9424 52.3897 333.1754 255.3587 215.9924 311.7417 248.7584"></polygon>
+                    <polygon id="Fill-7" fill="#7A7A7A" points="57.0804 455.4717 0.6964 422.7047 0.6054 390.8067 56.9894 423.5737"></polygon>
+                    <polygon id="Fill-9" fill="#3B3B3B" points="363.0706 32.7666 363.7666 278.4066 361.9796 279.4386 311.9106 308.3456 108.9426 425.5296 57.0806 455.4716 56.9896 423.5736 56.3836 209.8326 108.2466 179.8896 108.7736 365.9426 311.7416 248.7586 311.2146 62.7056"></polygon>
+                    <g id="Group-13" transform="translate(0.000000, 176.472000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-12"></g>
+                        <polygon id="Fill-11" fill="#7A7A7A" mask="url(#mask-2)" points="56.9895 247.1013 0.6055 214.3343 -0.0005 0.5943 56.3845 33.3613"></polygon>
+                    </g>
+                    <polygon id="Fill-14" fill="#000000" points="56.3841 209.8331 0.0001 177.0661 51.8631 147.1231 108.2461 179.8901"></polygon>
+                </g>
+            </g>
+            <g id="Page-1" transform="translate(1785.000000, 425.000000)">
+                <g>
+                    <polygon id="Fill-1" fill="#7A7A7A" points="311.7415 248.7588 255.3585 215.9918 254.8305 29.9398 311.2145 62.7058"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" cx="283" cy="86" r="10"></circle>
+                    <polygon id="Fill-3" fill="#000000" points="311.2141 62.7061 254.8301 29.9391 306.6871 9.99999999e-05 363.0701 32.7671"></polygon>
+                    <polygon id="Fill-5" fill="#000000" points="108.7737 365.9424 52.3897 333.1754 255.3587 215.9924 311.7417 248.7584"></polygon>
+                    <polygon id="Fill-7" fill="#7A7A7A" points="57.0804 455.4717 0.6964 422.7047 0.6054 390.8067 56.9894 423.5737"></polygon>
+                    <polygon id="Fill-9" fill="#3B3B3B" points="363.0706 32.7666 363.7666 278.4066 361.9796 279.4386 311.9106 308.3456 108.9426 425.5296 57.0806 455.4716 56.9896 423.5736 56.3836 209.8326 108.2466 179.8896 108.7736 365.9426 311.7416 248.7586 311.2146 62.7056"></polygon>
+                    <g id="Group-13" transform="translate(0.000000, 176.472000)">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Clip-12"></g>
+                        <polygon id="Fill-11" fill="#7A7A7A" mask="url(#mask-4)" points="56.9895 247.1013 0.6055 214.3343 -0.0005 0.5943 56.3845 33.3613"></polygon>
+                    </g>
+                    <polygon id="Fill-14" fill="#000000" points="56.3841 209.8331 0.0001 177.0661 51.8631 147.1231 108.2461 179.8901"></polygon>
+                </g>
+            </g>
+            <path d="M1969,27 L1834,470.325138" id="Line" stroke="#C0C0C0" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,30"></path>
+            <path d="M1969,27 L1715,366" id="Line" stroke="#C0C0C0" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,30"></path>
+            <path d="M2167,643 L1970,27" id="Line" stroke="#C0C0C0" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,30"></path>
+            <path d="M2349,680.393242 L1970,28" id="Line" stroke="#C0C0C0" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,30"></path>
+            <path d="M1973.66667,27 L1973.66667,539.174875" id="Line" stroke="#C0C0C0" stroke-width="10" stroke-linecap="square" stroke-dasharray="10,30"></path>
+            <circle id="Oval-2" stroke="#000000" stroke-width="10" fill="#3B3B3B" cx="1715" cy="375" r="50"></circle>
+            <circle id="Oval-2" stroke="#C0C0C0" stroke-width="10" fill="#C0C0C0" stroke-dasharray="20" cx="2356" cy="693" r="50"></circle>
+        </g>
+    </g>
+</svg>

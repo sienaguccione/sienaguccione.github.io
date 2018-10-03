@@ -1,0 +1,3 @@
+provider: generic
+url: 'https://software-releases.graphicalanalysis.com/ga/mac/release'
+channel: release

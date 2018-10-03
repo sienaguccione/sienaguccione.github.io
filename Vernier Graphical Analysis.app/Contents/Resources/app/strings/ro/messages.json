@@ -1,0 +1,3442 @@
+{
+    "general": {
+        "% Transmittance" : {
+            
+            "message": "% Transmisie"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(distanta, viteza, acceleratia)"
+        },
+        ".CSV" : {
+            
+            "message": ".CSV"
+        },
+        "1 Graph" : {
+            
+            "message": "Graficul 1"
+        },
+        "1st Derivative" : {
+            
+            "message": "Derivata întâi"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": ""
+        },
+        "1st Derivative(Y, X)" : {
+            
+            "message": "Derivata întâi (Y,X)"
+        },
+        "2 Graphs" : {
+            
+            "message": "Graficul 2"
+        },
+        "2nd derivative" : {
+            
+            "message": "Derivata a doua"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": ""
+        },
+        "2nd Derivative(Y, X)" : {
+            
+            "message": "Derivata a doua (Y,X)"
+        },
+        "3 Graphs" : {
+            
+            "message": "Graficul 3"
+        },
+        "A / (B+X)" : {
+            
+            "message": "A / (B+X)"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A and B are parameters you can set. X and Y are existing columns in your data table." : {
+            
+            "message": "A si B sunt parametri care pot fi reglați. X si Y sunt deja date in coloanele tabelului."
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "S-a produs o eroare de comunicare. Începe un nou experiment pentru a continua."
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "O eroare de comunicare a oprit colectarea datelor. Vă rugăm să încercați din nou."
+        },
+        "A ln(X)" : {
+            
+            "message": "A In(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A-X" : {
+            
+            "message": "A-X"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Despre"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbanță"
+        },
+        "Acceleration through gate" : {
+            
+            "message": "Acceleraţie prin poartă"
+        },
+        "across" : {
+            
+            "message": "peste"
+        },
+        "Add a graph title here" : {
+            
+            "message": "Adaugați titlul graficului aici"
+        },
+        "Add Annotation" : {
+            
+            "message": "Adaugă o adnotare"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "Adăugați o coloana cu calculații"
+        },
+        "Add Graph Match" : {
+            
+            "message": "Adăugați Graficul Potrivit"
+        },
+        "Add Manual Column" : {
+            
+            "message": "Adăugați Coloană Manual"
+        },
+        "Add New Data Set" : {
+            
+            "message": "Adăugați Setări Noi a Datelor"
+        },
+        "Add Prediction" : {
+            
+            "message": "Adăugați Predicții"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "Se adaugă titrant în picături prin contorul de picături într-un cilindru gradat de 10 ml."
+        },
+        "After" : {
+            
+            "message": "După"
+        },
+        "After set number of flags" : {
+            
+            "message": "După ce s-a stabilit numărul de steaguri"
+        },
+        "All Files" : {
+            
+            "message": "Toate fișierele"
+        },
+        "An critical error has occurred. Please restart the application." : {
+            
+            "message": "A apărut o eroare critică. Vă rugăm reporniți aplicația."
+        },
+        "and " : {
+            
+            "message": "și "
+        },
+        "Angle units" : {
+            
+            "message": "Unităţi unghiulare"
+        },
+        "Angular Motion" : {
+            
+            "message": "Mișcare unghiulară"
+        },
+        "App is up to date" : {
+            
+            "message": "Aplicația este actualizată"
+        },
+        "App Updates" : {
+            
+            "message": "Actualizări de aplicații"
+        },
+        "Appearance" : {
+            
+            "message": "Aspect"
+        },
+        "Append" : {
+            
+            "message": "Adăugaţi"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "Adăugați date suplimentare în setul de date actual sau creați un nou set de date?"
+        },
+        "Append or Create New?" : {
+            
+            "message": "Adăugați sau Creați nou?"
+        },
+        "Apply" : {
+            
+            "message": "Aplicați"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "Aplică formă curbă"
+        },
+        "Area" : {
+            
+            "message": "Suprafață"
+        },
+        "Auto" : {
+            
+            "message": "Automat"
+        },
+        "Automatic" : {
+            
+            "message": "Automat"
+        },
+        "Autoscale" : {
+            
+            "message": "Scală automată"
+        },
+        "Average multiple measurements for each trial" : {
+            
+            "message": "Măsurători medii multiple pentru fiecare încercare"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "Citirea medie a senzorului la peste 10 secunde"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "Media peste 10 secunde"
+        },
+        "Bar Tape" : {
+            
+            "message": "Bară de interzicere"
+        },
+        "Base" : {
+            
+            "message": "Bază"
+        },
+        "Battery" : {
+            
+            "message": "Baterie"
+        },
+        "Battery Level" : {
+            
+            "message": "Nivelul bateriei"
+        },
+        "Blocked and unblocked events" : {
+            
+            "message": "Evenimente blocate și deblocate"
+        },
+        "Blocked gate duration" : {
+            
+            "message": "Durata blocată a porții"
+        },
+        "Blocked Time and the Blocked-Gate Duration is reported each time a gate is blocked." : {
+            
+            "message": "Timpul blocat şi durata blocată a porţii sunt raportate de fiecare dată când o poartă este blocată."
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Dispozitiv Bluetooth"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth ne activat"
+        },
+        "Both" : {
+            
+            "message": "Ambele"
+        },
+        "Bottom" : {
+            
+            "message": "Buton"
+        },
+        "Calibrate" : {
+            
+            "message": "Calibrare"
+        },
+        "Calibrate Spectrophotometer" : {
+            
+            "message": "Calibrarea spectrofotometru"
+        },
+        "Calibrating..." : {
+            
+            "message": "Calibrare..."
+        },
+        "Calibration reset successful" : {
+            
+            "message": "Calibrarea a fost resetată cu succes"
+        },
+        "Calibration Type" : {
+            
+            "message": "Tipul Calibrării"
+        },
+        "Cancel" : {
+            
+            "message": "Anulare"
+        },
+        "cancel" : {
+            
+            "message": "anulare"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "Cărucior inconjurat de gard"
+        },
+        "Charging," : {
+            
+            "message": "Încărcare,"
+        },
+        "Check for Updates" : {
+            
+            "message": "Verifică pentru actualizări"
+        },
+        "Check For Updates" : {
+            
+            "message": "Verifică pentru actualizări"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "Verificați senzorul pentru LED-ul intermitent"
+        },
+        "Checking for update..." : {
+            
+            "message": "Se verifică actualizarea..."
+        },
+        "Choose a Wavelength" : {
+            
+            "message": "Alegeți o Lungime de undă"
+        },
+        "Choose File" : {
+            
+            "message": "Alegeți fișierul"
+        },
+        "Clear" : {
+            
+            "message": "Curăță"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "Închideți aplicația și actualizați firmware-ul"
+        },
+        "Closing" : {
+            
+            "message": "Închidere"
+        },
+        "Closing the application now may make your device permanently unusable." : {
+            
+            "message": "Închiderea aplicației poate face dispozitivul permanent inutilizabil."
+        },
+        "Coefficient" : {
+            
+            "message": "Coeficient"
+        },
+        "Collect" : {
+            
+            "message": "Colectează"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Colectarea datelor de la senzorii Vernier"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "Colectarea unui număr mare de puncte a performanței de impact."
+        },
+        "Column Options" : {
+            
+            "message": "Opțiuni Coloană"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "Coloana va fi ștearsă din toate setările de date. Odata ștergerea făcuta, ea nu mai poate fi anulată."
+        },
+        "Column X" : {
+            
+            "message": "Coloana X"
+        },
+        "Column Y" : {
+            
+            "message": "Coloana Y"
+        },
+        "Column Z" : {
+            
+            "message": "Coloana Z"
+        },
+        "Comma Separated Values" : {
+            
+            "message": "Valori separate prin virgulă"
+        },
+        "Concentration" : {
+            
+            "message": "Concentraţie"
+        },
+        "Connect" : {
+            
+            "message": "Conectare"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Conectați un <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>."
+        },
+        "Connect a Spectrometer" : {
+            
+            "message": "Conectarea unui spectrometru"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "Conectare prin Wi-Fi la LabQuest 2 sau Logger Pro"
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "Conectați-vă la un dispozitiv wireless de mai jos sau conectați-l prin USB."
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "Conectați-vă la un dispozitiv wireless de mai jos."
+        },
+        "connected" : {
+            
+            "message": "conectat"
+        },
+        "Connected Devices" : {
+            
+            "message": "Dispozitive Conectate"
+        },
+        "Connection error" : {
+            
+            "message": "Eroare la conectare"
+        },
+        "Connection Lost" : {
+            
+            "message": "Conexiune pierdută"
+        },
+        "Contact us at" : {
+            
+            "message": "Contactați-ne la"
+        },
+        "Continue Update" : {
+            
+            "message": "Continuați actualizarea"
+        },
+        "copy" : {
+            
+            "message": "copiere"
+        },
+        "Copy" : {
+            
+            "message": "Copiați"
+        },
+        "Count Interval" : {
+            
+            "message": "Număr de interval"
+        },
+        "Counts" : {
+            
+            "message": "Numără"
+        },
+        "Create new Data Set" : {
+            
+            "message": "Creați un nou set de date"
+        },
+        "current file" : {
+            
+            "message": "fişier curent"
+        },
+        "Curve Fit" : {
+            
+            "message": "Formă Curbă"
+        },
+        "Cut" : {
+            
+            "message": "Tăiați"
+        },
+        "Data Collection Settings" : {
+            
+            "message": "Setări Colectarea Datelor"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags).  Starting collection again will start a new data set." : {
+            
+            "message": "Colectarea datelor se va opri automat după ce toate porțile au numărul estimat de măsurători de poziție (la fel ca numărul de steaguri). Începerea colectării din nou, va începe cu un nou set de date."
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "Colectarea datelor va continua până când faceţi clic pe Stop sau pe oprire manuală. Valorile poziţiei vor continua să se incrementeze cu valoarea de spaţiere până la oprirea culegerii de date."
+        },
+        "Data Set %d" : {
+            
+            "message": "Setări Date %"
+        },
+        "Data Set 1" : {
+            
+            "message": "Setări Date 1"
+        },
+        "Data Set Name" : {
+            
+            "message": "Setarea Numelui de Date"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "Setarea numelui de date este limitată la % caractere."
+        },
+        "Data Share" : {
+            
+            "message": "Partajare Date"
+        },
+        "Data Sharing" : {
+            
+            "message": "Schimb de date"
+        },
+        "Decimal Format" : {
+            
+            "message": "Format zecimal"
+        },
+        "Decimal Places" : {
+            
+            "message": "Zecimale"
+        },
+        "decreasing" : {
+            
+            "message": "descrescător"
+        },
+        "degrees" : {
+            
+            "message": ""
+        },
+        "Degrees (°)" : {
+            
+            "message": "Grade (°)"
+        },
+        "Delete" : {
+            
+            "message": "Ștergere"
+        },
+        "Delete Annotation" : {
+            
+            "message": "Șterge o adnotare"
+        },
+        "Delete Column" : {
+            
+            "message": "Ștergere Coloană"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "Ștergeți Coloana a % ?"
+        },
+        "Delete Examine Tool" : {
+            
+            "message": "Ștergere Instrument de Examinare"
+        },
+        "Delete Selection" : {
+            
+            "message": "Sterge selectia"
+        },
+        "Device Error" : {
+            
+            "message": "Eroare Dispozitiv"
+        },
+        "Device Information" : {
+            
+            "message": "Informatii dispozitiv"
+        },
+        "Disconnect" : {
+            
+            "message": "Deconectat"
+        },
+        "Discovered Devices" : {
+            
+            "message": "Descoperire Dispozitive"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "Dispozitive Wi-fi Descoperite"
+        },
+        "Displayed Precision" : {
+            
+            "message": "Precizie Arătată"
+        },
+        "Distance between gates" : {
+            
+            "message": "Distanta dintre porti"
+        },
+        "Do not disconnect your device." : {
+            
+            "message": "Nu deconectați dispozitivul."
+        },
+        "Done" : {
+            
+            "message": "Terminat"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "Descarcare completa. Actualizările vor fi instalate data viitoare când lansați aplicația"
+        },
+        "Download CSV" : {
+            
+            "message": "Descărcare CSV"
+        },
+        "Download Update" : {
+            
+            "message": "Descărcați actualizarea"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "Desenarea unei predicții"
+        },
+        "Drop Counting" : {
+            
+            "message": "Picături Numărate"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "Eliminați măsurătorile. Porniți un nou experiment și utilizați o rată de colectare mai lentă a datelor."
+        },
+        "Drops" : {
+            
+            "message": "Picături"
+        },
+        "Drops/mL" : {
+            
+            "message": "Picături/mL"
+        },
+        "duration" : {
+            
+            "message": "durata"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": ""
+        },
+        "e.g., Beer" : {
+            
+            "message": "e.g., Beer"
+        },
+        "e.g., Kinetics" : {
+            
+            "message": "e.g., Kinetics"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "Opțiuni Editare Grafic"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Porniți bluethooth-ul pt. a conecta senzorul Wi-Fi."
+        },
+        "End Collection" : {
+            
+            "message": "Sfârșitul Colectării"
+        },
+        "End data collection" : {
+            
+            "message": "Încheiere colectarea datelor"
+        },
+        "Enter an annotation" : {
+            
+            "message": "Introduceţi o adnotare"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "Introduceți datele tastând sau prin Copiere / Lipire"
+        },
+        "Enter first known value" : {
+            
+            "message": "Introduceți prima valoare cunoscută"
+        },
+        "Enter second known value" : {
+            
+            "message": "Introduceți a doua valoare cunoscută"
+        },
+        "Enter the number of flags that will break the beam as the object passes through the gate. This setting assumes all flags are the same width." : {
+            
+            "message": "Introduceți numărul de steaguri care vor rupe fasciculul în timp ce obiectul trece prin poartă. Această setare presupune că toate steagurile au aceeași lățime."
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "Introduceți volumul exact de titrant din cilindrul gradat"
+        },
+        "Equation" : {
+            
+            "message": "Ecuație"
+        },
+        "Error" : {
+            
+            "message": "Eroare"
+        },
+        "Error details" : {
+            
+            "message": "Detalii Eroare"
+        },
+        "Event" : {
+            
+            "message": "Eveniment"
+        },
+        "Event Based" : {
+            
+            "message": "Eveniment pe bază"
+        },
+        "Event Mode" : {
+            
+            "message": "Mod eveniment"
+        },
+        "Event Name" : {
+            
+            "message": "Nume Eveniment"
+        },
+        "Events with Entry" : {
+            
+            "message": "Evenimente cu intrări"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "Exemplu: 192.168.1.10"
+        },
+        "Experiment Name" : {
+            
+            "message": "Nume Experiment"
+        },
+        "Experiment name has %s character limit." : {
+            
+            "message": "Numele experimentului are limită de % caractere."
+        },
+        "Experiments" : {
+            
+            "message": "Experimente"
+        },
+        "Exponent" : {
+            
+            "message": "Exponent"
+        },
+        "Export" : {
+            
+            "message": "Exportă"
+        },
+        "Export CSV Data" : {
+            
+            "message": "Exportă Date CSV"
+        },
+        "Expression" : {
+            
+            "message": "Expresie"
+        },
+        "File" : {
+            
+            "message": "Fișier"
+        },
+        "File saved" : {
+            
+            "message": "Fișier salvat"
+        },
+        "Filename" : {
+            
+            "message": "Nume fișier"
+        },
+        "Filter" : {
+            
+            "message": "Filtru"
+        },
+        "Finish Calibration" : {
+            
+            "message": "Finalizarea calibrări"
+        },
+        "Firmware" : {
+            
+            "message": "Soft"
+        },
+        "Firmware Update in Progress" : {
+            
+            "message": "Actualizare firmware în curs"
+        },
+        "Firmware Updater" : {
+            
+            "message": "Updater de Firmware"
+        },
+        "Flag Width" : {
+            
+            "message": ""
+        },
+        "Flags" : {
+            
+            "message": ""
+        },
+        "for assistance." : {
+            
+            "message": "pentru ajutor."
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Pentru obiectele Vernier, distanța și numărul de pavilione sunt afișate pentru obiectul selectat. Pentru banda de interzicere, introduceți numărul de pavilioane."
+        },
+        "Force Close" : {
+            
+            "message": "Forţa de închidere"
+        },
+        "From Vernier.com" : {
+            
+            "message": "De la vernier.com"
+        },
+        "Full spectrum" : {
+            
+            "message": "Spectru complet"
+        },
+        "Full Spectrum" : {
+            
+            "message": "Tot spectrul"
+        },
+        "Gate Separation" : {
+            
+            "message": ""
+        },
+        "Gate State" : {
+            
+            "message": ""
+        },
+        "Gate State only" : {
+            
+            "message": "Doar condiția de poartă"
+        },
+        "Gate timing" : {
+            
+            "message": "Calendarul porţilor"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "Harta senzorilor GDX"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Senzori Go Direct"
+        },
+        "Graph" : {
+            
+            "message": "Grafic"
+        },
+        "Graph and Table" : {
+            
+            "message": "Grafic și Tabel"
+        },
+        "Graph Image" : {
+            
+            "message": "Grafic"
+        },
+        "Graph Inset" : {
+            
+            "message": "Intrare grafică"
+        },
+        "Graph Match" : {
+            
+            "message": "Potrivire Grafic"
+        },
+        "Graph Options" : {
+            
+            "message": "Opțiuni Grafic"
+        },
+        "Graph Tools" : {
+            
+            "message": "Unelte Grafic"
+        },
+        "Graph, Table and Meter" : {
+            
+            "message": "Grafic, Tabel și Metru"
+        },
+        "Graphical Analysis will shut down during the update. Only devices connected by USB can be updated. If any sensors needing updates are currently connected wirelessly, connect them by USB before proceeding." : {
+            
+            "message": "Analiza grafică se va închide în timpul actualizării. Numai dispozitivele conectate prin USB pot fi actualizate. Dacă vreun senzor care are nevoie de actualizări este în prezent conectat fără fir, conectați-l prin USB înainte de a continua."
+        },
+        "Graphical Analysis<sup>™</sup> is a tool for science students to analyze graphs of data collected with <a href=\"http://www.vernier.com/til/2871/\" target=\"_blank\">Vernier sensors</a>, <a href=\"https://www.vernier.com/products/interfaces/labq2/\" target=\"_blank\">LabQuest<sup>®</sup> 2</a> interfaces, or <a href=\"https://www.vernier.com/products/software/lp/\" target=\"_blank\">Logger <i>Pro</i></a>." : {
+            
+            "message": "Graphical Analysis<sup>™</sup> is a tool for science students to analyze graphs of data collected with <a href=\"http://www.vernier.com/til/2871/\" target=\"_blank\">Vernier sensors</a>, <a href=\"https://www.vernier.com/products/interfaces/labq2/\" target=\"_blank\">LabQuest<sup>®</sup> 2</a> interfaces, or <a href=\"https://www.vernier.com/products/software/lp/\" target=\"_blank\">Logger <i>Pro</i></a>."
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "Identificare"
+        },
+        "Import Video" : {
+            
+            "message": "Importați video"
+        },
+        "Import video for a new experiment" : {
+            
+            "message": "Importați videoclipul pentru un nou experiment"
+        },
+        "Import Video..." : {
+            
+            "message": "Importare Video..."
+        },
+        "increasing" : {
+            
+            "message": "crescător"
+        },
+        "Insert a sample cuvette." : {
+            
+            "message": "Inserați un eșantion cuvă."
+        },
+        "Insert Expression" : {
+            
+            "message": "Inserare Expresie"
+        },
+        "Integral" : {
+            
+            "message": "Integrală"
+        },
+        "Integration Time" : {
+            
+            "message": "Timp de integrare"
+        },
+        "Intercept" : {
+            
+            "message": "Interceptare"
+        },
+        "Interpolate" : {
+            
+            "message": "Interpolare"
+        },
+        "Interval" : {
+            
+            "message": "Interval"
+        },
+        "is" : {
+            
+            "message": "este"
+        },
+        "Keep" : {
+            
+            "message": "Reține"
+        },
+        "Keep Point" : {
+            
+            "message": "Reține punctul"
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "Valorile cunoscute trebuie să fie diferite pentru cele două puncte de calibrare."
+        },
+        "Lab Ideas" : {
+            
+            "message": "Idei de experimente"
+        },
+        "Left" : {
+            
+            "message": "Stânga (minim)"
+        },
+        "Linear Motion" : {
+            
+            "message": "Mişcare liniară"
+        },
+        "Lines" : {
+            
+            "message": "Linii"
+        },
+        "Manual" : {
+            
+            "message": "Manual"
+        },
+        "Manual Entry" : {
+            
+            "message": "Introducere Manuala"
+        },
+        "Manually" : {
+            
+            "message": "Manual"
+        },
+        "Max" : {
+            
+            "message": "Max"
+        },
+        "Mean" : {
+            
+            "message": "Medie"
+        },
+        "Measurement" : {
+            
+            "message": "Măsurare"
+        },
+        "Meter" : {
+            
+            "message": "Metru"
+        },
+        "Min" : {
+            
+            "message": "Min"
+        },
+        "min" : {
+            
+            "message": "min"
+        },
+        "minutes" : {
+            
+            "message": "minute"
+        },
+        "Mode" : {
+            
+            "message": "Mod"
+        },
+        "More" : {
+            
+            "message": "Încă"
+        },
+        "More Options" : {
+            
+            "message": "Mai multe optiuni"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "Se folosesc mai multe steaguri distanțate uniform pe un obiect pentru a determina poziția când obiectul trece prin poarta foto. Primul eveniment blocat determină poziția zero. Evenimentele blocate ulterioare măresc poziția prin valoarea de spațiu. Datele de viteză și de accelerație sunt calculate utilizând primul și al doilea derivat de poziție în funcție de timp."
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "Mai multe spite uniforme pe o roată sunt utilizate pentru a determina poziția unghiulară a roții în timp ce se rotește. Primul eveniment blocat determină unghiul zero. Evenimentele blocate ulterioare măresc unghiul cu radian 2π / n, unde n este numărul de spițe pe roată. Valorile de viteză și accelerație unghiulare se calculează utilizând derivații de unghi în raport cu timpul."
+        },
+        "My-File-Name" : {
+            
+            "message": "Numele Fișierului Meu"
+        },
+        "Name" : {
+            
+            "message": "Nume"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "Numele nu poate depași % caractere"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "Noile calibrări sunt utilizate până când începeți un nou experiment sau deschideți un fișier."
+        },
+        "New Experiment" : {
+            
+            "message": "Experiment Nou"
+        },
+        "No Columns" : {
+            
+            "message": "Nici o coloana"
+        },
+        "No devices available" : {
+            
+            "message": "Nici un dispozitiv disponibil"
+        },
+        "No Devices Connected" : {
+            
+            "message": "Nu există dispozitive conectate"
+        },
+        "No sensor connected" : {
+            
+            "message": "Nici un senzor conectat"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "Nu există surse detectate. Asigurați-vă că sursa are Schimbul de date activat și ambele dispozitive sunt conectate la aceeași rețea. Dacă problema persistă, selectați sursa specificată și conectați-vă manual la Sursa de distribuire a datelor."
+        },
+        "No Spectrometer Connected" : {
+            
+            "message": "Nu este conectat nici un spectrometru"
+        },
+        "No spectrometer connected." : {
+            
+            "message": "Nici un spectrometru conectat."
+        },
+        "Note: For best results, % transmittance values should be between 10% and 95%." : {
+            
+            "message": "Notă: Pentru cele mai bune rezultate, valorile% de transmisie trebuie să fie între 10% și 95%."
+        },
+        "Note: For best results, absorbance values should be between 0.1 and 1.0." : {
+            
+            "message": "Notă: Pentru rezultate optime, valorile absorbției trebuie să fie între 0,1 și 1,0."
+        },
+        "Number of flags" : {
+            
+            "message": "Numărul de steaguri"
+        },
+        "Number of spokes" : {
+            
+            "message": "Numărul de spițe"
+        },
+        "Object" : {
+            
+            "message": "Obiect"
+        },
+        "Object Width" : {
+            
+            "message": ""
+        },
+        "Offline" : {
+            
+            "message": "Deconectat"
+        },
+        "OK" : {
+            
+            "message": "Ok"
+        },
+        "On a triggering event" : {
+            
+            "message": "Declanșarea unui eveniment"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "În LabQuest apăsați pe simbolul Wi-fi"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "În Logger Pro, mergeți la Fișier -> Schimb de date"
+        },
+        "One-point calibration" : {
+            
+            "message": "Un punct de calibrare"
+        },
+        "Open File From Your Computer" : {
+            
+            "message": "Deschideți un fișier de pe computer"
+        },
+        "Open Saved File" : {
+            
+            "message": "Deschideti fisierul salvat"
+        },
+        "Open..." : {
+            
+            "message": "Deschideti.."
+        },
+        "or drag and drop a file into the app" : {
+            
+            "message": "sau trageți și plasați un fișier în aplicație"
+        },
+        "Order Code" : {
+            
+            "message": "Codul comenzii"
+        },
+        "Other / User Defined" : {
+            
+            "message": "Altele / definite de utilizator"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "Altele / Definite de utilizator: Introduceți spațiul și numărul de pavilioane așa cum se arată mai sus. Dacă obiectul dvs. este o roată, valoarea distanței ar fi circumferința roții împărțită la numărul de spițe."
+        },
+        "Parameter A" : {
+            
+            "message": "Parametru A"
+        },
+        "Parameter B" : {
+            
+            "message": "Parametru B"
+        },
+        "Paste" : {
+            
+            "message": "Lipiţi"
+        },
+        "Pendulum Period" : {
+            
+            "message": "Perioada pendulului"
+        },
+        "Perform a" : {
+            
+            "message": "Efectuați o"
+        },
+        "Photogate Timing" : {
+            
+            "message": "Calendarul porții foto"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "Porțile foto pot avea un timp de obiecte care trec printre porți sau raportează perioada de oscilație a unui pendul. Timpul dintre evenimentele blocate succesiv este raportat ca un interval de timp. Atunci când sunt folosite exact două porți, ambele porți trebuie blocate înainte de a fi raportată o valoare."
+        },
+        "Place a blank cuvette in the device." : {
+            
+            "message": "Plasaţi o cuvă goală în dispozitiv."
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "Va rugăm să introduceți adresa sursei IP:"
+        },
+        "Plug in a Go Direct device via USB to update firmware." : {
+            
+            "message": "Conectați un dispozitiv Go Direct prin USB pentru a actualiza firmware-ul."
+        },
+        "Points" : {
+            
+            "message": "Puncte"
+        },
+        "Prediction" : {
+            
+            "message": "Predicție"
+        },
+        "Prediction Title" : {
+            
+            "message": "Titlul Predicție"
+        },
+        "Predictions" : {
+            
+            "message": "Predicții"
+        },
+        "Presentation" : {
+            
+            "message": "Prezentare"
+        },
+        "Primary" : {
+            
+            "message": "Inițial"
+        },
+        "Primary:" : {
+            
+            "message": "Inițial:"
+        },
+        "Pulse timing" : {
+            
+            "message": "Momentul impulsului"
+        },
+        "radians" : {
+            
+            "message": ""
+        },
+        "Radians (rad)" : {
+            
+            "message": "Radiani (rad)"
+        },
+        "Rate" : {
+            
+            "message": "Rată"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "Ratele mai mari de 200 de probe, necesită o durată fixă."
+        },
+        "Recovery file found." : {
+            
+            "message": ""
+        },
+        "Relative stability reading" : {
+            
+            "message": "Citirea relativă a stabilităţii"
+        },
+        "Remove the blank cuvette from the spectrophotometer." : {
+            
+            "message": "Scoateţi cuvă goală din spectrofotometru."
+        },
+        "Rename" : {
+            
+            "message": "Redenumiți"
+        },
+        "Rename Data Set" : {
+            
+            "message": "Redenumire a setărilor de date"
+        },
+        "Rename Experiment" : {
+            
+            "message": "Redenumire experiment"
+        },
+        "Reported Reading" : {
+            
+            "message": "Raport citire"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "Resetare la datele initiale"
+        },
+        "Restart app" : {
+            
+            "message": "Reponiți aplicația"
+        },
+        "Restore" : {
+            
+            "message": ""
+        },
+        "Return to Graphical Analysis" : {
+            
+            "message": "Revenire la analiza grafica"
+        },
+        "Reverse" : {
+            
+            "message": "Inversare"
+        },
+        "revolution" : {
+            
+            "message": ""
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "Revoluţii (rev)"
+        },
+        "Right" : {
+            
+            "message": "Dreapta (maxim)"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "probă"
+        },
+        "Sample Data" : {
+            
+            "message": "Date masurate"
+        },
+        "samples" : {
+            
+            "message": "probe"
+        },
+        "Samples" : {
+            
+            "message": "Masuratori"
+        },
+        "Save" : {
+            
+            "message": "Salvați"
+        },
+        "Save As..." : {
+            
+            "message": "Salvati ca..."
+        },
+        "Save Experiment" : {
+            
+            "message": "Salvare experiment"
+        },
+        "Save failed" : {
+            
+            "message": "Salvare eşuată"
+        },
+        "Saved" : {
+            
+            "message": "Salvate"
+        },
+        "Scale Factor" : {
+            
+            "message": "Factor de scalare"
+        },
+        "Searching for devices..." : {
+            
+            "message": "Căutare Dispozitive ..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "La al doilea punct de calibrare a senzorului voltajul trebuie să difere față de primul punct cu cel puțin 0,05 V."
+        },
+        "Secondary" : {
+            
+            "message": "Secundar"
+        },
+        "Secondary:" : {
+            
+            "message": "Secundar :"
+        },
+        "seconds" : {
+            
+            "message": "secunde"
+        },
+        "seconds for lamp to warm up" : {
+            
+            "message": "secunde pentru ca lampa să se încălzească"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "Selectaţi unităţile dorite pentru raportarea poziţiei unghiulare."
+        },
+        "Select the desired wavelength by tapping on the graph or typing in the value." : {
+            
+            "message": "Selectaţi lungimea de undă dorită atingând graficul sau tastând valoarea."
+        },
+        "Select Trace" : {
+            
+            "message": "Selectați Urmărirea"
+        },
+        "Selected Events" : {
+            
+            "message": "Selecție Eveniment"
+        },
+        "Sensor Channels" : {
+            
+            "message": "Canale pentru senzori"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "Senzorul colectorului de date"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "Senzor de voltaj"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "Senzor adus la zero"
+        },
+        "Sensors" : {
+            
+            "message": "Senzori"
+        },
+        "Settings" : {
+            
+            "message": "Setari"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "Arată mijlocul timpului prin poarta"
+        },
+        "Significant Figures" : {
+            
+            "message": "Figuri semnificative"
+        },
+        "Skip" : {
+            
+            "message": "Sări peste"
+        },
+        "Slope" : {
+            
+            "message": "Pantă"
+        },
+        "Spacing" : {
+            
+            "message": "Spaţiere"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": ""
+        },
+        "Specify source" : {
+            
+            "message": "Specificați sursa"
+        },
+        "Spectral Analysis is a tool for science students to collect and analyze data from Vernier spectrophotometers, including SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>." : {
+            
+            "message": "Spectral Analysis is a tool for science students to collect and analyze data from Vernier spectrophotometers, including SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>."
+        },
+        "Spectrometer Settings" : {
+            
+            "message": "Setări spectrometru"
+        },
+        "Spectrometers" : {
+            
+            "message": "Spectrometre"
+        },
+        "Spectrum" : {
+            
+            "message": "Spectru"
+        },
+        "Speed through Gate" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": ""
+        },
+        "Start and Stop Collection" : {
+            
+            "message": "Porniți si opriți colectarea"
+        },
+        "Start Collection" : {
+            
+            "message": "Porniți colectarea"
+        },
+        "Start collection when" : {
+            
+            "message": "Porniți colectarea când"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "Începeți un experiment nou?"
+        },
+        "Statistics" : {
+            
+            "message": "Statistici"
+        },
+        "Std dev" : {
+            
+            "message": "Std Dev"
+        },
+        "Stop" : {
+            
+            "message": "Stop"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "Nu mai adăugaţi picături când volumul ajunge între 9 ml şi 10 ml."
+        },
+        "Submit" : {
+            
+            "message": "Depuneți"
+        },
+        "Syncing to Google Drive" : {
+            
+            "message": "Sincronizare cu Google Drive"
+        },
+        "Table" : {
+            
+            "message": "Tablă"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "Citirea unui senzor (de exemplu, de pH, de conductivitate) se face pe fiecare picătură."
+        },
+        "Tangent" : {
+            
+            "message": "Tangentă"
+        },
+        "Target" : {
+            
+            "message": "Sarcină"
+        },
+        "Temporal Averaging" : {
+            
+            "message": "Medie temporală"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Conexiunea Bluetooth a fost pierdută"
+        },
+        "The firmware update failed." : {
+            
+            "message": "Actualizarea firmware-ului a eșuat."
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "Lățimea obiectului / pavilionului este împărțită în momentul blocării porții foto (Durata de poartă blocată) pentru a determina viteza obiectului prin poartă."
+        },
+        "The time a photogate is blocked is reported as Blocked-Time. The Blocked-Time can be the time since data collection started or the time since the first gate is blocked." : {
+            
+            "message": "Momentul în care o poartă foto este blocată, ea este raportată ca fiind blocată. Timpul blocat poate fi momentul de la începerea colectării datelor sau timpul de la blocarea primei porți."
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "Timpul dintre evenimentele blocate succesiv este raportat ca interval."
+        },
+        "There are no saved experiments." : {
+            
+            "message": "Nu exista experimente salvate."
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "Această coloană a fost generată automat şi nu poate fi schimbată"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "Acest număr definește fracția unei rotații modificând poziția unghiulară cu fiecare eveniment blocat."
+        },
+        "Time" : {
+            
+            "message": "Timp"
+        },
+        "Time at each gate" : {
+            
+            "message": "Timp la fiecare poarta"
+        },
+        "Time Based" : {
+            
+            "message": "În funcție de oră"
+        },
+        "Time between gates" : {
+            
+            "message": "Timp între porţi"
+        },
+        "Time measurements" : {
+            
+            "message": "Măsurători de timp"
+        },
+        "Time Units" : {
+            
+            "message": "Unități de timp"
+        },
+        "Timer" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "Cronometru sau perioadă"
+        },
+        "Title" : {
+            
+            "message": "Titlu"
+        },
+        "to" : {
+            
+            "message": "către"
+        },
+        "To locate the address:" : {
+            
+            "message": "Pentru a localiza adresa:"
+        },
+        "Too few points" : {
+            
+            "message": "Prea puține puncte"
+        },
+        "Top" : {
+            
+            "message": "Maximul axei"
+        },
+        "Total samples" : {
+            
+            "message": "Totalul de probe"
+        },
+        "Tutorials" : {
+            
+            "message": "Tutoriale"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Calibrare în două puncte"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "Scripete ultra - în canelură"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "ScripeteUltra - margine exterioară"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "Nu se poate conecta sau găsi o sursă cu acest nume."
+        },
+        "Unable to connect to " : {
+            
+            "message": "Nu se poate conecta la "
+        },
+        "Unable to sync to Google Drive" : {
+            
+            "message": "Nu se poate sincroniza cu Google Drive"
+        },
+        "Units" : {
+            
+            "message": "Unități"
+        },
+        "Untitled" : {
+            
+            "message": "Nedenumit"
+        },
+        "Up to date" : {
+            
+            "message": "Actualizat"
+        },
+        "Update All" : {
+            
+            "message": "Toate actualizate"
+        },
+        "Update Available" : {
+            
+            "message": "Actualizare disponibila"
+        },
+        "Update error" : {
+            
+            "message": "Eroare de actualizare"
+        },
+        "Update Firmware" : {
+            
+            "message": "Actualizați firmware-ul"
+        },
+        "Update is downloading..." : {
+            
+            "message": "Actualizare este descărcată..."
+        },
+        "Update will take approximately" : {
+            
+            "message": "Actualizarea va dura aproximativ"
+        },
+        "USB Device" : {
+            
+            "message": "Dispozitive USB"
+        },
+        "Use % Transmittance" : {
+            
+            "message": "Utilizare% transmitere"
+        },
+        "Use first blocked event as time = 0" : {
+            
+            "message": "Utilizați primul eveniment blocat ca timp = 0"
+        },
+        "Use gate separation" : {
+            
+            "message": "Utilizați separarea porților"
+        },
+        "Use object / flag width" : {
+            
+            "message": "Utilizați obiect / lățime semnalizator"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "Utilizați notații științifice"
+        },
+        "Use this option to investigate speed with respect to time.  The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "Utilizați această opțiune pentru a investiga viteza în timp. Timpul raportat este intervalul dintre momentul în care poarta este blocată și momentul în care poarta devine deblocată."
+        },
+        "Value must be between " : {
+            
+            "message": "Valoarea trebuie să fie între "
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Gard Înconjurator Vernier"
+        },
+        "Vernier Spectrometers" : {
+            
+            "message": "Spectrometre Vernier"
+        },
+        "Version" : {
+            
+            "message": "Versiune"
+        },
+        "Video" : {
+            
+            "message": "Video"
+        },
+        "Video Analysis<sup>™</sup>." : {
+            
+            "message": "Analiza video <sup>™</sup>."
+        },
+        "Videos" : {
+            
+            "message": "Videoclipuri"
+        },
+        "View" : {
+            
+            "message": "Vedere"
+        },
+        "View Integral" : {
+            
+            "message": "Vizualizați Integral"
+        },
+        "View Statistics" : {
+            
+            "message": "Vedere Statistici"
+        },
+        "Voltage" : {
+            
+            "message": "Voltaj"
+        },
+        "vs. Concentration" : {
+            
+            "message": "vs. Concentrare"
+        },
+        "vs. Time " : {
+            
+            "message": "vs. Timp "
+        },
+        "vs. Wavelength" : {
+            
+            "message": "vs. Lungime de undă"
+        },
+        "Waiting" : {
+            
+            "message": "Aşteptare"
+        },
+        "Waiting for" : {
+            
+            "message": "Se așteaptă"
+        },
+        "Wavelength" : {
+            
+            "message": "Lungime de undă"
+        },
+        "Wavelength Smoothing" : {
+            
+            "message": "Lungimea de undă netezită"
+        },
+        "What's New" : {
+            
+            "message": "Ce mai e nou"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "Atunci când se selectează pendulul, timpul dintre fiecare eveniment blocat secundar este raportat ca Perioada, deoarece pendul va bloca o poartă de trei ori, pe măsură ce va completa un singur legănat."
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "Când utilizați două porți foto, puteți utiliza distanța dintre porți în loc de obiect / lățimea pavilionului pentru a calcula viteza. Viteza raportată ar putea fi viteza dintre cele două porți."
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "Windows 10 este necesar pentru conexiunea wireless."
+        },
+        "Working..." : {
+            
+            "message": "În lucru..."
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X-A" : {
+            
+            "message": "X-A"
+        },
+        "x-axis" : {
+            
+            "message": "axa-x"
+        },
+        "x-range" : {
+            
+            "message": "Gama X"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis" : {
+            
+            "message": "axa-y"
+        },
+        "Zero" : {
+            
+            "message": "Zero"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "Axa x"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "Axa y"
+        },
+        "© 2012-2018 Vernier Software &amp; Technology" : {
+            
+            "message": "© 2012-2018 Vernier Software &amp; Technology"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X&sup2;+Y&sup2;+Z&sup2;)" : {
+            
+            "message": "√(X&sup2;+Y&sup2;+Z&sup2;)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "Accelerometru de 25-g"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "Accelerometru pe 3 axe (X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "Accelerometru pe 3 axe (Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "Accelerometru pe 3 axe (Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "Tensiune de 30V (+/-30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "Absorbanță"
+        },
+        "Acceleration" : {
+            
+            "message": "Accelerație"
+        },
+        "Accelerometer" : {
+            
+            "message": "Accelerometru"
+        },
+        "Ammonium" : {
+            
+            "message": "Amoniu"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "Amoniu ISE"
+        },
+        "Analyzer" : {
+            
+            "message": "Analizator"
+        },
+        "Anemometer" : {
+            
+            "message": "Anemometru"
+        },
+        "Angle" : {
+            
+            "message": "Unghi"
+        },
+        "Barometer" : {
+            
+            "message": "Barometru"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "Barometrul (nu mai este de vânzare)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "Presiune gaz biologic"
+        },
+        "Blood Pressure" : {
+            
+            "message": "Tensiune arterială"
+        },
+        "Calcium" : {
+            
+            "message": "Calciu"
+        },
+        "Calcium ISE" : {
+            
+            "message": "Calciu ISE"
+        },
+        "Charge" : {
+            
+            "message": "Încărcător"
+        },
+        "Charge Sensor" : {
+            
+            "message": "Încărcător Senzor"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "Încărcător Senzor de 100 nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "Încărcător Senzor de 20 nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "Încărcător Senzor de 5 nC"
+        },
+        "Chloride" : {
+            
+            "message": "Clorură"
+        },
+        "Chloride ISE" : {
+            
+            "message": "Clorură ISE"
+        },
+        "CO2" : {
+            
+            "message": "CO2"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2 Gaz Ușor"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2 Gaz Greu"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2 Gaz Vechi"
+        },
+        "Colorimeter" : {
+            
+            "message": "Colorimetru"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "Colorimetru Vechi"
+        },
+        "Conductivity" : {
+            
+            "message": "Conductibilitate"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "Conductibilitate la 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "Conductibilitate la 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "Conductibilitate la 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "Sistem de curent continuu"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "Presiunea manșetei"
+        },
+        "Current" : {
+            
+            "message": "Actual"
+        },
+        "Current Probe" : {
+            
+            "message": "Probă de curent"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "Probă de curent la 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "Diastolic"
+        },
+        "Differential Voltage" : {
+            
+            "message": "Tensiune Diferențială"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "Unitate de control digitală"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "Conectare Directă Temporară"
+        },
+        "Displacement" : {
+            
+            "message": "Inlocuire"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "CO2 Dizolvat"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "Oxigen Dizolvat"
+        },
+        "DO" : {
+            
+            "message": "DO"
+        },
+        "Drop Counter" : {
+            
+            "message": "Contor de Picături"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "Scală dublă la forță de 10 N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "Scală dublă la forță de 50 N"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "Amplificator de electrod"
+        },
+        "Energy" : {
+            
+            "message": "Energie"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "Energia Senzorului Curent"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "Energia Senzorului Voltaic"
+        },
+        "Ethanol" : {
+            
+            "message": "Etanol"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "Senzor de Etanol"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "Temperatură foarte lungă"
+        },
+        "Flow Rate" : {
+            
+            "message": "Rată de curgere"
+        },
+        "Force" : {
+            
+            "message": "Forță"
+        },
+        "Force Plate" : {
+            
+            "message": "Placa de forta"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "Placa de forta 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "Placa de forta 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "Senzor de presiune a gazului"
+        },
+        "Gate State" : {
+            
+            "message": "Poartă de condiție"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Direct  Amplificator pentru electrozi wireless"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go direct Tensiometru wireless"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Direct pHmetru wireless"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Senzor de Temperatura Go Wireless"
+        },
+        "Go! Motion" : {
+            
+            "message": "Senzor Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Senzor Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "Goniometru"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "Dinamometru Manual"
+        },
+        "Heart Rate" : {
+            
+            "message": "Pulsul Inimii"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "Monitor pt Pulsul Inimii"
+        },
+        "High Current Sensor" : {
+            
+            "message": "Senzor de curent mare"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "Sensibilitate ridicată la lumină de 1 μW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "Sensibilitate ridicată la lumină de 10 μW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "Sensibilitate ridicată la lumină de 100 μW"
+        },
+        "Illumination" : {
+            
+            "message": "Iluminare"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "Amplificator Instrumentar"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "Amplificator Instrumentar +-1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "Amplificator Instrumentar +-200 mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "Amplificator Instrumentar +-20 mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "Amplificator Instrumentar de 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "Amplificator Instrumentar de 200 mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "Amplificator Instrumentar de 20 mV"
+        },
+        "Intensity" : {
+            
+            "message": "Intensitatea"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "Senzor de temperatura IR"
+        },
+        "Irradiance" : {
+            
+            "message": "Iradiere"
+        },
+        "Light" : {
+            
+            "message": "Lumină"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "Lumină de 150000 luxi"
+        },
+        "Light 600 lux" : {
+            
+            "message": "Lumină de 600 luxi"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "Lumină 6000 luxi"
+        },
+        "Light Level" : {
+            
+            "message": "Nivel de lumină"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "senzor de poziție liniar"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "Accelerometru g-scăzut"
+        },
+        "Magnetic Field" : {
+            
+            "message": "Scut Magnetic"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "Scut Magnetic de 0.3 mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "Scut Magnetic de 6.4 mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "Presiunea arterială medie"
+        },
+        "Melt Station" : {
+            
+            "message": "Aparat de topire"
+        },
+        "Microphone" : {
+            
+            "message": "Microfon"
+        },
+        "Motion" : {
+            
+            "message": "Miscare"
+        },
+        "Motion Detector" : {
+            
+            "message": "Detector de miscare"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "Codificator pentru coșul în mișcare"
+        },
+        "Nitrate" : {
+            
+            "message": "Nitrat"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "Nitrat ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "Proba optică DO %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "Proba optică DO mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "Oxigen Gaz"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "Oxigen Gaz Vechi"
+        },
+        "PAR Sensor" : {
+            
+            "message": "Senzor PAR"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "Amplificatoare pH / mV / ORP"
+        },
+        "Photogate" : {
+            
+            "message": "Poartă fotografică"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "Conductivitatea elementlui platină"
+        },
+        "Polarimeter" : {
+            
+            "message": "Polarimetru"
+        },
+        "Position" : {
+            
+            "message": "Pozitie"
+        },
+        "Potassium" : {
+            
+            "message": "Potasiu"
+        },
+        "Potassium ISE" : {
+            
+            "message": "Potasiu ISE"
+        },
+        "Potential" : {
+            
+            "message": "Potențial"
+        },
+        "Power" : {
+            
+            "message": "Putere"
+        },
+        "Power Amp Current" : {
+            
+            "message": "Putere amplificatorului actual"
+        },
+        "PPFD" : {
+            
+            "message": "Densitatea fluxului fotosintetic a fotonului"
+        },
+        "Pressure" : {
+            
+            "message": "Presiune"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "Senzorul de Presiune (Nu mai este de vânzare)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "Senzor de presiune 400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "Lansator de proiectile"
+        },
+        "Pulse" : {
+            
+            "message": "Puls"
+        },
+        "Pulse Time" : {
+            
+            "message": "Durata Pulsului"
+        },
+        "Pyranometer" : {
+            
+            "message": "Piranometru"
+        },
+        "Radiation" : {
+            
+            "message": "Radiație"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "Monitor Radiație"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "Voltaj Brut (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "Umiditatea Relativă"
+        },
+        "Resistance" : {
+            
+            "message": "Rezistența"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "Monitor Respirație"
+        },
+        "Respiration Rate" : {
+            
+            "message": "Rata Respirației"
+        },
+        "Rotary Motion" : {
+            
+            "message": "Mișcarea de rotație"
+        },
+        "Salinity" : {
+            
+            "message": "Salinitate"
+        },
+        "Signal" : {
+            
+            "message": "Semnal"
+        },
+        "Soil Moisture" : {
+            
+            "message": "Umiditatea solului"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "Senzor pentru umiditatea solului"
+        },
+        "Sound Level" : {
+            
+            "message": "Nivelul de sunet"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "Senzor a nivelului de sunet"
+        },
+        "Sound Pressure" : {
+            
+            "message": "Presiunea sunetului"
+        },
+        "Speed" : {
+            
+            "message": "Viteza"
+        },
+        "Spirometer" : {
+            
+            "message": "Spirometru"
+        },
+        "Standard Temperature" : {
+            
+            "message": "Temperatura standard"
+        },
+        "Student Force" : {
+            
+            "message": "Student Force"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "Monitor Radiatii student"
+        },
+        "Systolic" : {
+            
+            "message": "Sistolic"
+        },
+        "Temperature" : {
+            
+            "message": "Temperatură"
+        },
+        "Temperature Probe" : {
+            
+            "message": "Sondă de temperatură"
+        },
+        "Thermocouple" : {
+            
+            "message": "Termocuplu"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "Termocuplu Vechi"
+        },
+        "TI Light" : {
+            
+            "message": "Lumina TI"
+        },
+        "Transmittance" : {
+            
+            "message": "Transmitanță"
+        },
+        "Turbidity" : {
+            
+            "message": "Turbiditate"
+        },
+        "UVA Intensity" : {
+            
+            "message": "Intensitate UVA"
+        },
+        "UVA Sensor" : {
+            
+            "message": "Senzor UVA"
+        },
+        "UVB Intensity" : {
+            
+            "message": "Intensitate UVB"
+        },
+        "UVB Sensor" : {
+            
+            "message": "Senzor UVB"
+        },
+        "Velocity" : {
+            
+            "message": "Viteză"
+        },
+        "Voltage" : {
+            
+            "message": "Voltaj"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "Voltaj (+/-10V)"
+        },
+        "Volume" : {
+            
+            "message": "Capacitate"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "Deplasare VSMT"
+        },
+        "VSMT Force" : {
+            
+            "message": "Forța VSMT"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "Sondă de temperatură cu gamă largă"
+        },
+        "X Acceleration" : {
+            
+            "message": "Accelerația X"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Accelerația Y"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Accelerația Z"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Acceleration 1" : {
+            
+            "message": "Accelerarea 1"
+        },
+        "Acceleration 1->2" : {
+            
+            "message": "Accelerarea 1->2"
+        },
+        "Acceleration 2" : {
+            
+            "message": "Accelerarea 2"
+        },
+        "Acceleration G" : {
+            
+            "message": "Accelerarea G"
+        },
+        "Acceleration Y" : {
+            
+            "message": "Accelerarea Y"
+        },
+        "Altitude" : {
+            
+            "message": "Altitudine"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "Calibrare cu un punct de altitudine"
+        },
+        "Amplitude" : {
+            
+            "message": "Amplitudine"
+        },
+        "Angle (x4)" : {
+            
+            "message": "Unghi (x4)"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "Gaz CO₂"
+        },
+        "Cap replacement HACK" : {
+            
+            "message": "Capac de înlocuire HACK"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "Conductivitate-0% TC"
+        },
+        "Counts" : {
+            
+            "message": "Numărare"
+        },
+        "Delta time 1" : {
+            
+            "message": "Timp Delta 1"
+        },
+        "Delta time 1->2" : {
+            
+            "message": "Timp Delta 1->2"
+        },
+        "Delta time 2" : {
+            
+            "message": "Timp Delta 2"
+        },
+        "Drops" : {
+            
+            "message": "Picături"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG rectificat"
+        },
+        "Enter cap number" : {
+            
+            "message": "Introduceți numărul de capac"
+        },
+        "Enter current temperature" : {
+            
+            "message": "Introduceți temperatura curentă"
+        },
+        "Enter first known value" : {
+            
+            "message": "Introduceţi prima valoare cunoscută"
+        },
+        "Enter known value" : {
+            
+            "message": "Introduceți valoarea cunoscută"
+        },
+        "Enter salinity" : {
+            
+            "message": "Introduceți salinitatea"
+        },
+        "Enter second known value" : {
+            
+            "message": "Introduceți a doua valoare cunoscută"
+        },
+        "Enter third known value" : {
+            
+            "message": "Introduceți a treia valoare cunoscută"
+        },
+        "Force G" : {
+            
+            "message": "Forța G"
+        },
+        "Force Y" : {
+            
+            "message": "Forța Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "Forțați calibrarea cu un punct"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "Forțați calibrarea cu două puncte"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "Poarta 1"
+        },
+        "Gate 2" : {
+            
+            "message": "Poarta 2"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go direct ® Senzor de câmp magnetic cu 3 axe"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® Accelerație"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® Gaz CO₂"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® Colorimetru"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® Sondă de Conductivitate"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® Sistem constant de curent"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® Sondă curent"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® Contor Picături"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": ""
+        },
+        "Go Direct® Energy" : {
+            
+            "message": ""
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": ""
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": ""
+        },
+        "Go Direct® Motion" : {
+            
+            "message": ""
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": ""
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": ""
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": ""
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": ""
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": ""
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": ""
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": ""
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": ""
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": ""
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": ""
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": ""
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct ™ senzor magnetic cu 3 axe"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct™ Accelerația"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct™ Colorimetru"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct ™ Sonda de conductibilitate"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct ™ Sistemul de curent continuu"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct™ Sonda Curent"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct™ Contor de picaturi"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct™ EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct ™ Amplificator de electrozi"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct™ Energie"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct™ Senzorul de Forța și Accelerare"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct ™ Senzor de presiune gaz"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct ™ Senzor de lumină și culoare"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct™ Stație de topire"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct™ Mișcarea"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct ™ Oxigen optic dizolvat"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": ""
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct™ Monitor de radiații"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct ™ Curea de respirație"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct™ Mișcarea rotativă"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct™ Senzor Cărucior (verde)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct™ Senzor Cărucior (galben)"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct ™ Temperatura suprafeței"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct™ Sondă de temperatură"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct™ Sondă de tensiune"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct ™ Temperatura de gamă largă"
+        },
+        "Illuminance" : {
+            
+            "message": "iluminării"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "Laser Gate" : {
+            
+            "message": ""
+        },
+        "Motion (cart)" : {
+            
+            "message": ""
+        },
+        "Motion with TC" : {
+            
+            "message": ""
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "One-point calibration" : {
+            
+            "message": "Calibrare într-un punct"
+        },
+        "One-point calibration HACK" : {
+            
+            "message": ""
+        },
+        "O₂ Gas" : {
+            
+            "message": "Gaz O₂"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "Gaz O₂ (Temperatura rapidă compensată)"
+        },
+        "Position G" : {
+            
+            "message": "Poziția G"
+        },
+        "Position Y" : {
+            
+            "message": "Poziția Y"
+        },
+        "Remote Gate 1" : {
+            
+            "message": ""
+        },
+        "Remote Gate 2" : {
+            
+            "message": ""
+        },
+        "Saline DO" : {
+            
+            "message": ""
+        },
+        "Salinity compensation HACK" : {
+            
+            "message": ""
+        },
+        "Saturation" : {
+            
+            "message": "Saturaţie"
+        },
+        "Step Rate" : {
+            
+            "message": "Rata pasului"
+        },
+        "Steps" : {
+            
+            "message": "Pași"
+        },
+        "Temperature correction" : {
+            
+            "message": ""
+        },
+        "Three-point calibration" : {
+            
+            "message": "Calibrare în trei puncte"
+        },
+        "Two-point calibration" : {
+            
+            "message": "Calibrare în două puncte"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Index" : {
+            
+            "message": "Index UV"
+        },
+        "UV Intensity" : {
+            
+            "message": "Intensitatea UV"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Velocity 1" : {
+            
+            "message": ""
+        },
+        "Velocity 1->2" : {
+            
+            "message": ""
+        },
+        "Velocity 2" : {
+            
+            "message": ""
+        },
+        "Velocity G" : {
+            
+            "message": ""
+        },
+        "Velocity Y" : {
+            
+            "message": ""
+        },
+        "Voltage - 1 V" : {
+            
+            "message": ""
+        },
+        "Voltage - 20 V" : {
+            
+            "message": ""
+        },
+        "Wait until stability reaches 100" : {
+            
+            "message": ""
+        },
+        "X magnetic field" : {
+            
+            "message": "scut magnetic X"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": ""
+        },
+        "X-angular velocity" : {
+            
+            "message": ""
+        },
+        "X-axis acceleration" : {
+            
+            "message": ""
+        },
+        "X-axis acceleration G" : {
+            
+            "message": ""
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": ""
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": ""
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": ""
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": ""
+        },
+        "X-axis angular velocity" : {
+            
+            "message": ""
+        },
+        "X-axis gyro" : {
+            
+            "message": ""
+        },
+        "Y magnetic field" : {
+            
+            "message": "camp magnetic Y"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": ""
+        },
+        "Y-angular velocity" : {
+            
+            "message": ""
+        },
+        "Y-axis acceleration" : {
+            
+            "message": ""
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": ""
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": ""
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": ""
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": ""
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": ""
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": ""
+        },
+        "Y-axis gyro" : {
+            
+            "message": ""
+        },
+        "Z magnetic field" : {
+            
+            "message": "camp magnetic Z"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": ""
+        },
+        "Z-angular velocity" : {
+            
+            "message": ""
+        },
+        "Z-axis acceleration" : {
+            
+            "message": ""
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": ""
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": ""
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": ""
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": ""
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": ""
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": ""
+        },
+        "Z-axis gyro" : {
+            
+            "message": ""
+        },
+        "atm" : {
+            
+            "message": ""
+        },
+        "bpm" : {
+            
+            "message": ""
+        },
+        "dS/m" : {
+            
+            "message": ""
+        },
+        "ft" : {
+            
+            "message": ""
+        },
+        "g" : {
+            
+            "message": ""
+        },
+        "inHg" : {
+            
+            "message": ""
+        },
+        "kPa" : {
+            
+            "message": ""
+        },
+        "lb" : {
+            
+            "message": ""
+        },
+        "lux" : {
+            
+            "message": ""
+        },
+        "m" : {
+            
+            "message": ""
+        },
+        "m/s" : {
+            
+            "message": ""
+        },
+        "m/s²" : {
+            
+            "message": ""
+        },
+        "mA" : {
+            
+            "message": ""
+        },
+        "mL" : {
+            
+            "message": ""
+        },
+        "mT" : {
+            
+            "message": ""
+        },
+        "mV" : {
+            
+            "message": ""
+        },
+        "mW" : {
+            
+            "message": ""
+        },
+        "mW/m²" : {
+            
+            "message": ""
+        },
+        "mbar" : {
+            
+            "message": ""
+        },
+        "mg/L" : {
+            
+            "message": ""
+        },
+        "mg/m³" : {
+            
+            "message": ""
+        },
+        "mmHg" : {
+            
+            "message": ""
+        },
+        "ppm" : {
+            
+            "message": ""
+        },
+        "ppt" : {
+            
+            "message": ""
+        },
+        "psi" : {
+            
+            "message": ""
+        },
+        "rad" : {
+            
+            "message": ""
+        },
+        "rad/s" : {
+            
+            "message": ""
+        },
+        "rad/s²" : {
+            
+            "message": ""
+        },
+        "rev" : {
+            
+            "message": ""
+        },
+        "s" : {
+            
+            "message": ""
+        },
+        "spm" : {
+            
+            "message": ""
+        },
+        "steps" : {
+            
+            "message": ""
+        },
+        "torr" : {
+            
+            "message": ""
+        },
+        "°" : {
+            
+            "message": ""
+        },
+        "°/s" : {
+            
+            "message": ""
+        },
+        "°C" : {
+            
+            "message": ""
+        },
+        "°F" : {
+            
+            "message": ""
+        },
+        "µS/cm" : {
+            
+            "message": ""
+        },
+        "Ω" : {
+            
+            "message": ""
+        }
+        
+    },
+    "https://www.vernier.com/til/4118/": {
+        "Don" : {
+            
+            "message": "Pune"
+        }
+        
+    },
+    "mathematical": {
+        "Inverse" : {
+            
+            "message": "Inversare"
+        },
+        "Inverse Squared" : {
+            
+            "message": "Radical"
+        },
+        "Linear" : {
+            
+            "message": "Liniar"
+        },
+        "Modified Power" : {
+            
+            "message": "Putere Modificată"
+        },
+        "Natural Exponent" : {
+            
+            "message": "Exponent natural"
+        },
+        "Natural Log" : {
+            
+            "message": "Jurnal Natural"
+        },
+        "Power" : {
+            
+            "message": "Putere"
+        },
+        "Proportional" : {
+            
+            "message": "Proporțional"
+        },
+        "Quadratic" : {
+            
+            "message": "Pătratice"
+        },
+        "Slope" : {
+            
+            "message": "Pantă"
+        }
+        
+    }
+}

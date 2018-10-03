@@ -1,0 +1,3418 @@
+{
+    "general": {
+        "% Transmittance" : {
+            
+            "message": "透過率 %"
+        },
+        "(distance, velocity, acceleration)" : {
+            
+            "message": "(距離，速度，加速度)"
+        },
+        ".CSV" : {
+            
+            "message": ".CSV"
+        },
+        "1 Graph" : {
+            
+            "message": "1グラフ"
+        },
+        "1st Derivative" : {
+            
+            "message": "1st Derivative"
+        },
+        "1st Derivative Time Shift" : {
+            
+            "message": ""
+        },
+        "2 Graphs" : {
+            
+            "message": "2グラフ"
+        },
+        "2nd derivative" : {
+            
+            "message": "2nd derivative"
+        },
+        "2nd Derivative Time Shift" : {
+            
+            "message": ""
+        },
+        "3 Graphs" : {
+            
+            "message": "3グラフ"
+        },
+        "A / (B+X)" : {
+            
+            "message": "A / (B+X)"
+        },
+        "A abs(X)" : {
+            
+            "message": "A abs(X)"
+        },
+        "A and B are parameters you can set. X and Y are existing columns in your data table." : {
+            
+            "message": "A, Bはパラメータです。X, Yは既存のデータテーブルの列です。"
+        },
+        "A communication error has occurred. Start a new experiment to continue." : {
+            
+            "message": "通信エラーが発生しました。 続行するには新規実験を開始してください。"
+        },
+        "A communications error caused data collection to stop. Please try again." : {
+            
+            "message": "通信エラーが起こり，データ収集がストップしました。もう一度やり直してください。"
+        },
+        "A ln(X)" : {
+            
+            "message": "A ln(X)"
+        },
+        "A log(X)" : {
+            
+            "message": "A log(X)"
+        },
+        "A*X^B" : {
+            
+            "message": "A*X^B"
+        },
+        "A-log(X)" : {
+            
+            "message": "A-log(X)"
+        },
+        "A-X" : {
+            
+            "message": "A-X"
+        },
+        "A/X" : {
+            
+            "message": "A/X"
+        },
+        "A/X^B" : {
+            
+            "message": "A/X^B"
+        },
+        "About" : {
+            
+            "message": "Graphical Analysisについて"
+        },
+        "Absorbance" : {
+            
+            "message": "吸光度"
+        },
+        "Acceleration through gate" : {
+            
+            "message": "ゲートを通る加速度"
+        },
+        "across" : {
+            
+            "message": "境界値"
+        },
+        "Add a graph title here" : {
+            
+            "message": "グラフタイトル"
+        },
+        "Add Annotation" : {
+            
+            "message": "注釈"
+        },
+        "Add Calculated Column" : {
+            
+            "message": "列(計算)を追加"
+        },
+        "Add Graph Match" : {
+            
+            "message": "グラフマッチ"
+        },
+        "Add Manual Column" : {
+            
+            "message": "列(手動)を追加"
+        },
+        "Add New Data Set" : {
+            
+            "message": "新規データセット"
+        },
+        "Add Prediction" : {
+            
+            "message": "予測"
+        },
+        "Add titrant dropwise through the Drop Counter into a 10 mL graduated cylinder." : {
+            
+            "message": "10mLのメスシリンダーにドロップカウンタを通して滴定液を滴下します。"
+        },
+        "After" : {
+            
+            "message": " "
+        },
+        "After set number of flags" : {
+            
+            "message": "フラグの数設定の後"
+        },
+        "All Files" : {
+            
+            "message": "すべてのファイル"
+        },
+        "An critical error has occurred. Please restart the application." : {
+            
+            "message": "重大なエラーが起こりました。アプリケーションを再起動してください。"
+        },
+        "and " : {
+            
+            "message": "と "
+        },
+        "Angle units" : {
+            
+            "message": "角度の単位"
+        },
+        "Angular Motion" : {
+            
+            "message": "角運動"
+        },
+        "App is up to date" : {
+            
+            "message": "アプリは最新です"
+        },
+        "App Updates" : {
+            
+            "message": "アップデート"
+        },
+        "Appearance" : {
+            
+            "message": "表示"
+        },
+        "Append" : {
+            
+            "message": "追加"
+        },
+        "Append additional data to the current data set or create a new data set?" : {
+            
+            "message": "現在のデータセットにデータを追加しますか，または新規データセットを作成しますか？"
+        },
+        "Append or Create New?" : {
+            
+            "message": "追加または新規作成?"
+        },
+        "Apply" : {
+            
+            "message": "適用"
+        },
+        "Apply Curve Fit" : {
+            
+            "message": "カーブフィット"
+        },
+        "Area" : {
+            
+            "message": "面積"
+        },
+        "Auto" : {
+            
+            "message": "自動"
+        },
+        "Automatic" : {
+            
+            "message": "自動"
+        },
+        "Autoscale" : {
+            
+            "message": "自動スケール"
+        },
+        "Average multiple measurements for each trial" : {
+            
+            "message": "各試行の測定値の平均"
+        },
+        "Average sensor reading over 10 seconds" : {
+            
+            "message": "センサ値の10秒間の平均"
+        },
+        "Averaging over 10 seconds" : {
+            
+            "message": "10秒間の平均"
+        },
+        "Bar Tape" : {
+            
+            "message": "バーテープ"
+        },
+        "Base" : {
+            
+            "message": "ベース"
+        },
+        "Battery" : {
+            
+            "message": "バッテリ"
+        },
+        "Battery Level" : {
+            
+            "message": "バッテリレベル"
+        },
+        "Blocked and unblocked events" : {
+            
+            "message": "ブロックされたイベントとブロックされていないイベント"
+        },
+        "Blocked gate duration" : {
+            
+            "message": "ブロックゲート時間"
+        },
+        "Blocked Time and the Blocked-Gate Duration is reported each time a gate is blocked." : {
+            
+            "message": "ブロックされた時刻とブロックされた時間は，ゲートがブロックされるたびにレポートされます。"
+        },
+        "Bluetooth Device" : {
+            
+            "message": "Bluetoothデバイス"
+        },
+        "Bluetooth not enabled" : {
+            
+            "message": "Bluetooth無効"
+        },
+        "Both" : {
+            
+            "message": "両方"
+        },
+        "Bottom" : {
+            
+            "message": "下"
+        },
+        "Calibrate" : {
+            
+            "message": "キャリブレーション"
+        },
+        "Calibrate Spectrophotometer" : {
+            
+            "message": "分光光度計キャリブレーション"
+        },
+        "Calibrating..." : {
+            
+            "message": "キャリブレーション中..."
+        },
+        "Calibration reset successful" : {
+            
+            "message": "キャリブレーション完了"
+        },
+        "Calibration Type" : {
+            
+            "message": "キャリブレーションタイプ"
+        },
+        "Cancel" : {
+            
+            "message": "キャンセル"
+        },
+        "cancel" : {
+            
+            "message": "キャンセル"
+        },
+        "Cart Picket Fence" : {
+            
+            "message": "カートピケットフェンス"
+        },
+        "Charging," : {
+            
+            "message": "充電，"
+        },
+        "Check for Updates" : {
+            
+            "message": "アップデートを確認"
+        },
+        "Check For Updates" : {
+            
+            "message": "アップデートを確認"
+        },
+        "Check sensor for flashing LED" : {
+            
+            "message": "センサのLED点滅をチェック"
+        },
+        "Checking for update..." : {
+            
+            "message": "アップデート確認中..."
+        },
+        "Choose a Wavelength" : {
+            
+            "message": "波長を選択"
+        },
+        "Choose File" : {
+            
+            "message": "ファイルを選択"
+        },
+        "Clear" : {
+            
+            "message": "クリア"
+        },
+        "Close App and Update Firmware" : {
+            
+            "message": "アプリを閉じて，ファームウェアを更新"
+        },
+        "Closing" : {
+            
+            "message": "閉じています"
+        },
+        "Closing the application now may make your device permanently unusable." : {
+            
+            "message": "今アプリケーションを閉じると，デバイスが永久に使用できなくなる可能性があります。"
+        },
+        "Coefficient" : {
+            
+            "message": "係数"
+        },
+        "Collect" : {
+            
+            "message": "収集"
+        },
+        "Collect data from Vernier sensors" : {
+            
+            "message": "Vernierセンサによるデータ収集"
+        },
+        "Collecting a large number of points impacts performance." : {
+            
+            "message": "大量のデータ点を収集すると，パーフォーマンスに影響します。"
+        },
+        "Column Options" : {
+            
+            "message": "列オプション"
+        },
+        "Column will be deleted in all data sets. The deletion cannot be undone." : {
+            
+            "message": "すべてのデータセットの列は削除されます。元に戻すことはできません。"
+        },
+        "Column X" : {
+            
+            "message": "列 X"
+        },
+        "Column Y" : {
+            
+            "message": "列 Y"
+        },
+        "Column Z" : {
+            
+            "message": "列 Z"
+        },
+        "Comma Separated Values" : {
+            
+            "message": "コンマ区切りの値"
+        },
+        "Concentration" : {
+            
+            "message": "濃度"
+        },
+        "Connect" : {
+            
+            "message": "接続"
+        },
+        "Connect a <a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\">supported Vernier USB device</a>." : {
+            
+            "message": "Vernier USBデバイスを接続します：<a href=\"https://www.vernier.com/til/2871/\" target=\"_blank\"></a>."
+        },
+        "Connect a Spectrometer" : {
+            
+            "message": "分光器を接続"
+        },
+        "Connect over WiFi to LabQuest 2 or Logger Pro" : {
+            
+            "message": "LabQuest 2またはLogger ProにWiFi接続"
+        },
+        "Connect to a wireless device below or connect via USB." : {
+            
+            "message": "次のワイヤレスデバイスに接続するか，USB経由で接続します。"
+        },
+        "Connect to a wireless device below." : {
+            
+            "message": "次のワイヤレスデバイスに接続します。"
+        },
+        "connected" : {
+            
+            "message": "接続済"
+        },
+        "Connected Devices" : {
+            
+            "message": "接続されたデバイス"
+        },
+        "Connection error" : {
+            
+            "message": "接続エラー"
+        },
+        "Connection Lost" : {
+            
+            "message": "接続切断"
+        },
+        "Contact us at" : {
+            
+            "message": "お問合せ"
+        },
+        "Continue Update" : {
+            
+            "message": "アップデートを続行"
+        },
+        "copy" : {
+            
+            "message": "コピー"
+        },
+        "Copy" : {
+            
+            "message": "コピー"
+        },
+        "Count Interval" : {
+            
+            "message": "間隔をカウント"
+        },
+        "Counts" : {
+            
+            "message": "カウント"
+        },
+        "Create new Data Set" : {
+            
+            "message": "新規データセット作成"
+        },
+        "current file" : {
+            
+            "message": "現在のファイル"
+        },
+        "Curve Fit" : {
+            
+            "message": "カーブフィット"
+        },
+        "Cut" : {
+            
+            "message": "切り取り"
+        },
+        "Data Collection Settings" : {
+            
+            "message": "データ収集設定"
+        },
+        "Data Collection will automatically stop after all gates have the expected number of position measurements (same as number of flags).  Starting collection again will start a new data set." : {
+            
+            "message": "データ収集は，すべてのゲートが予想された位置測定の数(フラグの数と同じ)になると自動的に停止します。 再びデータ収集を開始すると，新しいデータセットが開始されます。"
+        },
+        "Data collection will continue until you manually click or tap Stop. Position values will continue to increment by the spacing value until data collection stops." : {
+            
+            "message": "データ収集は「停止」をクリックするか，タップするまで継続します。 位置の値は，データ収集が停止するまでスペーシング値だけ増加し続けます。"
+        },
+        "Data Set %d" : {
+            
+            "message": "データセット%d"
+        },
+        "Data Set 1" : {
+            
+            "message": "データセット1"
+        },
+        "Data Set Name" : {
+            
+            "message": "データセット名"
+        },
+        "Data set name has %s character limit." : {
+            
+            "message": "データセット名は％sの文字制限があります。"
+        },
+        "Data Share" : {
+            
+            "message": "データ共有"
+        },
+        "Data Sharing" : {
+            
+            "message": "データ共有"
+        },
+        "Decimal Format" : {
+            
+            "message": "10進数フォーマット"
+        },
+        "Decimal Places" : {
+            
+            "message": "小数点以下のけた数"
+        },
+        "decreasing" : {
+            
+            "message": "次の境界値を境に減ったとき"
+        },
+        "degrees" : {
+            
+            "message": ""
+        },
+        "Degrees (°)" : {
+            
+            "message": "度(°)"
+        },
+        "Delete" : {
+            
+            "message": "削除"
+        },
+        "Delete Annotation" : {
+            
+            "message": "注釈を削除"
+        },
+        "Delete Column" : {
+            
+            "message": "列の削除"
+        },
+        "Delete Column %s?" : {
+            
+            "message": "列の削除 %s?"
+        },
+        "Delete Examine Tool" : {
+            
+            "message": "イグザミンツールを削除"
+        },
+        "Delete Selection" : {
+            
+            "message": "選択を削除"
+        },
+        "Device Error" : {
+            
+            "message": "デバイスエラー"
+        },
+        "Device Information" : {
+            
+            "message": "デバイス情報"
+        },
+        "Disconnect" : {
+            
+            "message": "切断"
+        },
+        "Discovered Devices" : {
+            
+            "message": "検出されたデバイス"
+        },
+        "Discovered Wireless Devices" : {
+            
+            "message": "検出されたワイヤレスデバイス"
+        },
+        "Displayed Precision" : {
+            
+            "message": "表示精度"
+        },
+        "Distance between gates" : {
+            
+            "message": "ゲート間の距離"
+        },
+        "Do not disconnect your device." : {
+            
+            "message": "デバイスを取り外さないでください。"
+        },
+        "Done" : {
+            
+            "message": "完了"
+        },
+        "Download complete. Updates will be installed the next time you launch the app" : {
+            
+            "message": "ダウンロード完了。 アップデートは，次にアプリケーションを起動したときにインストールされます。"
+        },
+        "Download CSV" : {
+            
+            "message": "ダウンロードCSV"
+        },
+        "Download Update" : {
+            
+            "message": "アップデートをダウンロード"
+        },
+        "Draw a Prediction" : {
+            
+            "message": "予測を描画"
+        },
+        "Drop Counting" : {
+            
+            "message": "ドロップカウンタ"
+        },
+        "Dropped Measurement(s). Please start a new experiment and use a slower data collection rate." : {
+            
+            "message": "測定を中止しました。 新しい実験を開始し，より遅いデータ収集率にしてください。"
+        },
+        "Drops" : {
+            
+            "message": "ドロップ"
+        },
+        "Drops/mL" : {
+            
+            "message": "ドロップ/mL"
+        },
+        "duration" : {
+            
+            "message": "時間"
+        },
+        "e.g., 007 or TMP" : {
+            
+            "message": ""
+        },
+        "e.g., Beer" : {
+            
+            "message": "たとえば，ビール"
+        },
+        "e.g., Kinetics" : {
+            
+            "message": "たとえば，動力学"
+        },
+        "Edit Graph Options" : {
+            
+            "message": "グラフオプション"
+        },
+        "Enable bluetooth to connect wireless sensors." : {
+            
+            "message": "Bluetoothを有効にして，ワイヤレスセンサを接続します。"
+        },
+        "End Collection" : {
+            
+            "message": "収集終了"
+        },
+        "End data collection" : {
+            
+            "message": "データ収集終了"
+        },
+        "Enter an annotation" : {
+            
+            "message": "注釈を入力"
+        },
+        "Enter data through keyboard or Copy/Paste" : {
+            
+            "message": "キーボードまたはコピー/貼り付けによるデータ入力"
+        },
+        "Enter first known value" : {
+            
+            "message": "1番目の既知の値を入力"
+        },
+        "Enter second known value" : {
+            
+            "message": "2番目の既知の値を入力"
+        },
+        "Enter the number of flags that will break the beam as the object passes through the gate. This setting assumes all flags are the same width." : {
+            
+            "message": "オブジェクトがゲートを通過する際，ビームをさえぎるフラグの数を入力します。 この設定はすべてのフラグが同じ幅であることを前提としています。"
+        },
+        "Enter the precise volume of titrant from the graduated cylinder" : {
+            
+            "message": "メスシリンダーからの滴定液の正確な量を入力してください"
+        },
+        "Equation" : {
+            
+            "message": "式"
+        },
+        "Error" : {
+            
+            "message": "エラー"
+        },
+        "Error details" : {
+            
+            "message": "エラー詳細"
+        },
+        "Event" : {
+            
+            "message": "変数名"
+        },
+        "Event Based" : {
+            
+            "message": "イベントベース"
+        },
+        "Event Mode" : {
+            
+            "message": "イベントモード"
+        },
+        "Event Name" : {
+            
+            "message": "イベント名"
+        },
+        "Events with Entry" : {
+            
+            "message": "入力値に対してデータ収集"
+        },
+        "Example: 192.168.1.10" : {
+            
+            "message": "例: 192.168.1.10"
+        },
+        "Experiment Name" : {
+            
+            "message": "実験名"
+        },
+        "Experiment name has %s character limit." : {
+            
+            "message": "実験名は％sの文字制限があります。"
+        },
+        "Experiments" : {
+            
+            "message": "実験"
+        },
+        "Exponent" : {
+            
+            "message": "指数"
+        },
+        "Export" : {
+            
+            "message": "エクスポート"
+        },
+        "Export CSV Data" : {
+            
+            "message": "CSVデータをエクスポート"
+        },
+        "Expression" : {
+            
+            "message": "式"
+        },
+        "File" : {
+            
+            "message": "ファイル"
+        },
+        "File saved" : {
+            
+            "message": "保存されたファイル"
+        },
+        "Filename" : {
+            
+            "message": "ファイル名"
+        },
+        "Filter" : {
+            
+            "message": "フィルター"
+        },
+        "Finish Calibration" : {
+            
+            "message": "キャリブレーション終了"
+        },
+        "Firmware" : {
+            
+            "message": "ファームウェア"
+        },
+        "Firmware Update in Progress" : {
+            
+            "message": "ファームウェア更新中"
+        },
+        "Firmware Updater" : {
+            
+            "message": "ファームウェアアップデーター"
+        },
+        "Flag Width" : {
+            
+            "message": ""
+        },
+        "Flags" : {
+            
+            "message": ""
+        },
+        "for assistance." : {
+            
+            "message": "支援用。"
+        },
+        "For Vernier objects, the spacing and flag number are shown for the selected object. For Bar Tape, enter the number of flags." : {
+            
+            "message": "Vernierのオブジェクトの場合，選択したオブジェクトのスペーシングとフラグ番号が表示されます。バーテープの場合は，フラグの数を入力します。"
+        },
+        "Force Close" : {
+            
+            "message": "強制終了"
+        },
+        "From Vernier.com" : {
+            
+            "message": "Vernier.comより"
+        },
+        "Full spectrum" : {
+            
+            "message": "フルスペクトル"
+        },
+        "Full Spectrum" : {
+            
+            "message": "フルスペクトラム"
+        },
+        "Gate Separation" : {
+            
+            "message": ""
+        },
+        "Gate State" : {
+            
+            "message": ""
+        },
+        "Gate State only" : {
+            
+            "message": "ゲート状態のみ"
+        },
+        "Gate timing" : {
+            
+            "message": "ゲートタイミング"
+        },
+        "GDX Sensor Map" : {
+            
+            "message": "GDXセンサ"
+        },
+        "Go Direct Sensors" : {
+            
+            "message": "Go Directセンサ"
+        },
+        "Graph" : {
+            
+            "message": "グラフ"
+        },
+        "Graph and Table" : {
+            
+            "message": "グラフとテーブル"
+        },
+        "Graph Image" : {
+            
+            "message": "グラフ画像"
+        },
+        "Graph Inset" : {
+            
+            "message": "グラフ挿入"
+        },
+        "Graph Match" : {
+            
+            "message": "グラフマッチ"
+        },
+        "Graph Options" : {
+            
+            "message": "グラフオプション"
+        },
+        "Graph Tools" : {
+            
+            "message": "グラフツール"
+        },
+        "Graph, Table and Meter" : {
+            
+            "message": "グラフ，テーブル，メーター"
+        },
+        "Graphical Analysis will shut down during the update. Only devices connected by USB can be updated. If any sensors needing updates are currently connected wirelessly, connect them by USB before proceeding." : {
+            
+            "message": "更新中ですが，Graphical Analysis を終了します。 USB接続されたデバイスのみアップデートできます。 アップデートが必要なセンサがワイヤレスで接続されている場合，USB接続してください。"
+        },
+        "Graphical Analysis<sup>™</sup> is a tool for science students to analyze graphs of data collected with <a href=\"http://www.vernier.com/til/2871/\" target=\"_blank\">Vernier sensors</a>, <a href=\"https://www.vernier.com/products/interfaces/labq2/\" target=\"_blank\">LabQuest<sup>®</sup> 2</a> interfaces, or <a href=\"https://www.vernier.com/products/software/lp/\" target=\"_blank\">Logger <i>Pro</i></a>." : {
+            
+            "message": "Graphical Analysis<sup>™</sup> は，次のデバイスを使って収集したデータを分析するツールです： <a href=\"http://www.vernier.com/til/2871/\" target=\"_blank\">Vernier sensors</a>, <a href=\"https://www.vernier.com/products/interfaces/labq2/\" target=\"_blank\">LabQuest<sup>®</sup> 2</a> interfaces, or <a href=\"https://www.vernier.com/products/software/lp/\" target=\"_blank\">Logger <i>Pro</i></a>."
+        },
+        "h" : {
+            
+            "message": "h"
+        },
+        "ID" : {
+            
+            "message": "ID"
+        },
+        "Identify" : {
+            
+            "message": "識別"
+        },
+        "Import Video" : {
+            
+            "message": "動画をインポート"
+        },
+        "Import video for a new experiment" : {
+            
+            "message": "新しい実験用の動画をインポート"
+        },
+        "Import Video..." : {
+            
+            "message": "動画をインポート..."
+        },
+        "increasing" : {
+            
+            "message": "次の境界値を境に増えたとき"
+        },
+        "Insert a sample cuvette." : {
+            
+            "message": "サンプルのキュベットを挿入してください。"
+        },
+        "Insert Expression" : {
+            
+            "message": "式を挿入"
+        },
+        "Integral" : {
+            
+            "message": "積分"
+        },
+        "Integration Time" : {
+            
+            "message": "積分時間"
+        },
+        "Intercept" : {
+            
+            "message": "インターセプト"
+        },
+        "Interpolate" : {
+            
+            "message": "補間"
+        },
+        "Interval" : {
+            
+            "message": "間隔"
+        },
+        "is" : {
+            
+            "message": "の値が，"
+        },
+        "Keep" : {
+            
+            "message": "キープ"
+        },
+        "Keep Point" : {
+            
+            "message": "データ点をキープ"
+        },
+        "Known values must be different for a two point calibration." : {
+            
+            "message": "2点キャリブレーションでは，既知の値は異なる必要があります。"
+        },
+        "Lab Ideas" : {
+            
+            "message": "ラボアイデア"
+        },
+        "Left" : {
+            
+            "message": "左"
+        },
+        "Linear Motion" : {
+            
+            "message": "直線運動"
+        },
+        "Lines" : {
+            
+            "message": "直線"
+        },
+        "Manual" : {
+            
+            "message": "マニュアル"
+        },
+        "Manual Entry" : {
+            
+            "message": "入力"
+        },
+        "Manually" : {
+            
+            "message": "手動"
+        },
+        "Max" : {
+            
+            "message": "最大"
+        },
+        "Mean" : {
+            
+            "message": "平均"
+        },
+        "Measurement" : {
+            
+            "message": "測定"
+        },
+        "Meter" : {
+            
+            "message": "メーター"
+        },
+        "Min" : {
+            
+            "message": "最小"
+        },
+        "min" : {
+            
+            "message": "最小"
+        },
+        "minutes" : {
+            
+            "message": "minutes"
+        },
+        "Mode" : {
+            
+            "message": "モード"
+        },
+        "More" : {
+            
+            "message": "さらに"
+        },
+        "More Options" : {
+            
+            "message": "追加オプション"
+        },
+        "ms" : {
+            
+            "message": "ms"
+        },
+        "Multiple, uniformly-spaced flags on a object are used to determine position as the object passes through the photogate. The first blocked event determines the zero position. Subsequent blocked events increase the position by the spacing value. Velocity and acceleration data are calculated using first- and second- derivatives of position with respect to time." : {
+            
+            "message": "オブジェクト上の複数の等間隔のフラグを使って，オブジェクトがフォトゲートを通過するときの位置を決定します。 最初にブロックされたイベントはゼロの位置を決定します。後続のブロックされたイベントは，スペーシング値だけポジションを増加させます。速度と加速度は，それぞれ時間に対する位置の1次微分と2次微分を使って計算されます。"
+        },
+        "Multiple, uniformly-spaced spokes on a wheel are used to determine the angular position of the wheel as it turns. The first blocked event determines the zero angle. Subsequent blocked events increase the angle by 2π/n radians, where n is the number of spokes on the wheel. Angular velocity and acceleration data are calculated using first- and second- derivatives of angle with respect to time." : {
+            
+            "message": "ホイール上の複数の等間隔のスポークを使って，ホイールが回転するにつれて角度位置を決定します。最初にブロックされたイベントは，ゼロの角度を決定します。後続のブロックされたイベントは，2π/ nラジアンだけ角度を増加させます。ここで，nはホイール上のスポークの数， 角速度と加速度はそれぞれ時間に対する角度の1次微分と2次微分を用いて計算されます。"
+        },
+        "My-File-Name" : {
+            
+            "message": "ファイル名"
+        },
+        "Name" : {
+            
+            "message": "名前"
+        },
+        "Name cannot exceed %s characters" : {
+            
+            "message": "名前は％sの文字を超えることはできません"
+        },
+        "New calibrations are used until you start a new experiment or open a file." : {
+            
+            "message": "新しいキャリブレーションは，新しい実験をスタートするか，ファイルを開くまで使用されます。"
+        },
+        "New Experiment" : {
+            
+            "message": "新規実験"
+        },
+        "No Columns" : {
+            
+            "message": "列がありません"
+        },
+        "No devices available" : {
+            
+            "message": "利用できるデバイスはありません"
+        },
+        "No Devices Connected" : {
+            
+            "message": "接続されたデバイスはありません"
+        },
+        "No sensor connected" : {
+            
+            "message": "接続されたセンサはありません"
+        },
+        "No sources detected. Ensure your source has Data Sharing enabled and both devices are connected to the same network. If the problem persists, select Specify Source and manually connect to your Data Sharing source." : {
+            
+            "message": "ソースが見つかりませんでした。ソースのデータ共有が有効になっていること，そして両方のデバイスが同じネットワークに接続されていることを確認してください。問題が解決しない場合は，[ソースを指定]を選択し，手動でデータ共有ソースに接続してください。"
+        },
+        "No Spectrometer Connected" : {
+            
+            "message": "接続された分光器はありません"
+        },
+        "No spectrometer connected." : {
+            
+            "message": "分光器は接続されていません。"
+        },
+        "Note: For best results, % transmittance values should be between 10% and 95%." : {
+            
+            "message": "Note:最良の結果を得るには，％透過率の値は10％から95％の間でなければなりません。"
+        },
+        "Note: For best results, absorbance values should be between 0.1 and 1.0." : {
+            
+            "message": "Note:最良の結果を得るには，吸光度の値は0.1〜1.0でなければなりません。"
+        },
+        "Number of flags" : {
+            
+            "message": "フラグの数"
+        },
+        "Number of spokes" : {
+            
+            "message": "スポークの数"
+        },
+        "Object" : {
+            
+            "message": "オブジェクト"
+        },
+        "Object Width" : {
+            
+            "message": ""
+        },
+        "Offline" : {
+            
+            "message": "オフライン"
+        },
+        "OK" : {
+            
+            "message": "OK"
+        },
+        "On a triggering event" : {
+            
+            "message": "トリガー"
+        },
+        "On LabQuest, tap the Wi-Fi symbol" : {
+            
+            "message": "LabQuest上で，Wi-Fi記号をタップしてください"
+        },
+        "On Logger Pro, go to File -> Data Sharing" : {
+            
+            "message": "Logger Pro上で，ファイル -> データ共有に進んでください"
+        },
+        "One-point calibration" : {
+            
+            "message": "１点キャリブレーション"
+        },
+        "Open File From Your Computer" : {
+            
+            "message": "コンピュータからファイルを開く"
+        },
+        "Open Saved File" : {
+            
+            "message": "保存されたファイルを開く"
+        },
+        "Open..." : {
+            
+            "message": "開く..."
+        },
+        "or drag and drop a file into the app" : {
+            
+            "message": "または，ファイルをアプリにドラッグ＆ドロップする"
+        },
+        "Order Code" : {
+            
+            "message": "注文コード"
+        },
+        "Other / User Defined" : {
+            
+            "message": "その他/ユーザー定義"
+        },
+        "Other/User Defined: Enter the spacing and flag number as shown above. If your object is a wheel, the spacing value would be the wheel’s circumference divided by the number of spokes." : {
+            
+            "message": "その他/ユーザー定義：上記のようにスペーシングとフラグ番号を入力します。オブジェクトがホイールの場合，スペーシング値はホイールの周長をスポークの数で割った値になります。"
+        },
+        "Parameter A" : {
+            
+            "message": "パラメータA"
+        },
+        "Parameter B" : {
+            
+            "message": "パラメータB"
+        },
+        "Paste" : {
+            
+            "message": "貼り付け"
+        },
+        "Pendulum Period" : {
+            
+            "message": "振り子の周期"
+        },
+        "Perform a" : {
+            
+            "message": "実行"
+        },
+        "Photogate Timing" : {
+            
+            "message": "フォトゲートタイミング"
+        },
+        "Photogates can time objects that pass between gates or report the period of oscillation of a pendulum. The time between successive blocked events is reported as the interval time. When exactly two gates are used, both gates must be blocked before a value is reported." : {
+            
+            "message": "フォトゲートは，ゲート間を通過する物体の時間を計るか，振り子の振動の周期をリポートします。 連続する，ブロックされたイベント間の時間は，インターバル時間としてリポートされます。 正確に2つのゲートが使われる場合，値がリポートされる前に両方のゲートをブロックする必要があります。"
+        },
+        "Place a blank cuvette in the device." : {
+            
+            "message": "デバイスに空のキュベットを置いてください。"
+        },
+        "Please enter the source IP address:" : {
+            
+            "message": "送信元IPアドレスを入力してください："
+        },
+        "Plug in a Go Direct device via USB to update firmware." : {
+            
+            "message": "USB経由でGo Directデバイスを接続すると，ファームウェアを更新します。"
+        },
+        "Points" : {
+            
+            "message": "点"
+        },
+        "Prediction" : {
+            
+            "message": "予測"
+        },
+        "Prediction Title" : {
+            
+            "message": "予測タイトル"
+        },
+        "Predictions" : {
+            
+            "message": "予測"
+        },
+        "Presentation" : {
+            
+            "message": "プレゼンテーション"
+        },
+        "Primary" : {
+            
+            "message": "一次"
+        },
+        "Primary:" : {
+            
+            "message": "プライマリ："
+        },
+        "Pulse timing" : {
+            
+            "message": "パルスタイミング"
+        },
+        "radians" : {
+            
+            "message": ""
+        },
+        "Radians (rad)" : {
+            
+            "message": "ラジアン(rad)"
+        },
+        "Rate" : {
+            
+            "message": "レート"
+        },
+        "Rates exceeding 200 samples/s require a fixed duration." : {
+            
+            "message": "200サンプル/秒を超えるレートは，時間を修正する必要があります。"
+        },
+        "Recovery file found." : {
+            
+            "message": ""
+        },
+        "Relative stability reading" : {
+            
+            "message": "相対的安定の読み取り"
+        },
+        "Remove the blank cuvette from the spectrophotometer." : {
+            
+            "message": "分光光度計から空のキュベットを取り出します。"
+        },
+        "Rename" : {
+            
+            "message": "名前の変更"
+        },
+        "Rename Data Set" : {
+            
+            "message": "データセット名変更"
+        },
+        "Rename Experiment" : {
+            
+            "message": "実験名変更"
+        },
+        "Reported Reading" : {
+            
+            "message": "リポートされた読み取り"
+        },
+        "Reset to Defaults" : {
+            
+            "message": "既定値にリセット"
+        },
+        "Restart app" : {
+            
+            "message": "アプリを再起動"
+        },
+        "Restore" : {
+            
+            "message": ""
+        },
+        "Return to Graphical Analysis" : {
+            
+            "message": "Graphical Analysisに戻ります"
+        },
+        "Reverse" : {
+            
+            "message": "反比例"
+        },
+        "revolution" : {
+            
+            "message": ""
+        },
+        "Revolutions (rev)" : {
+            
+            "message": "レボリューション(rev)"
+        },
+        "Right" : {
+            
+            "message": "右"
+        },
+        "RMSE" : {
+            
+            "message": "RMSE"
+        },
+        "s" : {
+            
+            "message": "s"
+        },
+        "sample" : {
+            
+            "message": "サンプル"
+        },
+        "Sample Data" : {
+            
+            "message": "サンプルデータ"
+        },
+        "samples" : {
+            
+            "message": "サンプル"
+        },
+        "Samples" : {
+            
+            "message": "サンプル"
+        },
+        "Save" : {
+            
+            "message": "保存"
+        },
+        "Save As..." : {
+            
+            "message": "名前を付けて保存..."
+        },
+        "Save Experiment" : {
+            
+            "message": "実験を保存"
+        },
+        "Save failed" : {
+            
+            "message": "保存に失敗しました"
+        },
+        "Saved" : {
+            
+            "message": "保存された"
+        },
+        "Scale Factor" : {
+            
+            "message": "スケールファクタ"
+        },
+        "Searching for devices..." : {
+            
+            "message": "デバイスを検索しています..."
+        },
+        "Second calibration point sensor voltage must differ from the first point by at least 0.05 V." : {
+            
+            "message": "第2のキャリブレーション点のセンサ電圧は，第1の点とは少なくとも0.05V異なる必要があります。"
+        },
+        "Secondary" : {
+            
+            "message": "セカンダリ"
+        },
+        "Secondary:" : {
+            
+            "message": "セカンダリ："
+        },
+        "seconds" : {
+            
+            "message": "秒"
+        },
+        "seconds for lamp to warm up" : {
+            
+            "message": "ランプがウォームアップする秒数"
+        },
+        "Select the desired units for reporting the angular position." : {
+            
+            "message": "リポートする角度位置の単位を選択します。"
+        },
+        "Select the desired wavelength by tapping on the graph or typing in the value." : {
+            
+            "message": "グラフをタップするか，値を入力して目的の波長を選択します。"
+        },
+        "Select Trace" : {
+            
+            "message": "トレースを選択"
+        },
+        "Selected Events" : {
+            
+            "message": "値1, 2, …に対してデータ収集"
+        },
+        "Sensor Channels" : {
+            
+            "message": "センサチャンネル"
+        },
+        "Sensor Data Collection" : {
+            
+            "message": "データ収集センサ"
+        },
+        "Sensor Voltage" : {
+            
+            "message": "センサ電圧"
+        },
+        "Sensor Zeroed" : {
+            
+            "message": "センサゼロ調整"
+        },
+        "Sensors" : {
+            
+            "message": "センサ"
+        },
+        "Settings" : {
+            
+            "message": "設定"
+        },
+        "Show mid-time through gate" : {
+            
+            "message": "ゲートを通る時間を表示"
+        },
+        "Significant Figures" : {
+            
+            "message": "有効数字"
+        },
+        "Skip" : {
+            
+            "message": "スキップ"
+        },
+        "Slope" : {
+            
+            "message": "傾き"
+        },
+        "Spacing" : {
+            
+            "message": "間隔"
+        },
+        "Spacing = Circumference / Number of Spokes" : {
+            
+            "message": ""
+        },
+        "Specify source" : {
+            
+            "message": "ソースを指定"
+        },
+        "Spectral Analysis is a tool for science students to collect and analyze data from Vernier spectrophotometers, including SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>." : {
+            
+            "message": "Spectral Analysis は，次のデバイスを使ってデータを収集し，分析するツールです：Vernier spectrophotometers, SpectroVis<sup>®</sup> Plus and <a href=\"https://www.vernier.com/products/gdx-svispl/\" target=\"_blank\">Go Direct<sup>™</sup> SpectroVis<sup>®</sup> Plus</a>."
+        },
+        "Spectrometer Settings" : {
+            
+            "message": "分光器設定"
+        },
+        "Spectrometers" : {
+            
+            "message": "分光器"
+        },
+        "Spectrum" : {
+            
+            "message": "スペクトラム"
+        },
+        "Speed through Gate" : {
+            
+            "message": ""
+        },
+        "Spokes:" : {
+            
+            "message": ""
+        },
+        "Start and Stop Collection" : {
+            
+            "message": "収集スタートとストップ"
+        },
+        "Start Collection" : {
+            
+            "message": "収集スタート"
+        },
+        "Start collection when" : {
+            
+            "message": "境界値を境に収集をスタートします"
+        },
+        "Start New Experiment?" : {
+            
+            "message": "新規実験をスタートしますか？"
+        },
+        "Statistics" : {
+            
+            "message": "統計"
+        },
+        "Std dev" : {
+            
+            "message": "標準偏差"
+        },
+        "Stop" : {
+            
+            "message": "ストップ"
+        },
+        "Stop adding drops when the volume reaches between 9 mL and 10 mL." : {
+            
+            "message": "容量が9mLと10mLの間になったとき，滴の追加をやめてください。"
+        },
+        "Submit" : {
+            
+            "message": "送信"
+        },
+        "Syncing to Google Drive" : {
+            
+            "message": "Googleドライブに同期"
+        },
+        "Table" : {
+            
+            "message": "テーブル"
+        },
+        "Take reading from a sensor (e.g., pH, conductivity) on every drop." : {
+            
+            "message": "センサ (たとえば，pH，導電率) から各ドロップごとに値を読み取る。"
+        },
+        "Tangent" : {
+            
+            "message": "タンジェント"
+        },
+        "Target" : {
+            
+            "message": "ターゲット"
+        },
+        "Temporal Averaging" : {
+            
+            "message": "時間平均"
+        },
+        "The Bluetooth connection has been lost" : {
+            
+            "message": "Bluetooth接続が失われました"
+        },
+        "The firmware update failed." : {
+            
+            "message": "ファームウェア更新に失敗しました。"
+        },
+        "The Object/Flag Width is divided by the time the photogate is blocked (Blocked-Gate Duration) to determine the object’s speed through the gate." : {
+            
+            "message": "オブジェクト/フラグの幅は，フォトゲートがブロックされている時間(ブロックゲート時間)で割り算され，ゲートを通るオブジェクトのスピードを決定します。"
+        },
+        "The time a photogate is blocked is reported as Blocked-Time. The Blocked-Time can be the time since data collection started or the time since the first gate is blocked." : {
+            
+            "message": "フォトゲートがブロックされる時間はブロック時間としてリポートされます。ブロック時間には，データ収集が開始されてからの時間，または最初のゲートがブロックされてからの時間を指定できます。"
+        },
+        "The time between successive blocked events is reported as Interval." : {
+            
+            "message": "連続する，ブロックされたイベント間の時間は，インターバルとしてリポートされます。"
+        },
+        "There are no saved experiments." : {
+            
+            "message": "保存された実験はありません。"
+        },
+        "This column was automatically generated and cannot be changed" : {
+            
+            "message": "この列は自動的に作成されており，変更できません"
+        },
+        "This number defines the fraction of a turn the angular position changes with each blocked event." : {
+            
+            "message": "この数値は，ブロックされたイベントごとに角度位置が変化するターンの割合を定義します。"
+        },
+        "Time" : {
+            
+            "message": "時間"
+        },
+        "Time at each gate" : {
+            
+            "message": "各ゲートでの時間"
+        },
+        "Time Based" : {
+            
+            "message": "時間ベース"
+        },
+        "Time between gates" : {
+            
+            "message": "ゲート間の時間"
+        },
+        "Time measurements" : {
+            
+            "message": "時間測定"
+        },
+        "Time Units" : {
+            
+            "message": "時間の単位"
+        },
+        "Timer" : {
+            
+            "message": ""
+        },
+        "Timer or Period" : {
+            
+            "message": "タイマーまたは期間"
+        },
+        "Title" : {
+            
+            "message": "タイトル"
+        },
+        "to" : {
+            
+            "message": "へ"
+        },
+        "To locate the address:" : {
+            
+            "message": "アドレスを見つけるには："
+        },
+        "Too few points" : {
+            
+            "message": "点が少なすぎます"
+        },
+        "Top" : {
+            
+            "message": "上"
+        },
+        "Total samples" : {
+            
+            "message": "総サンプル数"
+        },
+        "Tutorials" : {
+            
+            "message": "チュートリアル"
+        },
+        "Two-point calibration" : {
+            
+            "message": "2点キャリブレーション"
+        },
+        "Ultra Pulley - in groove" : {
+            
+            "message": "ウルトラプーリー (溝の中)"
+        },
+        "Ultra Pulley - outside edge" : {
+            
+            "message": "ウルトラプーリー (外側の端)"
+        },
+        "Unable to connect or find a source of this name." : {
+            
+            "message": "この名前のソースに接続したり，見つけることができません。"
+        },
+        "Unable to connect to " : {
+            
+            "message": "接続できません "
+        },
+        "Unable to sync to Google Drive" : {
+            
+            "message": "Googleドライブに同期することができません"
+        },
+        "Units" : {
+            
+            "message": "単位"
+        },
+        "Untitled" : {
+            
+            "message": "無タイトル"
+        },
+        "Up to date" : {
+            
+            "message": "更新"
+        },
+        "Update All" : {
+            
+            "message": "すべて更新"
+        },
+        "Update Available" : {
+            
+            "message": "利用可能な更新"
+        },
+        "Update error" : {
+            
+            "message": "更新エラー"
+        },
+        "Update Firmware" : {
+            
+            "message": "ファームウェア更新"
+        },
+        "Update is downloading..." : {
+            
+            "message": "更新をダウンロード中..."
+        },
+        "Update will take approximately" : {
+            
+            "message": "更新にはおよそ次の時間がかかります"
+        },
+        "USB Device" : {
+            
+            "message": "USBデバイス"
+        },
+        "Use % Transmittance" : {
+            
+            "message": "％透過率を使用"
+        },
+        "Use first blocked event as time = 0" : {
+            
+            "message": "最初のブロックされたイベントをtime＝0として使用"
+        },
+        "Use gate separation" : {
+            
+            "message": "ゲート分離を使用"
+        },
+        "Use object / flag width" : {
+            
+            "message": "オブジェクト/フラグの幅を使用"
+        },
+        "Use Scientific Notation" : {
+            
+            "message": "指数表示"
+        },
+        "Use this option to investigate speed with respect to time.  The reported time is the midpoint time between the time the gate is blocked and the time the gate becomes unblocked." : {
+            
+            "message": "このオプションを使って，時間に関する速度を調べます。リポートされる時間は，ゲートがブロックされてからゲートがブロックされなくなるまでの中間の時間です。"
+        },
+        "Value must be between " : {
+            
+            "message": "値は次の値の間でなければなりません "
+        },
+        "Vernier Picket Fence" : {
+            
+            "message": "Vernierピケットフェンス"
+        },
+        "Vernier Spectrometers" : {
+            
+            "message": "Vernier分光器"
+        },
+        "Version" : {
+            
+            "message": "バージョン"
+        },
+        "Video" : {
+            
+            "message": "動画"
+        },
+        "Videos" : {
+            
+            "message": "動画"
+        },
+        "View" : {
+            
+            "message": "表示"
+        },
+        "View Integral" : {
+            
+            "message": "積分"
+        },
+        "View Statistics" : {
+            
+            "message": "統計"
+        },
+        "Voltage" : {
+            
+            "message": "電圧"
+        },
+        "vs. Concentration" : {
+            
+            "message": "vs. 濃度"
+        },
+        "vs. Time " : {
+            
+            "message": "vs. 時間 "
+        },
+        "vs. Wavelength" : {
+            
+            "message": "vs. 波長"
+        },
+        "Waiting" : {
+            
+            "message": "待機"
+        },
+        "Waiting for" : {
+            
+            "message": "待機中"
+        },
+        "Wavelength" : {
+            
+            "message": "波長"
+        },
+        "Wavelength Smoothing" : {
+            
+            "message": "波長スムージング"
+        },
+        "What's New" : {
+            
+            "message": "新着情報"
+        },
+        "When pendulum is selected, the time between every second blocked event is reported as the Period since a pendulum will block a gate three times as it completes a single swing." : {
+            
+            "message": "振り子が選択されると，振り子は1回のスイングでゲートを3回ブロックするので，各2回目のブロックの間の時間が「周期」としてリポートされます。"
+        },
+        "When using two photogates, you can use the distance between gates instead of the Object / Flag Width to calculate speed. The reported speed would be the speed between the two gates." : {
+            
+            "message": "2つのフォトゲートを使う場合，オブジェクト/フラグの幅の代わりにゲート間の距離を使ってスピードを計算できます。リポートされたスピードは，2つのゲート間のスピードです。"
+        },
+        "Windows 10 is required for wireless connection." : {
+            
+            "message": "ワイヤレス接続には，Windows 10が必要です。"
+        },
+        "Working..." : {
+            
+            "message": "作業中..."
+        },
+        "X*Y" : {
+            
+            "message": "X*Y"
+        },
+        "X+A" : {
+            
+            "message": "X+A"
+        },
+        "X-A" : {
+            
+            "message": "X-A"
+        },
+        "x-axis" : {
+            
+            "message": "x軸"
+        },
+        "x-range" : {
+            
+            "message": "xの範囲"
+        },
+        "X-Y" : {
+            
+            "message": "X-Y"
+        },
+        "y =" : {
+            
+            "message": "y ="
+        },
+        "y-axis" : {
+            
+            "message": "y軸"
+        },
+        "Zero" : {
+            
+            "message": "ゼロ化"
+        },
+        "[ x-axis ]" : {
+            
+            "message": "[x軸]"
+        },
+        "[ y-axis ]" : {
+            
+            "message": "[y軸]"
+        },
+        "Δx" : {
+            
+            "message": "Δx"
+        },
+        "Δy" : {
+            
+            "message": "Δy"
+        },
+        "√(X&sup2;+Y&sup2;+Z&sup2;)" : {
+            
+            "message": "√(X&sup2;+Y&sup2;+Z&sup2;)"
+        }
+        
+    },
+    "sensormap": {
+        "25-g Accelerometer" : {
+            
+            "message": "25-g加速度計"
+        },
+        "3-Axis Accelerometer (X)" : {
+            
+            "message": "3軸加速度計(X)"
+        },
+        "3-Axis Accelerometer (Y)" : {
+            
+            "message": "3軸加速度計(Y)"
+        },
+        "3-Axis Accelerometer (Z)" : {
+            
+            "message": "3軸加速度計(Z)"
+        },
+        "30V Voltage (+/-30V)" : {
+            
+            "message": "30V電圧 (±30V)"
+        },
+        "Absorbance" : {
+            
+            "message": "吸光度"
+        },
+        "Acceleration" : {
+            
+            "message": "加速度"
+        },
+        "Accelerometer" : {
+            
+            "message": "加速度計"
+        },
+        "Ammonium" : {
+            
+            "message": "アンモニア"
+        },
+        "Ammonium ISE" : {
+            
+            "message": "アンモニアISE"
+        },
+        "Analyzer" : {
+            
+            "message": "分析器"
+        },
+        "Anemometer" : {
+            
+            "message": "風速計"
+        },
+        "Angle" : {
+            
+            "message": "角度"
+        },
+        "Barometer" : {
+            
+            "message": "気圧計"
+        },
+        "Barometer (No Longer Sold)" : {
+            
+            "message": "バロメータ (販売終了)"
+        },
+        "Biology Gas Pressure" : {
+            
+            "message": "生物ガス圧力"
+        },
+        "Blood Pressure" : {
+            
+            "message": "血圧"
+        },
+        "Calcium" : {
+            
+            "message": "カルシウム"
+        },
+        "Calcium ISE" : {
+            
+            "message": "カルシウムISE"
+        },
+        "Charge" : {
+            
+            "message": "電荷"
+        },
+        "Charge Sensor" : {
+            
+            "message": "電荷センサ"
+        },
+        "Charge Sensor 100 nC" : {
+            
+            "message": "電荷センサ 100nC"
+        },
+        "Charge Sensor 20 nC" : {
+            
+            "message": "電荷センサ 20nC"
+        },
+        "Charge Sensor 5 nC" : {
+            
+            "message": "電荷センサ 5nC"
+        },
+        "Chloride" : {
+            
+            "message": "塩化物"
+        },
+        "Chloride ISE" : {
+            
+            "message": "塩化物ISE"
+        },
+        "CO2 Gas High" : {
+            
+            "message": "CO2ガス 高"
+        },
+        "CO2 Gas Low" : {
+            
+            "message": "CO2ガス 低"
+        },
+        "CO2 Gas Old" : {
+            
+            "message": "CO2ガス (旧タイプ)"
+        },
+        "Colorimeter" : {
+            
+            "message": "比色計"
+        },
+        "Colorimeter Old" : {
+            
+            "message": "比色計 (旧タイプ)"
+        },
+        "Conductivity" : {
+            
+            "message": "導電率"
+        },
+        "Conductivity 20000MICS" : {
+            
+            "message": "導電率 20000MICS"
+        },
+        "Conductivity 2000MICS" : {
+            
+            "message": "導電率 2000MICS"
+        },
+        "Conductivity 200MICS" : {
+            
+            "message": "導電率 200MICS"
+        },
+        "Constant Current System" : {
+            
+            "message": "定電流システム"
+        },
+        "Cuff Pressure" : {
+            
+            "message": "カフ圧力"
+        },
+        "Current" : {
+            
+            "message": "現行"
+        },
+        "Current Probe" : {
+            
+            "message": "電流計"
+        },
+        "Current Probe 1.2A" : {
+            
+            "message": "電流計 1.2A"
+        },
+        "Diastolic" : {
+            
+            "message": "拡張期"
+        },
+        "Differential Voltage" : {
+            
+            "message": "電位差"
+        },
+        "Digital Control Unit" : {
+            
+            "message": "デジタルコントロールユニット"
+        },
+        "Direct-Connect Temp" : {
+            
+            "message": "直接接続の温度"
+        },
+        "Displacement" : {
+            
+            "message": "変位"
+        },
+        "Dissolved CO2" : {
+            
+            "message": "溶存CO2"
+        },
+        "Dissolved Oxygen" : {
+            
+            "message": "溶存酸素"
+        },
+        "DO" : {
+            
+            "message": "溶存酸素"
+        },
+        "Drop Counter" : {
+            
+            "message": "ドロップカウンタ"
+        },
+        "Dual Range Force 10 N" : {
+            
+            "message": "力センサ 10N"
+        },
+        "Dual Range Force 50 N" : {
+            
+            "message": "力センサ 50N"
+        },
+        "EKG" : {
+            
+            "message": "EKG"
+        },
+        "Electrode Amplifier" : {
+            
+            "message": "電極アンプ"
+        },
+        "Energy" : {
+            
+            "message": "エネルギー"
+        },
+        "Energy Sensor Current" : {
+            
+            "message": "エネルギーセンサ 電流"
+        },
+        "Energy Sensor Voltage" : {
+            
+            "message": "エネルギーセンサ 電圧"
+        },
+        "Ethanol" : {
+            
+            "message": "エタノール"
+        },
+        "Ethanol Sensor" : {
+            
+            "message": "エタノールセンサ"
+        },
+        "Extra Long Temperature" : {
+            
+            "message": "極長温度センサ"
+        },
+        "Flow Rate" : {
+            
+            "message": "流速"
+        },
+        "Force" : {
+            
+            "message": "力"
+        },
+        "Force Plate" : {
+            
+            "message": "フォースプレート"
+        },
+        "Force Plate 3500N" : {
+            
+            "message": "フォースプレート 3500N"
+        },
+        "Force Plate 850N" : {
+            
+            "message": "フォースプレート 850N"
+        },
+        "Gas Pressure Sensor" : {
+            
+            "message": "圧力センサ"
+        },
+        "Gate State" : {
+            
+            "message": "ゲート状態"
+        },
+        "Go Wireless Electrode Amplifier" : {
+            
+            "message": "Go Wireless電極アンプ"
+        },
+        "Go Wireless Heart Rate" : {
+            
+            "message": "Go Wireless心拍数"
+        },
+        "Go Wireless pH" : {
+            
+            "message": "Go Wireless pH"
+        },
+        "Go Wireless Temp" : {
+            
+            "message": "Go Wireless温度"
+        },
+        "Go! Motion" : {
+            
+            "message": "Go! Motion"
+        },
+        "Go! Temp" : {
+            
+            "message": "Go! Temp"
+        },
+        "Goniometer" : {
+            
+            "message": "測角器"
+        },
+        "Hand Dynamometer" : {
+            
+            "message": "握力計"
+        },
+        "Heart Rate" : {
+            
+            "message": "心拍数"
+        },
+        "Heart Rate Monitor" : {
+            
+            "message": "心拍数モニタ"
+        },
+        "High Current Sensor" : {
+            
+            "message": "高電流センサ"
+        },
+        "High Sensitivity Light 1 µW" : {
+            
+            "message": "高感度光 1µW"
+        },
+        "High Sensitivity Light 10 µW" : {
+            
+            "message": "高感度光 10µW"
+        },
+        "High Sensitivity Light 100 µW" : {
+            
+            "message": "高感度光 100µW"
+        },
+        "Illumination" : {
+            
+            "message": "照度"
+        },
+        "Instrumentation Amplifier" : {
+            
+            "message": "計装アンプ"
+        },
+        "Instrumentation Amplifier +-1V" : {
+            
+            "message": "計装アンプ ±1V"
+        },
+        "Instrumentation Amplifier +-200mV" : {
+            
+            "message": "計装アンプ ±200mV"
+        },
+        "Instrumentation Amplifier +-20mV" : {
+            
+            "message": "計装アンプ ±20mV"
+        },
+        "Instrumentation Amplifier 1V" : {
+            
+            "message": "計装アンプ 1V"
+        },
+        "Instrumentation Amplifier 200mV" : {
+            
+            "message": "計装アンプ 200mV"
+        },
+        "Instrumentation Amplifier 20mV" : {
+            
+            "message": "計装アンプ 20mV"
+        },
+        "Intensity" : {
+            
+            "message": "輝度"
+        },
+        "IR Temperature Sensor" : {
+            
+            "message": "赤外線温度センサ"
+        },
+        "Irradiance" : {
+            
+            "message": "照射"
+        },
+        "Light" : {
+            
+            "message": "光"
+        },
+        "Light 150000 lux" : {
+            
+            "message": "光 150000lux"
+        },
+        "Light 600 lux" : {
+            
+            "message": "光 600lux"
+        },
+        "Light 6000 lux" : {
+            
+            "message": "光 6000lux"
+        },
+        "Light Level" : {
+            
+            "message": "光レベル"
+        },
+        "Linear Position Sensor" : {
+            
+            "message": "直線位置センサ"
+        },
+        "Low-g Accelerometer" : {
+            
+            "message": "低加速度計"
+        },
+        "Magnetic Field" : {
+            
+            "message": "磁場"
+        },
+        "Magnetic Field 0.3 mT" : {
+            
+            "message": "磁場 0.3mT"
+        },
+        "Magnetic Field 6.4 mT" : {
+            
+            "message": "磁場 6.4mT"
+        },
+        "Mean Arterial Pressure" : {
+            
+            "message": "平均動脈圧"
+        },
+        "Melt Station" : {
+            
+            "message": "メルトステーション"
+        },
+        "Microphone" : {
+            
+            "message": "音センサ"
+        },
+        "Motion" : {
+            
+            "message": "運動"
+        },
+        "Motion Detector" : {
+            
+            "message": "距離センサ"
+        },
+        "Motion Encoder Cart" : {
+            
+            "message": "運動エンコーダーカート"
+        },
+        "Nitrate" : {
+            
+            "message": "硝酸塩"
+        },
+        "Nitrate ISE" : {
+            
+            "message": "硝酸塩 ISE"
+        },
+        "Optical DO Probe %" : {
+            
+            "message": "光学溶存酸素計 %"
+        },
+        "Optical DO Probe mg/L" : {
+            
+            "message": "光学溶存酸素計 mg/L"
+        },
+        "Oxygen Gas" : {
+            
+            "message": "酸素ガス"
+        },
+        "Oxygen Gas Old" : {
+            
+            "message": "酸素ガス (旧タイプ)"
+        },
+        "PAR Sensor" : {
+            
+            "message": "PARセンサ"
+        },
+        "pH" : {
+            
+            "message": "pH"
+        },
+        "pH/mV/ORP Amplifiers" : {
+            
+            "message": "pH/mV/ORPアンプ"
+        },
+        "Photogate" : {
+            
+            "message": "フォトゲート"
+        },
+        "Platinum-Cell Conductivity" : {
+            
+            "message": "プラチナ・セル導電率"
+        },
+        "Polarimeter" : {
+            
+            "message": "偏光計"
+        },
+        "Position" : {
+            
+            "message": "位置"
+        },
+        "Potassium" : {
+            
+            "message": "カリウム"
+        },
+        "Potassium ISE" : {
+            
+            "message": "カリウムISE"
+        },
+        "Potential" : {
+            
+            "message": "電位"
+        },
+        "Power" : {
+            
+            "message": "べき乗"
+        },
+        "Power Amp Current" : {
+            
+            "message": "電源アンプ 電流"
+        },
+        "PPFD" : {
+            
+            "message": "PPFD"
+        },
+        "Pressure" : {
+            
+            "message": "圧力"
+        },
+        "Pressure Sensor (No Longer Sold)" : {
+            
+            "message": "圧力センサ (販売終了)"
+        },
+        "Pressure Sensor 400" : {
+            
+            "message": "圧力センサ400"
+        },
+        "Projectile Launcher" : {
+            
+            "message": "発射装置"
+        },
+        "Pulse" : {
+            
+            "message": "パルス"
+        },
+        "Pulse Time" : {
+            
+            "message": "パルス時間"
+        },
+        "Pyranometer" : {
+            
+            "message": "全天日射計"
+        },
+        "Radiation" : {
+            
+            "message": "放射線"
+        },
+        "Radiation Monitor" : {
+            
+            "message": "放射線モニタ"
+        },
+        "Raw Voltage (0-5V)" : {
+            
+            "message": "未調整電圧 (0-5V)"
+        },
+        "Relative Humidity" : {
+            
+            "message": "相対湿度"
+        },
+        "Resistance" : {
+            
+            "message": "抵抗"
+        },
+        "Respiration Monitor" : {
+            
+            "message": "呼吸モニタ"
+        },
+        "Respiration Rate" : {
+            
+            "message": "呼吸数"
+        },
+        "Rotary Motion" : {
+            
+            "message": "回転運動"
+        },
+        "Salinity" : {
+            
+            "message": "塩分"
+        },
+        "Signal" : {
+            
+            "message": "信号"
+        },
+        "Soil Moisture" : {
+            
+            "message": "土壌水分"
+        },
+        "Soil Moisture Sensor" : {
+            
+            "message": "土壌水分センサ"
+        },
+        "Sound Level" : {
+            
+            "message": "音量"
+        },
+        "Sound Level Sensor" : {
+            
+            "message": "音量センサ"
+        },
+        "Sound Pressure" : {
+            
+            "message": "音圧"
+        },
+        "Speed" : {
+            
+            "message": "スピード"
+        },
+        "Spirometer" : {
+            
+            "message": "肺活量計"
+        },
+        "Standard Temperature" : {
+            
+            "message": "標準温度"
+        },
+        "Student Force" : {
+            
+            "message": "力センサ"
+        },
+        "Student Radiation Monitor" : {
+            
+            "message": "放射線モニタ"
+        },
+        "Systolic" : {
+            
+            "message": "収縮期"
+        },
+        "Temperature" : {
+            
+            "message": "温度"
+        },
+        "Temperature Probe" : {
+            
+            "message": "温度計"
+        },
+        "Thermocouple" : {
+            
+            "message": "熱電対"
+        },
+        "Thermocouple Old" : {
+            
+            "message": "熱電対 (旧タイプ)"
+        },
+        "TI Light" : {
+            
+            "message": "TI光センサ"
+        },
+        "Transmittance" : {
+            
+            "message": "透過率"
+        },
+        "Turbidity" : {
+            
+            "message": "濁度"
+        },
+        "UVA Intensity" : {
+            
+            "message": "UVA強度"
+        },
+        "UVA Sensor" : {
+            
+            "message": "UVAセンサ"
+        },
+        "UVB Intensity" : {
+            
+            "message": "UVB強度"
+        },
+        "UVB Sensor" : {
+            
+            "message": "UVBセンサ"
+        },
+        "Velocity" : {
+            
+            "message": "速度"
+        },
+        "Voltage" : {
+            
+            "message": "電圧"
+        },
+        "Voltage (+/-10V)" : {
+            
+            "message": "電圧 (±10V)"
+        },
+        "Volume" : {
+            
+            "message": "ボリューム"
+        },
+        "VSMT Displacement" : {
+            
+            "message": "VSMT変位"
+        },
+        "VSMT Force" : {
+            
+            "message": "VSMT力"
+        },
+        "Wide-Range Temperature Probe" : {
+            
+            "message": "広域温度センサ"
+        },
+        "X Acceleration" : {
+            
+            "message": "X加速度"
+        },
+        "Y Acceleration" : {
+            
+            "message": "Y加速度"
+        },
+        "Z Acceleration" : {
+            
+            "message": "Z加速度"
+        },
+        "%" : {
+            
+            "message": "%"
+        },
+        "%T" : {
+            
+            "message": "%T"
+        },
+        "465 nm" : {
+            
+            "message": "465 nm"
+        },
+        "525 nm" : {
+            
+            "message": "525 nm"
+        },
+        "615 nm" : {
+            
+            "message": "615 nm"
+        },
+        "A" : {
+            
+            "message": "A"
+        },
+        "Acceleration 1" : {
+            
+            "message": "加速度1"
+        },
+        "Acceleration 1->2" : {
+            
+            "message": "加速度1->2"
+        },
+        "Acceleration 2" : {
+            
+            "message": "加速度2"
+        },
+        "Acceleration G" : {
+            
+            "message": "加速度 G"
+        },
+        "Acceleration Y" : {
+            
+            "message": "加速度 Y"
+        },
+        "Altitude" : {
+            
+            "message": "高度"
+        },
+        "Altitude one-point calibration" : {
+            
+            "message": "高度1点キャリブレーション"
+        },
+        "Amplitude" : {
+            
+            "message": "振幅"
+        },
+        "Angle (x4)" : {
+            
+            "message": "角度 (x4)"
+        },
+        "CO₂ Gas" : {
+            
+            "message": "CO₂ ガス"
+        },
+        "Cap replacement HACK" : {
+            
+            "message": "キャップ交換HACK"
+        },
+        "Conductivity - 0% TC" : {
+            
+            "message": "導電率 - 0% TC"
+        },
+        "Counts" : {
+            
+            "message": "カウント"
+        },
+        "Delta time 1" : {
+            
+            "message": "Δ時間1"
+        },
+        "Delta time 1->2" : {
+            
+            "message": "Δ時間1->2"
+        },
+        "Delta time 2" : {
+            
+            "message": "Δ時間2"
+        },
+        "Drops" : {
+            
+            "message": "滴"
+        },
+        "EMG" : {
+            
+            "message": "EMG"
+        },
+        "EMG Rectified" : {
+            
+            "message": "EMG 整流"
+        },
+        "Enter cap number" : {
+            
+            "message": "キャップ番号を入力"
+        },
+        "Enter current temperature" : {
+            
+            "message": "現在の温度を入力"
+        },
+        "Enter first known value" : {
+            
+            "message": "最初の既知の値を入力"
+        },
+        "Enter known value" : {
+            
+            "message": "既知の値を入力"
+        },
+        "Enter salinity" : {
+            
+            "message": "塩分を入力"
+        },
+        "Enter second known value" : {
+            
+            "message": "2番目の既知の値を入力"
+        },
+        "Enter third known value" : {
+            
+            "message": "3番目の既知の値を入力"
+        },
+        "Force G" : {
+            
+            "message": "力 G"
+        },
+        "Force Y" : {
+            
+            "message": "力 Y"
+        },
+        "Force one-point calibration" : {
+            
+            "message": "力1点キャリブレーション"
+        },
+        "Force two-point calibration" : {
+            
+            "message": "力2点キャリブレーション"
+        },
+        "G" : {
+            
+            "message": "G"
+        },
+        "Gate 1" : {
+            
+            "message": "ゲート1"
+        },
+        "Gate 2" : {
+            
+            "message": "ゲート2"
+        },
+        "Go Direct® 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3軸磁界センサ"
+        },
+        "Go Direct® Acceleration" : {
+            
+            "message": "Go Direct® 加速度"
+        },
+        "Go Direct® CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ガス"
+        },
+        "Go Direct® Colorimeter" : {
+            
+            "message": "Go Direct® 比色計"
+        },
+        "Go Direct® Conductivity Probe" : {
+            
+            "message": "Go Direct® 導電率計"
+        },
+        "Go Direct® Constant Current System" : {
+            
+            "message": "Go Direct® 定電流システム"
+        },
+        "Go Direct® Current Probe" : {
+            
+            "message": "Go Direct® 電流計"
+        },
+        "Go Direct® Drop Counter" : {
+            
+            "message": "Go Direct® ドロップカウンタ"
+        },
+        "Go Direct® EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct® Electrode Amplifier" : {
+            
+            "message": "Go Direct® 電極アンプ"
+        },
+        "Go Direct® Energy" : {
+            
+            "message": "Go Direct® エネルギー"
+        },
+        "Go Direct® Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® 力と加速度センサ"
+        },
+        "Go Direct® Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® 圧力センサ"
+        },
+        "Go Direct® Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct® イオン選択電極アンプ"
+        },
+        "Go Direct® Light and Color Sensor" : {
+            
+            "message": "Go Direct® 光と色センサ"
+        },
+        "Go Direct® Melt Station" : {
+            
+            "message": "Go Direct® メルトステーション"
+        },
+        "Go Direct® Motion" : {
+            
+            "message": "Go Direct® 距離センサ"
+        },
+        "Go Direct® Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® 光溶存酸素"
+        },
+        "Go Direct® O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ガス"
+        },
+        "Go Direct® Photogate" : {
+            
+            "message": "Go Direct®フォトゲート"
+        },
+        "Go Direct® Radiation Monitor" : {
+            
+            "message": "Go Direct® 放射線モニタ"
+        },
+        "Go Direct® Respiration Belt" : {
+            
+            "message": "Go Direct® 呼吸ベルト"
+        },
+        "Go Direct® Rotary Motion" : {
+            
+            "message": "Go Direct® 回転運動"
+        },
+        "Go Direct® Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® センサカート (グリーン)"
+        },
+        "Go Direct® Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® センサカート(イエロー)"
+        },
+        "Go Direct® Surface Temperature" : {
+            
+            "message": "Go Direct® 表面温度"
+        },
+        "Go Direct® Temperature Probe" : {
+            
+            "message": "Go Direct® 温度計"
+        },
+        "Go Direct® Voltage Probe" : {
+            
+            "message": "Go Direct® 電圧計"
+        },
+        "Go Direct® Wide Range Temperature" : {
+            
+            "message": "Go Direct® 広域温度"
+        },
+        "Go Direct™ 3-Axis Magnetic Field Sensor" : {
+            
+            "message": "Go Direct® 3軸磁界センサ"
+        },
+        "Go Direct™ Acceleration" : {
+            
+            "message": "Go Direct® 加速度"
+        },
+        "Go Direct™ CO₂ Gas" : {
+            
+            "message": "Go Direct® CO₂ガス"
+        },
+        "Go Direct™ Colorimeter" : {
+            
+            "message": "Go Direct® 比色計"
+        },
+        "Go Direct™ Conductivity Probe" : {
+            
+            "message": "Go Direct® 導電率計"
+        },
+        "Go Direct™ Constant Current System" : {
+            
+            "message": "Go Direct® 定電流システム"
+        },
+        "Go Direct™ Current Probe" : {
+            
+            "message": "Go Direct® 電流計"
+        },
+        "Go Direct™ Drop Counter" : {
+            
+            "message": "Go Direct® ドロップカウンタ"
+        },
+        "Go Direct™ EKG" : {
+            
+            "message": "Go Direct® EKG"
+        },
+        "Go Direct™ Electrode Amplifier" : {
+            
+            "message": "Go Direct® 電極アンプ"
+        },
+        "Go Direct™ Energy" : {
+            
+            "message": "Go Direct® エネルギー"
+        },
+        "Go Direct™ Force and Acceleration Sensor" : {
+            
+            "message": "Go Direct® 力と加速度センサ"
+        },
+        "Go Direct™ Gas Pressure Sensor" : {
+            
+            "message": "Go Direct® 圧力センサ"
+        },
+        "Go Direct™ Ion-Selective Electrode Amplifier" : {
+            
+            "message": "Go Direct®イオン選択電極アンプ"
+        },
+        "Go Direct™ Light and Color Sensor" : {
+            
+            "message": "Go Direct® 光と色センサ"
+        },
+        "Go Direct™ Melt Station" : {
+            
+            "message": "Go Direct® メルトステーション"
+        },
+        "Go Direct™ Motion" : {
+            
+            "message": "Go Direct® 距離センサ"
+        },
+        "Go Direct™ Optical Dissolved Oxygen" : {
+            
+            "message": "Go Direct® 光溶存酸素"
+        },
+        "Go Direct™ O₂ Gas" : {
+            
+            "message": "Go Direct® O₂ガス"
+        },
+        "Go Direct™ Photogate" : {
+            
+            "message": "Go Direct®フォトゲート"
+        },
+        "Go Direct™ Radiation Monitor" : {
+            
+            "message": "Go Direct® 放射線モニター"
+        },
+        "Go Direct™ Respiration Belt" : {
+            
+            "message": "Go Direct® 呼吸ベルト"
+        },
+        "Go Direct™ Rotary Motion" : {
+            
+            "message": "Go Direct® 回転運動"
+        },
+        "Go Direct™ Sensor Cart (Green)" : {
+            
+            "message": "Go Direct® センサカート (グリーン)"
+        },
+        "Go Direct™ Sensor Cart (Yellow)" : {
+            
+            "message": "Go Direct® センサカート (イエロー)"
+        },
+        "Go Direct™ Surface Temperature" : {
+            
+            "message": "Go Direct® 表面温度"
+        },
+        "Go Direct™ Temperature Probe" : {
+            
+            "message": "Go Direct® 温度計"
+        },
+        "Go Direct™ Voltage Probe" : {
+            
+            "message": "Go Direct® 電圧計"
+        },
+        "Go Direct™ Wide Range Temperature" : {
+            
+            "message": "Go Direct® 広域温度"
+        },
+        "Illuminance" : {
+            
+            "message": "照度"
+        },
+        "J" : {
+            
+            "message": "J"
+        },
+        "K" : {
+            
+            "message": "K"
+        },
+        "Laser Gate" : {
+            
+            "message": "レーザーゲート"
+        },
+        "Motion (cart)" : {
+            
+            "message": "運動 (カート)"
+        },
+        "Motion with TC" : {
+            
+            "message": "TCとの運動"
+        },
+        "N" : {
+            
+            "message": "N"
+        },
+        "N/kg" : {
+            
+            "message": "N/kg"
+        },
+        "One-point calibration" : {
+            
+            "message": "1点キャリブレーション"
+        },
+        "One-point calibration HACK" : {
+            
+            "message": "1点キャリブレーションHACK"
+        },
+        "O₂ Gas" : {
+            
+            "message": "O₂ ガス"
+        },
+        "O₂ Gas rTC" : {
+            
+            "message": "O₂ ガス rTC"
+        },
+        "Position G" : {
+            
+            "message": "位置 G"
+        },
+        "Position Y" : {
+            
+            "message": "位置 Y"
+        },
+        "Remote Gate 1" : {
+            
+            "message": "リモートゲート1"
+        },
+        "Remote Gate 2" : {
+            
+            "message": "リモートゲート2"
+        },
+        "Saline DO" : {
+            
+            "message": "生理食塩水"
+        },
+        "Salinity compensation HACK" : {
+            
+            "message": "塩分補償HACK"
+        },
+        "Saturation" : {
+            
+            "message": "飽和"
+        },
+        "Step Rate" : {
+            
+            "message": "ステップレート"
+        },
+        "Steps" : {
+            
+            "message": "ステップ"
+        },
+        "Temperature correction" : {
+            
+            "message": "温度補正"
+        },
+        "Three-point calibration" : {
+            
+            "message": "3点キャリブレーション"
+        },
+        "Two-point calibration" : {
+            
+            "message": "2点キャリブレーション"
+        },
+        "UV" : {
+            
+            "message": "UV"
+        },
+        "UV Index" : {
+            
+            "message": "UV指数"
+        },
+        "UV Intensity" : {
+            
+            "message": "UV強度"
+        },
+        "UVA" : {
+            
+            "message": "UVA"
+        },
+        "UVB" : {
+            
+            "message": "UVB"
+        },
+        "V" : {
+            
+            "message": "V"
+        },
+        "Velocity 1" : {
+            
+            "message": "速度1"
+        },
+        "Velocity 1->2" : {
+            
+            "message": "速度1->2"
+        },
+        "Velocity 2" : {
+            
+            "message": "速度2"
+        },
+        "Velocity G" : {
+            
+            "message": "速度 G"
+        },
+        "Velocity Y" : {
+            
+            "message": "速度 Y"
+        },
+        "Voltage - 1 V" : {
+            
+            "message": "電圧 - 1 V"
+        },
+        "Voltage - 20 V" : {
+            
+            "message": "電圧 - 20 V"
+        },
+        "Wait until stability reaches 100" : {
+            
+            "message": "安定度が100に達するまでお待ちください"
+        },
+        "X magnetic field" : {
+            
+            "message": "X磁場"
+        },
+        "X magnetic field 130mT" : {
+            
+            "message": "X磁場 130mT"
+        },
+        "X-angular velocity" : {
+            
+            "message": "X角速度"
+        },
+        "X-axis acceleration" : {
+            
+            "message": "X軸加速度"
+        },
+        "X-axis acceleration G" : {
+            
+            "message": "X軸加速度 G"
+        },
+        "X-axis acceleration Y" : {
+            
+            "message": "X軸加速度 Y"
+        },
+        "X-axis acceleration one-point calibration" : {
+            
+            "message": "X軸加速度 1点キャリブレーション"
+        },
+        "X-axis acceleration-high" : {
+            
+            "message": "X軸加速度-高"
+        },
+        "X-axis acceleration-high one-point calibration" : {
+            
+            "message": "X軸加速度-高 1点キャリブレーション"
+        },
+        "X-axis angular velocity" : {
+            
+            "message": "X軸角速度"
+        },
+        "X-axis gyro" : {
+            
+            "message": "X軸ジャイロ"
+        },
+        "Y magnetic field" : {
+            
+            "message": "Y磁場"
+        },
+        "Y magnetic field 130mT" : {
+            
+            "message": "Y磁場 130mT"
+        },
+        "Y-angular velocity" : {
+            
+            "message": "Y角速度"
+        },
+        "Y-axis acceleration" : {
+            
+            "message": "Y軸加速度"
+        },
+        "Y-axis acceleration G" : {
+            
+            "message": "Y軸加速度 G"
+        },
+        "Y-axis acceleration Y" : {
+            
+            "message": "Y軸加速度 Y"
+        },
+        "Y-axis acceleration one-point calibration" : {
+            
+            "message": "Y軸加速度 1点キャリブレーション"
+        },
+        "Y-axis acceleration-high" : {
+            
+            "message": "Y軸加速度-高"
+        },
+        "Y-axis acceleration-high one-point calibration" : {
+            
+            "message": "Y軸加速度-高 1点キャリブレーション"
+        },
+        "Y-axis angular velocity" : {
+            
+            "message": "Y軸角速度"
+        },
+        "Y-axis gyro" : {
+            
+            "message": "Y軸ジャイロ"
+        },
+        "Z magnetic field" : {
+            
+            "message": "Z磁場"
+        },
+        "Z magnetic field 130mT" : {
+            
+            "message": "Z磁場 130mT"
+        },
+        "Z-angular velocity" : {
+            
+            "message": "Z角速度"
+        },
+        "Z-axis acceleration" : {
+            
+            "message": "Z軸加速度"
+        },
+        "Z-axis acceleration G" : {
+            
+            "message": "Z軸加速度 G"
+        },
+        "Z-axis acceleration Y" : {
+            
+            "message": "Z軸加速度 Y"
+        },
+        "Z-axis acceleration one-point calibration" : {
+            
+            "message": "Z軸加速度 1点キャリブレーション"
+        },
+        "Z-axis acceleration-high" : {
+            
+            "message": "Z軸加速度-高"
+        },
+        "Z-axis acceleration-high one-point calibration" : {
+            
+            "message": "Z軸加速度-高 1点キャリブレーション"
+        },
+        "Z-axis angular velocity" : {
+            
+            "message": "Z軸角速度"
+        },
+        "Z-axis gyro" : {
+            
+            "message": "Z軸ジャイロ"
+        },
+        "atm" : {
+            
+            "message": "atm"
+        },
+        "bpm" : {
+            
+            "message": "bpm"
+        },
+        "dS/m" : {
+            
+            "message": "dS/m"
+        },
+        "ft" : {
+            
+            "message": "ft"
+        },
+        "g" : {
+            
+            "message": "g"
+        },
+        "inHg" : {
+            
+            "message": "inHg"
+        },
+        "kPa" : {
+            
+            "message": "kPa"
+        },
+        "lb" : {
+            
+            "message": "lb"
+        },
+        "lux" : {
+            
+            "message": "lux"
+        },
+        "m" : {
+            
+            "message": "m"
+        },
+        "m/s" : {
+            
+            "message": "m/s"
+        },
+        "m/s²" : {
+            
+            "message": "m/s²"
+        },
+        "mA" : {
+            
+            "message": "mA"
+        },
+        "mL" : {
+            
+            "message": "mL"
+        },
+        "mT" : {
+            
+            "message": "mT"
+        },
+        "mV" : {
+            
+            "message": "mV"
+        },
+        "mW" : {
+            
+            "message": "mW"
+        },
+        "mW/m²" : {
+            
+            "message": "mW/m²"
+        },
+        "mbar" : {
+            
+            "message": "mbar"
+        },
+        "mg/L" : {
+            
+            "message": "mg/L"
+        },
+        "mg/m³" : {
+            
+            "message": "mg/m³"
+        },
+        "mmHg" : {
+            
+            "message": "mmHg"
+        },
+        "ppm" : {
+            
+            "message": "ppm"
+        },
+        "ppt" : {
+            
+            "message": "ppt"
+        },
+        "psi" : {
+            
+            "message": "psi"
+        },
+        "rad" : {
+            
+            "message": "rad"
+        },
+        "rad/s" : {
+            
+            "message": "rad/s"
+        },
+        "rad/s²" : {
+            
+            "message": "rad/s²"
+        },
+        "rev" : {
+            
+            "message": "rev"
+        },
+        "spm" : {
+            
+            "message": "spm"
+        },
+        "steps" : {
+            
+            "message": "ステップ"
+        },
+        "torr" : {
+            
+            "message": "torr"
+        },
+        "°" : {
+            
+            "message": "°"
+        },
+        "°/s" : {
+            
+            "message": "°/s"
+        },
+        "°C" : {
+            
+            "message": "°C"
+        },
+        "°F" : {
+            
+            "message": "°F"
+        },
+        "µS/cm" : {
+            
+            "message": "µS/cm"
+        },
+        "Ω" : {
+            
+            "message": "Ω"
+        }
+        
+    },
+    "https://www.vernier.com/til/4118/": {
+        "Don" : {
+            
+            "message": "完了"
+        }
+        
+    },
+    "mathematical": {
+        "Inverse" : {
+            
+            "message": "反比例"
+        },
+        "Inverse Squared" : {
+            
+            "message": "反比例の2乗"
+        },
+        "Linear" : {
+            
+            "message": "1次"
+        },
+        "Modified Power" : {
+            
+            "message": "修正べき乗"
+        },
+        "Natural Exponent" : {
+            
+            "message": "e のべき乗"
+        },
+        "Natural Log" : {
+            
+            "message": "自然対数"
+        },
+        "Power" : {
+            
+            "message": "べき乗"
+        },
+        "Proportional" : {
+            
+            "message": "比例"
+        },
+        "Quadratic" : {
+            
+            "message": "2次"
+        },
+        "Slope" : {
+            
+            "message": "傾き"
+        }
+        
+    }
+}
