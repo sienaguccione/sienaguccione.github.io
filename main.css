@@ -1,6 +1,7 @@
 body {
 	background-color: yellow;
 	font-family: 'Raleway', sans-serif;
+
 font-size: 70px
 #nav ul {
 list-style-type: none;
@@ -10,5 +11,3 @@ top: 0;
 left: 0;
 overflow: hidden;
 background-color: #34495e;
-
-
