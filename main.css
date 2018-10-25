@@ -1,8 +1,14 @@
 body {
-	background-color: yellow;
+	background-color: #f1c40f;
 	font-family: 'Raleway', sans-serif;
-
-font-size: 70px
+	text-align: center;
+}
+h1{
+	font-size: 30px
+}
+p{
+	font-size: 20px
+}
 #nav ul {
 list-style-type: none;
 margin: 0;
@@ -10,4 +16,32 @@ padding: 0;
 top: 0;
 left: 0;
 overflow: hidden;
-background-color: #34495e;
+background-color: #f1c40f;
+/*height: 100%; Use for vertical bar */ 
+width: 100%; /*delete for vertical bar*/
+position: fixed; /* Make it stick, even on scroll */
+}
+
+#nav li {
+height: 40px;
+line-height: 40px;
+float: left;/*delete for vertical bar*/
+
+}
+
+#nav li a {
+display: block;
+color: #fff;
+padding: 8px 16px;
+text-decoration: none;
+
+}
+/* Change the link color to #111 (black) on hover */
+#nav li a:hover {
+background-color: #95a5a6;
+}
+
+
+
+
+
