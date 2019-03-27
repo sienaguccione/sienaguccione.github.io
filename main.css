@@ -1,5 +1,5 @@
 body {
-	background-color: #f1c40f;
+	background-color: #ecd6c7;
 	font-family: 'Raleway', sans-serif;
 	text-align: center;
 }
@@ -16,7 +16,7 @@ padding: 0;
 top: 0;
 left: 0;
 overflow: hidden;
-background-color: #f1c40f;
+background-color: #ecd6c7;
 /*height: 100%; Use for vertical bar */ 
 width: 100%; /*delete for vertical bar*/
 position: fixed; /* Make it stick, even on scroll */
